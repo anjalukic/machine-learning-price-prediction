@@ -49,8 +49,8 @@ public class MyCrawler extends WebCrawler {
     @Override
     public void visit(Page page) {
         String url = page.getWebURL().getURL();
-        System.out.println("Visited page "+url);
-        Controller.countVisited(url);
+        //System.out.println("Visited page "+url);
+        //Controller.countVisited(url);
         if (page.getParseData() instanceof HtmlParseData) {
             HtmlParseData htmlParseData = (HtmlParseData) page.getParseData();
             String html = htmlParseData.getHtml();
@@ -65,11 +65,11 @@ public class MyCrawler extends WebCrawler {
                 }
                 //System.out.println("br atributa :"+elements.size());
                 AnnotatedRow row = new AnnotatedRow();
-                row.setForSale(sale);
+                row.setForSale(sale?1:0);
                 if (url.startsWith("https://www.4zida.rs/prodaja/kuce") || url.startsWith("https://www.4zida.rs/izdavanje/kuce"))
-                    row.setPropertyType(false);
+                    row.setPropertyType(0);
                 else
-                    row.setPropertyType(true);
+                    row.setPropertyType(1);
                 for (Element element : elements) {
                     if (element.tagName().equals("div") && element.hasClass("info-item") && element.child(0).text().equals("Cena:")) {
                         row.setPrice(element.child(1).child(0).text());

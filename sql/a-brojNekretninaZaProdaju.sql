@@ -1,0 +1,1 @@
+select count(id) as 'broj nekretnina' ,forSale as 'za prodaju' from realestatecopy group by forSale

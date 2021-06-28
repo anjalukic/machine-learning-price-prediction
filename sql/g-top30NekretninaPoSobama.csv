@@ -1,0 +1,31 @@
+id,propertyType,forSale,price,location,preciseLocation,squareFootage,propertySquareFootage,yearOfBuilding,floor,totalFloors,inRegistry,heating,numberOfRooms,numberOfToilets,parking,hasElevator,hasTerrace
+16868,0,1,73000,Nis,"Okolne lokacije",260,70000,2016,NULL,NULL,NULL,NULL,56,3,1,NULL,1
+14159,0,1,890000,Beograd,"Savski Venac",500,400,1925,NULL,NULL,1,"grejanje na struju",40,15,1,NULL,1
+40217,0,1,500000,Kragujevac,"Gradske lokacije",1070,700,NULL,NULL,NULL,0,"grejanje na gas",40,NULL,1,NULL,NULL
+59264,0,1,15000,Prijepolje,"Okolne lokacije",25,NULL,2013,NULL,NULL,0,NULL,25,1,NULL,NULL,NULL
+48735,0,1,160000,Beograd,"Palilula opstina",700,NULL,2016,NULL,NULL,0,"grejanje na struju",20,NULL,1,NULL,1
+5278,0,1,4000000,Beograd,"Savski Venac",1338,1000,NULL,NULL,NULL,NULL,NULL,20,NULL,NULL,NULL,NULL
+54298,0,1,1000000,Zlatibor,"Gradske lokacije",750,1000,2015,NULL,NULL,0,"etazno grejanje",20,20,1,NULL,1
+17932,0,1,3500000,Beograd,Vracar,900,400,1921,NULL,NULL,1,"centralno grejanje",20,4,NULL,NULL,NULL
+11700,0,1,195000,Nis,"Gradske lokacije",550,400,NULL,NULL,NULL,1,"grejanje na struju",19,10,1,NULL,1
+7470,0,1,500000,Beograd,"Vozdovac opstina",600,800,2005,NULL,NULL,1,"etazno grejanje",18,6,1,NULL,1
+7126,0,0,15000,Beograd,"Savski Venac",1154,NULL,NULL,NULL,NULL,NULL,NULL,18,16,1,NULL,1
+32986,0,1,185000,Kikinda,"Gradske lokacije",510,NULL,NULL,NULL,NULL,1,"grejanje na gas",17,7,1,NULL,1
+7418,0,1,650000,Beograd,"Vozdovac opstina",635,NULL,NULL,NULL,NULL,1,NULL,17,8,1,NULL,1
+3868,0,1,1000000,Nis,"Gradske lokacije",500,NULL,2021,NULL,NULL,1,NULL,16,7,NULL,NULL,NULL
+40436,0,1,97500,Kragujevac,"Gradske lokacije",360,NULL,NULL,NULL,NULL,NULL,NULL,16,NULL,NULL,NULL,NULL
+7943,0,1,80000,Pozarevac,"Gradske lokacije",465,300,NULL,NULL,NULL,NULL,"centralno grejanje",16,NULL,NULL,NULL,NULL
+481,0,0,3000,Beograd,"Zemun opstina",900,NULL,2015,NULL,NULL,NULL,NULL,16,6,NULL,NULL,NULL
+18176,0,1,79000,Temerin,"Okolne lokacije",266,700,1990,NULL,NULL,1,"grejanje na gas",16,2,1,NULL,NULL
+2041,0,0,1000,Kragujevac,"Gradske lokacije",350,400,NULL,NULL,NULL,NULL,"grejanje na gas",15,NULL,1,NULL,1
+40512,0,1,800000,Kragujevac,"Gradske lokacije",950,500,NULL,NULL,NULL,1,NULL,15,NULL,1,NULL,1
+14128,0,1,890000,Beograd,"Savski Venac",510,500,NULL,NULL,NULL,1,"centralno grejanje",15,5,1,NULL,1
+33278,0,1,140000,Kragujevac,"Gradske lokacije",350,400,NULL,NULL,NULL,0,"grejanje na gas",15,NULL,1,NULL,1
+13778,0,1,800000,Beograd,"Cukarica opstina",520,350,NULL,NULL,NULL,1,"grejanje na gas",15,6,1,NULL,1
+7224,0,0,15000,Beograd,"Savski Venac",1154,NULL,NULL,NULL,NULL,NULL,NULL,15,8,NULL,NULL,NULL
+15849,0,1,650000,"Vrnjacka Banja","Gradske lokacije",480,594,NULL,NULL,NULL,1,NULL,15,NULL,1,NULL,NULL
+6896,0,1,500000,Beograd,"Zvezdara opstina",424,1000,2016,NULL,NULL,1,"etazno grejanje",15,5,1,NULL,1
+18131,0,1,200000,Beocin,"Gradske lokacije",600,NULL,NULL,NULL,NULL,1,"grejanje na gas",15,NULL,1,NULL,1
+13450,0,1,42000,Beograd,"Cukarica opstina",220,800,NULL,NULL,NULL,1,NULL,15,NULL,NULL,NULL,1
+14172,0,1,1500000,Beograd,"Savski Venac",1220,1200,2021,NULL,NULL,0,NULL,15,NULL,1,NULL,NULL
+15779,0,1,110000,"Vrnjacka Banja","Gradske lokacije",500,NULL,NULL,NULL,NULL,1,NULL,15,NULL,NULL,NULL,1

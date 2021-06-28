@@ -1,0 +1,1 @@
+select * from realestatecopy order by numberOfRooms desc limit 30

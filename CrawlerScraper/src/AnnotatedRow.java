@@ -1,20 +1,20 @@
 import java.util.Locale;
 
 public class AnnotatedRow {
-    private int price;
-    private boolean propertyType; // true - apt, false - house
-    private boolean forSale; // 0 - subletting, 1 - for sale
+    private int price=-1;
+    private int propertyType=-1; // 1 - apt, 0 - house, -1 - not found
+    private int forSale=-1; // 0 - subletting, 1 - for sale, -1 - not found
     private String location = ""; //city
     private String preciseLocation = ""; // neighborhood
-    private int squareFootage; // gross living area
-    private int propertySquareFootage; // only for houses (propertyType == 1)
-    private int yearOfBuilding;
-    private int floor; // only for apts (propertyType == 0)
-    private int totalFloors; // only for apts (propertyType == 0)
-    private boolean inRegistry = false;
+    private int squareFootage=-1; // gross living area
+    private int propertySquareFootage=-1; // only for houses (propertyType == 1)
+    private int yearOfBuilding=-1;
+    private int floor=-10; // only for apts (propertyType == 0)
+    private int totalFloors=-1; // only for apts (propertyType == 0)
+    private int inRegistry = -1; // 0 - no, 1 - yes, -1 - not found
     private String heating = "";
-    private double numberOfRooms;
-    private int numberOfToilets;
+    private double numberOfRooms=-1;
+    private int numberOfToilets=-1;
     private boolean parking = false;
     private boolean hasElevator = false;// only for apts (propertyType == 0)
     private boolean hasTerrace = false;// only for apts (propertyType == 0)?
@@ -38,19 +38,19 @@ public class AnnotatedRow {
         this.price = Integer.parseInt(price.replaceAll("\\D", ""));
     }
 
-    public boolean getPropertyType() {
+    public int getPropertyType() {
         return propertyType;
     }
 
-    public void setPropertyType(boolean propertyType) {
+    public void setPropertyType(int propertyType) {
         this.propertyType = propertyType;
     }
 
-    public boolean getForSale() {
+    public int getForSale() {
         return forSale;
     }
 
-    public void setForSale(boolean forSale) {
+    public void setForSale(int forSale) {
         this.forSale = forSale;
     }
 
@@ -110,11 +110,11 @@ public class AnnotatedRow {
         this.totalFloors = totalFloors;
     }
 
-    public boolean isInRegistry() {
+    public int isInRegistry() {
         return inRegistry;
     }
 
-    public void setInRegistry(boolean inRegistry) {
+    public void setInRegistry(int inRegistry) {
         this.inRegistry = inRegistry;
     }
 
@@ -166,68 +166,87 @@ public class AnnotatedRow {
         this.hasTerrace = hasTerrace;
     }
 
-    public void setAttribute(String attributeName, String value){
-        //we ignore the properties on the website which we dont have in the database
-        switch (attributeName.toLowerCase()) {
-            case "površina":
-                squareFootage = Integer.parseInt(value.replaceAll("\\D", ""));
-                break;
-            case "plac":
-                if (value.contains("m"))
-                    propertySquareFootage = Integer.parseInt(value.replaceAll("\\D", ""));
-                else
-                    propertySquareFootage = Integer.parseInt(value.replaceAll("\\D", ""))*100;
-                break;
-            case "godina izgradnje":
-                yearOfBuilding = Integer.parseInt(value.replaceAll("\\D", ""));
-                break;
-            case "spratnost":
-                String[] floors = (value.split(" ")[0]).split("\\/");
-                if (floors[0].toLowerCase().contains("prizemlje"))
-                    floor = 0;
-                else if (floors[0].toLowerCase().contains("suteren"))
-                    floor = -1;
-                else
-                    floor = Integer.parseInt(floors[0].replaceAll("\\.",""));
-                if (floors.length>1)
-                    totalFloors = Integer.parseInt(floors[1]);
-                break;
-            case "uknjiženost":
-                inRegistry = (value.toLowerCase().equals("uknjiženo") || value.toLowerCase().equals("da"))?true:false;
-                break;
-            case "grejanje":
-                heating = value;
-                break;
-            case "broj soba":
-                numberOfRooms = Double.parseDouble(value.split(" ")[0]);
-                break;
-            case "unutrašnje prostorije":
-                numberOfToilets = 0;
-                String t = value.toLowerCase();
-                if (t.contains("kupatilo"))
-                    numberOfToilets++;
-                if (t.contains("kupatila (") || t.contains("kupatila(")){
-                    numberOfToilets+=Integer.parseInt(t.split("kupatila")[1].split("\\)")[0].replaceAll("\\D", ""));
-                }
-                if (t.contains("toaleti")){
-                    numberOfToilets+=Integer.parseInt(t.split("toaleti")[1].split("\\)")[0].replaceAll("\\D", ""));
-                }
-                if (t.contains("kupatilo")){
-                    numberOfToilets++;
-                }
-                break;
-            case "parking": case "garaža":
-                parking = true;
-                break;
-            case "lift":
-                hasElevator = true;
-                break;
-            case "infrastruktura":
-                String i = value.toLowerCase();
-                if (i.contains("teras") || i.contains("lodj")
-                        || i.contains("lođ") || i.contains("balkon"))
-                    hasTerrace = true;
-                break;
+    public void setAttribute(String attributeName, String value) {
+        try{
+            //we ignore the properties on the website which we dont have in the database
+            switch (attributeName.toLowerCase()) {
+                case "površina":
+                    squareFootage = Integer.parseInt(value.replaceAll("\\D", ""));
+                    break;
+                case "plac":
+                    if (value.contains("m"))
+                        propertySquareFootage = Integer.parseInt(value.replaceAll("\\D", ""));
+                    else if (value.contains(".")) {
+                        propertySquareFootage = (int) Math.round(Double.parseDouble(value.replaceAll("[^\\d|\\.]", "")) * 100.0);
+                    } else
+                        propertySquareFootage = Integer.parseInt(value.replaceAll("\\D", "")) * 100;
+                    break;
+                case "godina izgradnje":
+                    yearOfBuilding = Integer.parseInt(value.replaceAll("\\D", ""));
+                    break;
+                case "spratnost":
+                    if (value.contains(".")){//1. sprat
+                        floor = Integer.parseInt(value.split("\\.")[0]);
+                    } else{
+                        String floor;
+                        if (value.contains("/")){// 1/4, visoko prizemlje/5
+                            String[] temp = value.split("\\/");
+                            floor = temp[0];
+                            totalFloors = Integer.parseInt(temp[1].replaceAll("\\D", ""));
+                        } else {//podrum
+                            floor = value;
+                        }
+                        if (floor.toLowerCase().contains("prizemlje"))
+                            this.floor = 0;
+                        else if (floor.toLowerCase().contains("suteren") || floor.toLowerCase().contains("podrum"))
+                            this.floor = -1;
+                        else if (floor.toLowerCase().contains("potkrovlje")) {
+                            if (totalFloors>-1)
+                                this.floor = totalFloors;
+                        } else // 4 (4/7)
+                            this.floor = Integer.parseInt(floor.replaceAll("\\D", ""));
+
+                    }
+                    break;
+                case "uknjiženost":
+                    inRegistry = (value.toLowerCase().equals("uknjiženo") || value.toLowerCase().equals("da")) ? 1 : 0;
+                    break;
+                case "grejanje":
+                    heating = value;
+                    break;
+                case "broj soba":
+                    numberOfRooms = Double.parseDouble(value.split(" ")[0]);
+                    break;
+                case "unutrašnje prostorije":
+                    numberOfToilets = 0;
+                    String t = value.toLowerCase();
+                    if (t.contains("kupatilo"))
+                        numberOfToilets++;
+                    if (t.contains("kupatila (") || t.contains("kupatila(")) {
+                        numberOfToilets += Integer.parseInt(t.split("kupatila")[1].split("\\)")[0].replaceAll("\\D", ""));
+                    }
+                    if (t.contains("toaleti")) {
+                        numberOfToilets += Integer.parseInt(t.split("toaleti")[1].split("\\)")[0].replaceAll("\\D", ""));
+                    } else if (t.contains("toalet")) {
+                        numberOfToilets++;
+                    }
+                    break;
+                case "parking":
+                case "garaža":
+                    parking = true;
+                    break;
+                case "lift":
+                    hasElevator = true;
+                    break;
+                case "infrastruktura":
+                    String i = value.toLowerCase();
+                    if (i.contains("teras") || i.contains("lodj")
+                            || i.contains("lođ") || i.contains("balkon"))
+                        hasTerrace = true;
+                    break;
+            }
+        }catch (Exception e){
+            System.err.println("Something bad happened: "+e.toString());
         }
     }
 
@@ -240,7 +259,7 @@ public class AnnotatedRow {
     }
 
     public void writeToDB(){
-        System.out.println(this.toString());
+        //System.out.println(this.toString());
         Database.addToDatabase(this);
 
     }
@@ -248,21 +267,21 @@ public class AnnotatedRow {
     @Override
     public String toString() {
         return  "price=" + price +
-                "\npropertyType=" + (propertyType?"apartment":"house") +
-                "\nforSale=" + (forSale?"for sale":"for subletting") +
+                "\npropertyType=" + (propertyType==1?"apartment":(propertyType==0?"house":"not found")) +
+                "\nforSale=" + (forSale==1?"for sale":(forSale==0?"for subletting":"not found")) +
                 "\nlocation='" + location + '\'' +
                 "\npreciseLocation='" + preciseLocation + '\'' +
                 "\nsquareFootage=" + squareFootage + " m2"+
                 "\npropertySquareFootage=" + propertySquareFootage + "m2"+
-                "\nyearOfBuilding=" + yearOfBuilding +
+                "\nyearOfBuilding=" + (yearOfBuilding==-1?"not found":yearOfBuilding) +
                 "\nfloor=" + floor +
                 "\ntotalFloors=" + totalFloors +
-                "\ninRegistry=" + (inRegistry?"yes":"no") +
+                "\ninRegistry=" + (inRegistry==1?"yes":(inRegistry==0?"no":"not found")) +
                 "\nheating='" + heating + '\'' +
                 "\nnumberOfRooms=" + numberOfRooms +
                 "\nnumberOfToilets=" + numberOfToilets +
-                "\nparking=" + (parking?"yes":"no") +
-                "\nelevator=" + (hasElevator?"yes":"no") +
-                "\nterrace=" + (hasTerrace?"yes":"no");
+                "\nparking=" + (parking?"yes":"not found") +
+                "\nelevator=" + (hasElevator?"yes":"not found") +
+                "\nterrace=" + (hasTerrace?"yes":"not found");
     }
 }

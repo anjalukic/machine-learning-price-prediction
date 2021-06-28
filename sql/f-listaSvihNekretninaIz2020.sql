@@ -1,0 +1,1 @@
+select * from realestatecopy where yearOfBuilding = 2020 order by price desc

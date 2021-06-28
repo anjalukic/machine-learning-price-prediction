@@ -1,0 +1,31 @@
+id,propertyType,forSale,price,location,preciseLocation,squareFootage,propertySquareFootage,yearOfBuilding,floor,totalFloors,inRegistry,heating,numberOfRooms,numberOfToilets,parking,hasElevator,hasTerrace
+29526,0,1,15000000,Beograd,"Savski Venac",3074,1300,2019,NULL,NULL,NULL,"podno grejanje",NULL,NULL,1,NULL,NULL
+7296,0,1,5850000,Beograd,"Savski Venac",1150,2700,NULL,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL
+17688,0,1,5500000,Beograd,"Savski Venac",1150,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL
+14314,0,1,5500000,Beograd,"Savski Venac",1500,875,NULL,NULL,NULL,1,"etazno grejanje",NULL,NULL,1,NULL,1
+277,0,1,5500000,"Kosovska Mitrovica","Okolne lokacije",1335,2400,NULL,NULL,NULL,1,"etazno grejanje",NULL,NULL,1,NULL,1
+14151,0,1,5200000,Beograd,"Savski Venac",1000,NULL,NULL,NULL,NULL,1,"etazno grejanje",10,1,1,NULL,1
+29377,0,1,5000000,Beograd,"Savski Venac",900,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL
+41658,0,1,4999999,Beograd,"Savski Venac",142,5300,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,NULL,1
+29423,0,1,4650000,Beograd,"Savski Venac",1150,2700,2008,NULL,NULL,1,"etazno grejanje",6,5,1,NULL,1
+14332,0,1,4500000,Beograd,"Savski Venac",600,5600,NULL,NULL,NULL,1,NULL,1,1,1,NULL,1
+7135,0,1,4500000,"Kosovska Mitrovica","Okolne lokacije",1150,2700,NULL,NULL,NULL,1,"etazno grejanje",NULL,NULL,1,NULL,NULL
+7327,0,1,4500000,Beograd,"Savski Venac",875,1800,2010,NULL,NULL,1,"etazno grejanje",5,NULL,NULL,NULL,1
+14293,0,1,4500000,Beograd,"Savski Venac",850,2900,NULL,NULL,NULL,1,"etazno grejanje",1,1,1,NULL,1
+29615,0,1,4100000,Beograd,"Savski Venac",780,1800,NULL,NULL,NULL,1,"etazno grejanje",10,NULL,NULL,NULL,NULL
+5278,0,1,4000000,Beograd,"Savski Venac",1338,1000,NULL,NULL,NULL,NULL,NULL,20,NULL,NULL,NULL,NULL
+29539,0,1,3990000,Beograd,"Savski Venac",800,3200,NULL,NULL,NULL,NULL,"grejanje na struju",1,1,1,NULL,1
+29454,0,1,3900000,Beograd,"Savski Venac",900,1090,2006,NULL,NULL,1,"etazno grejanje",6,6,1,NULL,1
+29642,0,1,3800000,Beograd,"Savski Venac",620,980,2008,NULL,NULL,1,"etazno grejanje",10,6,NULL,NULL,NULL
+29506,0,1,3700000,Beograd,"Savski Venac",1040,NULL,NULL,NULL,NULL,1,"grejanje na struju",5,NULL,1,NULL,1
+17932,0,1,3500000,Beograd,Vracar,900,400,1921,NULL,NULL,1,"centralno grejanje",20,4,NULL,NULL,NULL
+18034,0,1,3500000,Beograd,Vracar,815,NULL,NULL,NULL,NULL,1,"centralno grejanje",10,4,1,NULL,NULL
+41542,0,1,3500000,Beograd,"Savski Venac",831,1400,NULL,NULL,NULL,1,"etazno grejanje",5,NULL,1,NULL,1
+1473,0,1,3500000,"Novi Sad","Gradske lokacije",1500,NULL,NULL,NULL,NULL,NULL,"etazno grejanje",NULL,6,NULL,NULL,1
+52959,0,1,3500000,Secanj,"Okolne lokacije",1482,25310,NULL,NULL,NULL,NULL,"grejanje na struju",NULL,NULL,NULL,NULL,NULL
+7510,0,1,3500000,Beograd,Vracar,900,NULL,NULL,NULL,NULL,1,"centralno grejanje",NULL,NULL,1,NULL,NULL
+41592,0,1,3300000,Beograd,"Savski Venac",830,1500,2001,NULL,NULL,1,"etazno grejanje",10,NULL,1,NULL,1
+41580,0,1,3100000,Beograd,"Savski Venac",830,1238,NULL,NULL,NULL,1,NULL,10,1,NULL,NULL,1
+41587,0,1,3000000,Beograd,"Savski Venac",850,1500,NULL,NULL,NULL,1,"etazno grejanje",6,4,1,NULL,1
+41682,0,1,3000000,Beograd,"Savski Venac",850,1500,NULL,NULL,NULL,1,"centralno grejanje",NULL,NULL,1,NULL,1
+41551,0,1,3000000,Beograd,"Savski Venac",850,1500,NULL,NULL,NULL,1,"centralno grejanje",10,5,1,NULL,1
