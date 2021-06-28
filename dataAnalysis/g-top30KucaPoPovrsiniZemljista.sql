@@ -1,0 +1,1 @@
+select * from realestatecopy where propertyType = 0 order by propertySquareFootage desc limit 30

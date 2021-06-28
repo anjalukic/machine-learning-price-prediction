@@ -1,0 +1,22 @@
+[
+	{
+		"count(id)" : 2764,
+		"tip nekretnine" : 1,
+		"uknjizeno" : 0
+	},
+	{
+		"count(id)" : 23282,
+		"tip nekretnine" : 1,
+		"uknjizeno" : 1
+	},
+	{
+		"count(id)" : 8025,
+		"tip nekretnine" : 0,
+		"uknjizeno" : 1
+	},
+	{
+		"count(id)" : 801,
+		"tip nekretnine" : 0,
+		"uknjizeno" : 0
+	}
+]

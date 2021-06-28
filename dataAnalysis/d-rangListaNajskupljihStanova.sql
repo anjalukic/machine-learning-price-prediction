@@ -1,0 +1,1 @@
+select * from realestatecopy where propertyType = 1 and forSale = 1 order by price desc limit 30

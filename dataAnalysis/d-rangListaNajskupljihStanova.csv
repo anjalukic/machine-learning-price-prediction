@@ -1,0 +1,31 @@
+id,propertyType,forSale,price,location,preciseLocation,squareFootage,propertySquareFootage,yearOfBuilding,floor,totalFloors,inRegistry,heating,numberOfRooms,numberOfToilets,parking,hasElevator,hasTerrace
+46462,1,1,2500000,Beograd,"Savski Venac",650,NULL,NULL,NULL,NULL,NULL,NULL,5,1,NULL,NULL,NULL
+46700,1,1,1974500,Beograd,"Savski Venac",489,NULL,2020,3,3,1,NULL,5,4,1,1,1
+46493,1,1,1824260,Beograd,"Savski Venac",350,NULL,2020,0,2,1,"centralno grejanje",4,NULL,NULL,1,1
+14543,1,1,1699000,Beograd,Vracar,405,NULL,NULL,4,5,1,"etazno grejanje",4,4,1,1,1
+46518,1,1,1510280,Beograd,"Savski Venac",290,NULL,2020,2,2,1,"centralno grejanje",4,NULL,NULL,1,1
+45812,1,1,1500000,Beograd,"Novi Beograd",505,NULL,NULL,6,6,1,"centralno grejanje",7,NULL,1,1,1
+46186,1,1,1500000,Beograd,"Savski Venac",288,NULL,2019,0,3,NULL,NULL,4,NULL,1,1,1
+57103,1,1,1500000,Beograd,"Savski Venac",286,NULL,2018,1,3,1,"grejanje na gas",5,4,1,1,1
+56507,1,1,1500000,Beograd,"Savski Venac",289,NULL,NULL,2,3,NULL,"grejanje na gas",5,1,NULL,NULL,NULL
+33966,1,1,1500000,Beograd,Vracar,190,NULL,2021,9,9,NULL,"centralno grejanje",4,3,1,1,1
+40891,1,1,1450000,"Novi Sad","Gradske lokacije",183,NULL,2019,10,10,NULL,"centralno grejanje",4,NULL,NULL,1,1
+44189,1,1,1445000,Beograd,Vracar,557,NULL,NULL,7,8,NULL,"centralno grejanje",8,1,NULL,NULL,1
+46468,1,1,1418400,Beograd,"Savski Venac",272,NULL,2020,1,2,1,"centralno grejanje",4,NULL,NULL,1,1
+46508,1,1,1361040,Beograd,"Savski Venac",261,NULL,2020,0,2,1,"centralno grejanje",4,NULL,NULL,1,1
+46542,1,1,1359888,Beograd,"Savski Venac",162,NULL,NULL,14,4,1,"centralno grejanje",4,NULL,1,1,NULL
+53746,1,1,1359888,Beograd,"Savski Venac",162,NULL,NULL,14,42,0,"centralno grejanje",4,NULL,1,1,NULL
+55771,1,1,1359888,Beograd,"Savski Venac",161,NULL,NULL,14,NULL,NULL,NULL,5,NULL,1,1,1
+53758,1,1,1359888,Beograd,"Savski Venac",162,NULL,NULL,14,42,0,"centralno grejanje",4,NULL,1,1,NULL
+46465,1,1,1359888,Beograd,"Savski Venac",162,NULL,NULL,14,4,1,"centralno grejanje",4,NULL,1,1,NULL
+56436,1,1,1338888,Beograd,"Savski Venac",162,NULL,NULL,14,NULL,1,"centralno grejanje",5,1,1,1,NULL
+53706,1,1,1338888,Beograd,"Savski Venac",162,NULL,2021,14,42,NULL,"centralno grejanje",4,NULL,NULL,1,NULL
+59444,1,1,1338000,Beograd,"Savski Venac",162,NULL,NULL,14,42,1,"centralno grejanje",4.5,NULL,NULL,1,NULL
+53712,1,1,1312888,Beograd,"Savski Venac",156,NULL,NULL,16,42,0,"centralno grejanje",4,NULL,1,1,NULL
+46549,1,1,1312888,Beograd,"Savski Venac",156,NULL,NULL,16,4,1,"centralno grejanje",4,NULL,1,1,NULL
+41758,1,1,1300000,Beograd,Vracar,300,NULL,NULL,3,NULL,1,"podno grejanje",4,NULL,1,1,1
+51472,1,1,1292888,Beograd,"Savski Venac",156,NULL,2021,16,42,NULL,"centralno grejanje",4,NULL,NULL,1,NULL
+46492,1,1,1263888,Beograd,"Savski Venac",161,NULL,NULL,14,4,1,"centralno grejanje",4,NULL,1,1,NULL
+53751,1,1,1263888,Beograd,"Savski Venac",151,NULL,NULL,14,42,0,"centralno grejanje",4,NULL,1,1,NULL
+23830,1,1,1260000,Beograd,"Stari Grad opstina",315,NULL,NULL,4,5,1,"centralno grejanje",6.5,1,NULL,1,NULL
+23916,1,1,1260000,Beograd,"Stari Grad opstina",315,NULL,NULL,4,4,1,"centralno grejanje",8,NULL,NULL,1,1

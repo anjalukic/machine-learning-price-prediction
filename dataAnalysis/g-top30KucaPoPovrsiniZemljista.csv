@@ -1,0 +1,31 @@
+id,propertyType,forSale,price,location,preciseLocation,squareFootage,propertySquareFootage,yearOfBuilding,floor,totalFloors,inRegistry,heating,numberOfRooms,numberOfToilets,parking,hasElevator,hasTerrace
+1029,0,1,270000,Ruma,"Gradske lokacije",258,10000000,2012,NULL,NULL,1,"centralno grejanje",NULL,1,1,NULL,1
+43446,0,1,45000,Beograd,"Obrenovac opstina",59,2220000,1980,NULL,NULL,NULL,NULL,2,NULL,NULL,NULL,NULL
+3271,0,1,55000,"Stara Pazova","Okolne lokacije",147,2100000,2021,NULL,NULL,1,NULL,6,4,1,NULL,1
+5309,0,1,206500,Subotica,"Okolne lokacije",99,1652000,NULL,NULL,NULL,NULL,NULL,3,1,1,NULL,NULL
+43956,0,1,87550,Kikinda,"Okolne lokacije",464,1500000,NULL,NULL,NULL,1,"grejanje na gas",NULL,6,NULL,NULL,NULL
+1738,0,1,179000,Beocin,"Okolne lokacije",44,1350000,NULL,NULL,NULL,1,"grejanje na struju",2,1,1,NULL,1
+912,0,1,60000,Ruma,"Gradske lokacije",125,1300000,1990,NULL,NULL,1,"grejanje na gas",3,3,1,NULL,NULL
+53423,0,1,78600,Jagodina,"Okolne lokacije",113,1160000,NULL,NULL,NULL,1,"centralno grejanje",NULL,NULL,1,NULL,1
+42285,0,1,32000,Zrenjanin,"Gradske lokacije",100,1100000,NULL,NULL,NULL,NULL,NULL,NULL,1,NULL,NULL,1
+17003,0,1,27000,Nis,"Okolne lokacije",99,1000000,NULL,NULL,NULL,1,NULL,6,NULL,NULL,NULL,NULL
+55709,0,1,40000,"Smederevska Palanka","Gradske lokacije",250,1000000,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL,NULL,NULL
+48736,0,1,38500,Beograd,"Sopot opstina",88,1000000,NULL,NULL,NULL,1,NULL,3,NULL,NULL,NULL,NULL
+2051,0,0,15,"Fruska Gora",NULL,60,920000,NULL,NULL,NULL,NULL,NULL,2,2,1,NULL,1
+18146,0,1,160000,Temerin,"Gradske lokacije",165,800000,NULL,NULL,NULL,1,"centralno grejanje",7,2,1,NULL,1
+10725,0,1,165000,"Novi Sad","Okolne lokacije",230,750000,NULL,NULL,NULL,0,NULL,NULL,2,NULL,NULL,NULL
+16364,0,1,230000,Subotica,"Gradske lokacije",247,750000,2007,NULL,NULL,0,NULL,4,2,NULL,NULL,1
+6062,0,1,119000,Subotica,"Okolne lokacije",355,750000,2010,NULL,NULL,1,"centralno grejanje",5,5,1,NULL,1
+1907,0,1,242050,Subotica,"Gradske lokacije",241,742300,NULL,NULL,NULL,1,"etazno grejanje",4,2,1,NULL,1
+52923,0,1,206000,"Sremski Karlovci","Gradske lokacije",157,615000,NULL,NULL,NULL,1,"norveski radijatori",3,NULL,1,NULL,1
+43750,0,1,40000,Vrbas,"Okolne lokacije",120,600000,NULL,NULL,NULL,1,NULL,NULL,NULL,NULL,NULL,NULL
+32401,0,1,40000,Vrbas,"Okolne lokacije",120,600000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+19061,0,1,18000,Subotica,"Gradske lokacije",100,588000,NULL,NULL,NULL,NULL,NULL,4,2,NULL,NULL,NULL
+7248,0,1,18000,Subotica,"Gradske lokacije",100,588000,NULL,NULL,NULL,NULL,NULL,4,2,NULL,NULL,NULL
+8525,0,1,115000,Subotica,"Gradske lokacije",240,560000,NULL,NULL,NULL,NULL,NULL,6,2,1,NULL,NULL
+17729,0,1,65000,Sabac,"Gradske lokacije",124,546400,NULL,NULL,NULL,1,NULL,3,1,NULL,NULL,NULL
+5353,0,1,110000,Subotica,"Okolne lokacije",131,483600,NULL,NULL,NULL,1,"centralno grejanje",NULL,NULL,NULL,NULL,1
+33341,0,1,303850,Irig,"Gradske lokacije",360,450000,NULL,NULL,NULL,1,NULL,7,NULL,1,NULL,1
+33298,0,1,312000,Irig,"Gradske lokacije",360,450000,2014,NULL,NULL,1,"etazno grejanje",6,8,1,NULL,1
+17652,0,1,11000,"Nova Crnja","Okolne lokacije",210,447000,NULL,NULL,NULL,1,"grejanje na gas",NULL,2,NULL,NULL,NULL
+3315,0,1,350000,"Stara Pazova","Okolne lokacije",400,440000,1989,NULL,NULL,1,NULL,6,3,1,NULL,1

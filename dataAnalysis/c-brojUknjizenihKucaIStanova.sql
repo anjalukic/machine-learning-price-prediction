@@ -1,0 +1,1 @@
+select count(id), propertyType as 'tip nekretnine', inRegistry as 'uknjizeno' from realestatecopy where inRegistry is not null group by inRegistry,propertyType

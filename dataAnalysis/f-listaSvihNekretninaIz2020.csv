@@ -1,0 +1,1882 @@
+id,propertyType,forSale,price,location,preciseLocation,squareFootage,propertySquareFootage,yearOfBuilding,floor,totalFloors,inRegistry,heating,numberOfRooms,numberOfToilets,parking,hasElevator,hasTerrace
+46700,1,1,1974500,Beograd,"Savski Venac",489,NULL,2020,3,3,1,NULL,5,4,1,1,1
+46493,1,1,1824260,Beograd,"Savski Venac",350,NULL,2020,0,2,1,"centralno grejanje",4,NULL,NULL,1,1
+46518,1,1,1510280,Beograd,"Savski Venac",290,NULL,2020,2,2,1,"centralno grejanje",4,NULL,NULL,1,1
+46468,1,1,1418400,Beograd,"Savski Venac",272,NULL,2020,1,2,1,"centralno grejanje",4,NULL,NULL,1,1
+46508,1,1,1361040,Beograd,"Savski Venac",261,NULL,2020,0,2,1,"centralno grejanje",4,NULL,NULL,1,1
+11350,0,1,1280000,"Novi Sad","Gradske lokacije",272,NULL,2020,NULL,NULL,NULL,"grejanje na gas",NULL,NULL,NULL,NULL,NULL
+46392,1,1,960888,Beograd,"Savski Venac",172,NULL,2020,17,17,0,"centralno grejanje",5,NULL,1,1,1
+46388,1,1,955888,Beograd,"Savski Venac",203,NULL,2020,17,17,0,"centralno grejanje",5,NULL,1,1,1
+36491,1,1,850000,Beograd,"Savski Venac",260,NULL,2020,0,3,1,"grejanje na gas",4,1,1,1,1
+46616,1,1,816400,Beograd,"Savski Venac",152,NULL,2020,2,3,1,NULL,4,3,NULL,1,1
+44339,1,1,684500,Beograd,Vracar,185,NULL,2020,4,6,NULL,NULL,4,3,1,NULL,1
+22490,1,1,656888,Beograd,"Savski Venac",136,NULL,2020,4,17,0,"centralno grejanje",4,NULL,1,1,1
+46194,1,1,656850,Beograd,"Savski Venac",227,NULL,2020,2,2,NULL,NULL,4,NULL,1,1,1
+49524,1,1,600440,Beograd,Vracar,177,NULL,2020,3,8,NULL,"centralno grejanje",5,NULL,1,1,1
+51360,1,1,553888,Beograd,"Savski Venac",74,NULL,2020,30,NULL,NULL,"centralno grejanje",2,3,NULL,1,1
+44214,1,1,539000,Beograd,Vracar,154,NULL,2020,4,4,1,NULL,3,2,1,NULL,1
+46018,1,1,520000,Beograd,"Savski Venac",138,NULL,2020,2,3,1,"podno grejanje",4,NULL,1,1,1
+33617,1,1,504000,Beograd,Vracar,126,NULL,2020,1,5,1,NULL,4,2,NULL,1,NULL
+44392,1,1,504000,Beograd,Vracar,132,NULL,2020,2,4,1,NULL,4,2,NULL,NULL,NULL
+22938,1,1,500000,Beograd,Vracar,125,NULL,2020,2,5,1,NULL,4,3,1,1,1
+44412,1,1,500000,Beograd,Vracar,125,NULL,2020,2,5,1,NULL,4,2,NULL,1,1
+47929,1,1,500000,Subotica,"Gradske lokacije",282,NULL,2020,6,6,1,"grejanje na gas",5,3,1,1,1
+10302,1,1,499000,Beograd,"Stari Grad opstina",160,NULL,2020,3,8,1,"centralno grejanje",4,3,1,1,NULL
+2876,1,1,483900,"Novi Sad","Gradske lokacije",204,NULL,2020,2,2,NULL,NULL,4,NULL,NULL,1,1
+44398,1,1,480000,Beograd,Vracar,133,NULL,2020,1,4,1,NULL,4,2,NULL,NULL,NULL
+51678,1,1,479888,Beograd,"Savski Venac",140,NULL,2020,12,14,0,"centralno grejanje",4,NULL,1,1,1
+59475,1,1,473220,Beograd,"Zemun opstina",239,NULL,2020,2,2,NULL,"etazno grejanje",5,NULL,NULL,1,1
+59171,1,1,471240,Beograd,"Zemun opstina",238,NULL,2020,2,2,NULL,NULL,5,NULL,1,1,1
+21620,1,1,467500,Beograd,"Stari Grad opstina",169,NULL,2020,6,6,NULL,"etazno grejanje",4,NULL,1,1,1
+44602,1,1,465640,Beograd,Vracar,133,NULL,2020,2,3,1,NULL,4,2,NULL,NULL,NULL
+24640,0,1,465000,"Novi Sad","Gradske lokacije",350,NULL,2020,NULL,NULL,NULL,"grejanje na gas",NULL,NULL,NULL,NULL,NULL
+10305,1,1,464000,Beograd,"Palilula opstina",160,NULL,2020,4,6,0,NULL,5,NULL,NULL,NULL,NULL
+47198,1,1,461218,Beograd,Vracar,149,NULL,2020,3,5,NULL,"centralno grejanje",5,NULL,1,1,1
+44492,1,1,460000,Beograd,Vracar,170,NULL,2020,4,4,1,"centralno grejanje",4,NULL,1,1,1
+46041,1,1,451000,Beograd,"Savski Venac",209,NULL,2020,4,4,1,NULL,4,NULL,1,1,1
+23025,1,1,450000,Beograd,"Palilula opstina",180,NULL,2020,6,6,1,"centralno grejanje",5,4,1,1,1
+19507,1,1,449000,Beograd,Vracar,130,NULL,2020,2,4,1,NULL,4,3,1,1,1
+36601,1,1,437400,Beograd,"Palilula opstina",162,NULL,2020,4,5,0,NULL,4,NULL,NULL,NULL,1
+34154,1,1,422940,Beograd,Vracar,121,NULL,2020,6,8,NULL,"centralno grejanje",4,NULL,1,1,1
+53510,1,1,420888,Beograd,"Savski Venac",144,NULL,2020,13,21,NULL,"centralno grejanje",3,NULL,1,1,1
+21520,1,1,420000,Beograd,"Stari Grad opstina",120,NULL,2020,5,9,NULL,"centralno grejanje",4,3,1,1,1
+23531,1,1,419900,Beograd,"Stari Grad opstina",120,NULL,2020,5,9,1,"centralno grejanje",4,NULL,1,1,NULL
+58550,1,1,416000,Beograd,"Stari Grad opstina",160,NULL,2020,5,6,1,"centralno grejanje",5,2,NULL,1,1
+44455,1,1,403000,Beograd,Vracar,130,NULL,2020,3,5,NULL,"centralno grejanje",4,NULL,1,1,1
+33540,1,1,401700,"Novi Sad","Gradske lokacije",190,NULL,2020,1,2,NULL,"grejanje na gas",4,NULL,NULL,NULL,1
+45868,1,1,399958,Beograd,"Palilula opstina",153,NULL,2020,6,6,NULL,NULL,5,4,NULL,NULL,1
+34193,1,1,399000,Beograd,Vracar,114,NULL,2020,4,8,NULL,"centralno grejanje",4,NULL,1,1,1
+49417,1,1,398000,Beograd,"Vozdovac opstina",175,NULL,2020,5,5,1,"etazno grejanje",4.5,NULL,1,1,1
+29486,1,1,390000,Beograd,"Vozdovac opstina",150,NULL,2020,3,3,1,"podno grejanje",5,2,1,1,1
+46374,1,1,387888,Beograd,"Savski Venac",119,NULL,2020,23,23,0,"centralno grejanje",4,NULL,1,1,1
+2872,1,1,384000,"Novi Sad","Gradske lokacije",136,NULL,2020,13,14,1,NULL,4,NULL,1,1,1
+36110,1,1,382888,Beograd,"Savski Venac",123,NULL,2020,15,23,NULL,"centralno grejanje",3,1,NULL,1,1
+56518,1,1,380011,Beograd,"Savski Venac",183,NULL,2020,4,4,1,NULL,5,4,1,NULL,1
+10177,1,1,380000,Beograd,"Savski Venac",183,NULL,2020,3,4,1,NULL,5,NULL,1,1,1
+44393,1,1,378840,Beograd,Vracar,123,NULL,2020,3,5,NULL,"centralno grejanje",4,NULL,1,1,1
+50295,1,1,378840,Beograd,Vracar,123,NULL,2020,3,5,NULL,"centralno grejanje",3.5,NULL,1,1,1
+46431,1,1,370888,Beograd,"Savski Venac",110,NULL,2020,17,19,0,"centralno grejanje",4,NULL,1,1,1
+2164,0,1,365000,"Novi Sad","Gradske lokacije",168,39500,2020,NULL,NULL,1,"podno grejanje",5,3,1,NULL,1
+46632,1,1,364000,Beograd,"Savski Venac",130,NULL,2020,1,2,0,NULL,3,NULL,1,1,1
+36303,1,1,360500,"Novi Sad","Gradske lokacije",139,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+44112,1,1,357420,Beograd,Vracar,102,NULL,2020,1,3,1,NULL,3,1,NULL,NULL,NULL
+46319,1,1,355000,Beograd,"Savski Venac",93,NULL,2020,1,5,0,"centralno grejanje",3,NULL,1,1,1
+2427,1,1,351000,Beograd,"Stari Grad opstina",117,NULL,2020,3,5,0,"podno grejanje",4,3,1,1,1
+7478,1,1,350000,Beograd,"Vozdovac opstina",178,NULL,2020,1,3,1,"etazno grejanje",6.5,2,NULL,1,1
+8295,1,1,350000,Beograd,Vracar,127,NULL,2020,5,5,1,"centralno grejanje",4,1,1,1,1
+33785,1,1,350000,Beograd,Vracar,127,NULL,2020,4,6,1,"centralno grejanje",4,3,NULL,1,1
+41572,1,1,350000,Beograd,"Vozdovac opstina",112,NULL,2020,1,4,1,"grejanje na struju",4,NULL,1,1,1
+8331,1,1,349250,Beograd,Vracar,127,NULL,2020,4,5,1,"centralno grejanje",4,1,1,1,1
+51475,1,1,341011,Beograd,"Savski Venac",131,NULL,2020,2,4,1,NULL,4,3,NULL,NULL,1
+44151,1,1,341000,Beograd,Vracar,154,NULL,2020,6,7,NULL,"centralno grejanje",5,NULL,1,1,1
+46265,1,1,341000,Beograd,"Savski Venac",131,NULL,2020,2,4,1,NULL,4,NULL,1,1,1
+46402,1,1,338888,Beograd,"Savski Venac",119,NULL,2020,11,23,0,"centralno grejanje",4,NULL,1,1,1
+36502,1,1,337500,Beograd,"Savski Venac",132,NULL,2020,3,4,NULL,NULL,4,3,1,NULL,1
+36512,1,1,331000,Beograd,"Savski Venac",131,NULL,2020,2,4,NULL,NULL,4,3,1,NULL,1
+41874,1,1,330000,Beograd,Vracar,150,NULL,2020,6,6,1,"centralno grejanje",5,NULL,1,1,1
+44318,1,1,320300,Beograd,Vracar,128,NULL,2020,5,5,0,"centralno grejanje",3,NULL,1,1,1
+21573,1,1,318980,Beograd,"Savski Venac",132,NULL,2020,4,4,1,NULL,4,NULL,1,1,NULL
+44473,1,1,318725,Beograd,Vracar,128,NULL,2020,4,5,0,"centralno grejanje",4,NULL,1,1,1
+41604,1,1,318000,Beograd,"Vozdovac opstina",99,NULL,2020,2,2,NULL,NULL,4,NULL,1,1,1
+53502,1,1,313888,Beograd,"Savski Venac",111,NULL,2020,9,21,NULL,"centralno grejanje",3,NULL,1,1,1
+35673,1,1,310000,Beograd,"Palilula opstina",193,NULL,2020,7,7,1,"centralno grejanje",4,5,NULL,1,1
+41609,1,1,308750,Beograd,"Vozdovac opstina",136,NULL,2020,5,5,1,"etazno grejanje",3,NULL,1,1,1
+36523,1,1,305000,Beograd,"Savski Venac",132,NULL,2020,1,NULL,NULL,NULL,4,3,1,NULL,1
+21680,1,1,294250,Beograd,"Stari Grad opstina",107,NULL,2020,6,6,0,"centralno grejanje",4,3,1,1,1
+46540,1,1,291537,Beograd,"Savski Venac",100,NULL,2020,1,NULL,1,"centralno grejanje",3,NULL,1,1,1
+21694,1,1,289000,Beograd,"Stari Grad opstina",95,NULL,2020,8,8,0,"centralno grejanje",4,NULL,1,1,1
+25064,1,1,289000,Beograd,"Stari Grad opstina",95,NULL,2020,8,8,NULL,"centralno grejanje",4,NULL,1,1,1
+1082,0,1,288400,"Novi Sad","Gradske lokacije",68,38400,2020,NULL,NULL,1,"grejanje na gas",4,2,NULL,NULL,1
+4733,0,1,288400,"Novi Sad","Gradske lokacije",125,390,2020,NULL,NULL,NULL,"grejanje na gas",4,NULL,1,NULL,1
+44211,1,1,288300,Beograd,Vracar,95,NULL,2020,3,5,NULL,"centralno grejanje",3,NULL,1,1,1
+53594,1,1,285888,Beograd,"Savski Venac",87,NULL,2020,8,14,0,"centralno grejanje",3,NULL,1,1,1
+54856,1,1,285000,Beograd,"Savski Venac",83,NULL,2020,9,17,0,"centralno grejanje",3,NULL,1,1,1
+8938,1,1,282450,Beograd,Vracar,109,NULL,2020,2,7,0,"centralno grejanje",4,NULL,1,1,1
+35836,1,1,280000,Beograd,"Palilula opstina",159,NULL,2020,3,3,1,NULL,3,2,NULL,NULL,NULL
+35961,1,1,280000,Beograd,"Palilula opstina",159,NULL,2020,3,3,1,"podno grejanje",3,NULL,1,1,1
+36527,1,1,277200,Beograd,"Savski Venac",126,NULL,2020,NULL,NULL,NULL,NULL,4,3,1,NULL,1
+59453,1,1,277200,"Novi Sad","Gradske lokacije",117,NULL,2020,1,2,NULL,NULL,5,NULL,NULL,NULL,1
+46146,1,1,276888,Beograd,"Savski Venac",92,NULL,2020,6,19,0,"centralno grejanje",3,NULL,1,1,1
+44291,1,1,273471,Beograd,Vracar,82,NULL,2020,0,3,1,NULL,3,2,NULL,NULL,NULL
+45921,1,1,270112,Beograd,"Novi Beograd",86,NULL,2020,2,10,NULL,"centralno grejanje",3,NULL,NULL,1,1
+35933,1,1,264000,Beograd,"Savski Venac",83,NULL,2020,9,17,NULL,"centralno grejanje",2,NULL,1,1,1
+23887,1,1,259000,Beograd,"Stari Grad opstina",84,NULL,2020,5,5,1,"grejanje na struju",3,NULL,NULL,1,1
+8016,1,1,255208,Beograd,Vracar,88,NULL,2020,5,9,0,"centralno grejanje",3,1,1,1,1
+32803,1,1,254000,Beograd,"Vozdovac opstina",127,NULL,2020,NULL,NULL,NULL,"centralno grejanje",4,2,NULL,1,NULL
+37126,1,1,252500,Beograd,"Palilula opstina",75,NULL,2020,1,4,NULL,"etazno grejanje",3,NULL,1,1,1
+51316,1,1,252500,Beograd,"Novi Beograd",101,NULL,2020,8,10,1,NULL,3,NULL,NULL,NULL,1
+59168,1,1,251750,Beograd,"Zemun opstina",145,NULL,2020,2,2,NULL,NULL,5,NULL,1,1,1
+56886,1,1,250800,Beograd,Vracar,95,NULL,2020,2,4,0,"centralno grejanje",4,NULL,1,1,1
+33749,1,1,250000,Beograd,Vracar,95,NULL,2020,2,4,0,"centralno grejanje",4,NULL,1,1,1
+44295,1,1,250000,Beograd,Vracar,95,NULL,2020,1,3,NULL,"centralno grejanje",4,NULL,1,1,1
+60722,1,1,250000,Irig,"Gradske lokacije",111,NULL,2020,1,1,1,"grejanje na gas",4,NULL,1,NULL,1
+60728,1,1,250000,Irig,"Gradske lokacije",110,NULL,2020,0,1,1,"grejanje na gas",4,NULL,1,NULL,1
+22530,1,1,249900,Beograd,"Novi Beograd",115,NULL,2020,3,4,NULL,"centralno grejanje",4,NULL,1,1,1
+22542,1,1,249900,Beograd,"Novi Beograd",115,NULL,2020,2,4,NULL,"centralno grejanje",4,NULL,1,1,1
+21574,1,1,249100,Beograd,"Stari Grad opstina",94,NULL,2020,1,6,NULL,"etazno grejanje",4,NULL,1,1,1
+32559,1,1,248000,Beograd,"Vozdovac opstina",124,NULL,2020,2,5,NULL,"centralno grejanje",4,2,NULL,1,NULL
+17781,1,1,247500,Beograd,"Vozdovac opstina",115,NULL,2020,0,5,NULL,"centralno grejanje",4,NULL,1,1,1
+3554,1,1,247220,Beograd,"Zvezdara opstina",94,NULL,2020,5,7,1,"podno grejanje",4,1,1,1,1
+2969,1,1,245050,"Novi Sad","Gradske lokacije",118,NULL,2020,1,2,NULL,NULL,4,NULL,NULL,1,1
+51383,1,1,244888,Beograd,"Savski Venac",88,NULL,2020,2,23,0,"centralno grejanje",3,NULL,1,1,1
+54467,1,1,243320,Beograd,Vracar,79,NULL,2020,2,5,NULL,"centralno grejanje",3,NULL,1,1,1
+33816,1,1,243000,Beograd,Vracar,92,NULL,2020,1,4,0,"centralno grejanje",4,NULL,1,1,1
+44321,1,1,242900,Beograd,Vracar,92,NULL,2020,1,3,NULL,"centralno grejanje",4,NULL,1,1,1
+56891,1,1,242900,Beograd,Vracar,92,NULL,2020,4,4,0,"centralno grejanje",4,NULL,1,1,1
+52047,1,1,242095,"Novi Sad","Gradske lokacije",138,NULL,2020,0,5,NULL,"grejanje na gas",2,1,NULL,1,NULL
+24265,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,2,2,NULL,NULL,4,NULL,1,NULL,1
+24386,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,1,3,1,"centralno grejanje",4,NULL,1,1,1
+24526,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,0,2,NULL,NULL,4,NULL,1,NULL,1
+24532,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,1,2,NULL,NULL,4,NULL,1,NULL,1
+26299,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,0,2,NULL,"centralno grejanje",4,NULL,NULL,1,1
+26303,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,0,2,NULL,"centralno grejanje",4,NULL,NULL,1,1
+26311,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,1,2,NULL,"centralno grejanje",4,NULL,NULL,1,1
+26317,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,1,2,NULL,"centralno grejanje",4,NULL,NULL,1,1
+26333,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,2,2,NULL,"centralno grejanje",4,NULL,NULL,1,1
+26343,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,0,2,NULL,"centralno grejanje",4,NULL,NULL,1,1
+26352,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,2,2,NULL,"centralno grejanje",4,NULL,NULL,1,1
+26357,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,2,2,NULL,"centralno grejanje",4,NULL,NULL,1,1
+26362,1,1,242050,"Novi Sad","Gradske lokacije",127,NULL,2020,1,2,NULL,"centralno grejanje",4,NULL,NULL,1,1
+38001,0,1,242000,"Novi Sad","Gradske lokacije",154,NULL,2020,NULL,NULL,NULL,"grejanje na gas",NULL,NULL,NULL,NULL,NULL
+51584,1,1,239200,"Novi Sad","Gradske lokacije",116,NULL,2020,5,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+33509,1,1,239000,Beograd,Vracar,95,NULL,2020,4,5,0,NULL,4,NULL,NULL,NULL,1
+46059,1,1,236900,Beograd,"Savski Venac",59,NULL,2020,2,5,1,"centralno grejanje",2,1,1,1,NULL
+37095,1,1,235600,Beograd,"Palilula opstina",70,NULL,2020,1,4,NULL,"etazno grejanje",3,NULL,1,1,1
+44280,1,1,235400,Beograd,Vracar,95,NULL,2020,1,4,0,"centralno grejanje",4,NULL,NULL,NULL,1
+10920,1,1,235000,Beograd,"Cukarica opstina",102,NULL,2020,2,4,1,NULL,4,NULL,1,1,1
+10947,1,1,235000,Beograd,"Cukarica opstina",102000,NULL,2020,2,4,1,"grejanje na gas",3.5,NULL,NULL,1,NULL
+21106,1,1,235000,Beograd,"Cukarica opstina",103,NULL,2020,2,4,1,"grejanje na gas",3.5,2,NULL,1,1
+22512,1,1,235000,Beograd,"Cukarica opstina",102,NULL,2020,2,4,1,"centralno grejanje",4,NULL,1,1,1
+2883,1,1,234500,"Novi Sad","Gradske lokacije",99,NULL,2020,0,2,1,NULL,4,NULL,NULL,1,1
+25149,1,1,233650,"Novi Sad","Gradske lokacije",98,NULL,2020,0,2,NULL,NULL,3.5,NULL,NULL,1,1
+49320,1,1,231750,"Novi Sad","Gradske lokacije",76,NULL,2020,7,NULL,1,"centralno grejanje",3,NULL,NULL,1,1
+50902,1,1,230550,Beograd,"Zemun opstina",136,NULL,2020,2,2,NULL,NULL,4,NULL,1,1,1
+17332,0,1,230000,Kragujevac,"Gradske lokacije",275,500,2020,NULL,NULL,1,"podno grejanje",9,3,1,NULL,1
+22387,1,1,230000,Beograd,"Savski Venac",60,NULL,2020,2,5,NULL,"centralno grejanje",2,NULL,1,1,NULL
+29590,1,1,230000,Beograd,"Vozdovac opstina",94,NULL,2020,3,6,1,NULL,3,2,1,1,1
+54819,1,1,229888,Beograd,"Savski Venac",79,NULL,2020,2,24,0,"centralno grejanje",3,NULL,1,1,1
+36052,1,1,229000,Beograd,"Vozdovac opstina",107,NULL,2020,5,5,NULL,"podno grejanje",2.5,NULL,1,1,1
+44534,1,1,228200,Beograd,Vracar,95,NULL,2020,1,4,0,NULL,4,2,NULL,NULL,1
+44574,1,1,228200,Beograd,Vracar,95,NULL,2020,2,4,0,NULL,4,2,NULL,NULL,1
+44531,1,1,228000,Beograd,Vracar,95,NULL,2020,2,4,0,"centralno grejanje",4,NULL,1,1,1
+44545,1,1,228000,Beograd,Vracar,95,NULL,2020,1,4,0,"centralno grejanje",4,NULL,1,1,1
+55432,1,1,228000,Beograd,Vracar,95,NULL,2020,1,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+44290,1,1,225500,Beograd,Vracar,82,NULL,2020,1,3,NULL,NULL,2.5,1,1,1,1
+50894,1,1,222950,Beograd,"Zemun opstina",91,NULL,2020,1,2,NULL,NULL,4,NULL,1,1,1
+36705,1,1,222750,Beograd,"Palilula opstina",82,NULL,2020,1,5,0,NULL,3,2,NULL,NULL,NULL
+33948,1,1,221760,Beograd,Vracar,96,NULL,2020,0,7,NULL,NULL,4,NULL,NULL,1,NULL
+44501,1,1,221500,Beograd,Vracar,92,NULL,2020,1,4,0,NULL,4,2,NULL,NULL,1
+44571,1,1,221500,Beograd,Vracar,92,NULL,2020,0,4,0,NULL,4,2,NULL,NULL,1
+37256,1,1,221000,Beograd,"Stari Grad opstina",82,NULL,2020,3,6,1,"centralno grejanje",3.5,2,NULL,1,1
+22331,1,1,220888,Beograd,"Savski Venac",82,NULL,2020,1,21,NULL,"centralno grejanje",2,1,NULL,1,1
+20435,1,1,220800,"Novi Sad","Gradske lokacije",134,NULL,2020,6,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+3544,1,1,220000,Beograd,"Zvezdara opstina",85,NULL,2020,0,7,1,"podno grejanje",4,2,1,1,1
+25395,1,1,220000,Beograd,"Zvezdara opstina",85,NULL,2020,0,6,1,"podno grejanje",4,2,1,1,1
+29599,1,1,220000,Beograd,"Vozdovac opstina",80,NULL,2020,0,6,1,NULL,3,2,1,1,1
+21798,1,1,215000,Beograd,"Stari Grad opstina",78,NULL,2020,3,6,1,"centralno grejanje",2,1,NULL,1,NULL
+21830,1,1,215000,Beograd,"Stari Grad opstina",78,NULL,2020,4,6,1,"centralno grejanje",2,1,NULL,1,NULL
+21846,1,1,215000,Beograd,"Stari Grad opstina",78,NULL,2020,2,6,1,"centralno grejanje",2,1,NULL,1,NULL
+21859,1,1,215000,Beograd,"Stari Grad opstina",78,NULL,2020,1,6,1,"centralno grejanje",2,1,NULL,1,NULL
+51244,1,1,215000,Beograd,"Novi Beograd",76,NULL,2020,4,7,NULL,"centralno grejanje",3,NULL,NULL,1,1
+51598,1,1,210900,"Novi Sad","Gradske lokacije",128,NULL,2020,3,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+34126,1,1,210048,Beograd,Vracar,88,NULL,2020,6,7,NULL,"centralno grejanje",4,NULL,1,1,1
+3425,1,1,210000,Beograd,"Zvezdara opstina",105,NULL,2020,1,6,1,"etazno grejanje",4,NULL,1,1,1
+36066,1,1,210000,Beograd,"Stari Grad opstina",78,NULL,2020,2,6,NULL,"centralno grejanje",3,NULL,1,1,1
+59045,1,1,210000,Beograd,"Vozdovac opstina",74,NULL,2020,0,6,1,NULL,3,2,1,1,1
+46681,1,1,209600,"Novi Sad","Gradske lokacije",113,NULL,2020,3,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+60616,1,1,209500,"Novi Sad","Gradske lokacije",123,NULL,2020,0,2,NULL,"grejanje na gas",5,NULL,NULL,NULL,NULL
+44274,1,1,207500,Beograd,Vracar,83,NULL,2020,4,4,NULL,"centralno grejanje",3,1,NULL,1,1
+37364,1,1,207000,"Novi Sad","Gradske lokacije",118,NULL,2020,1,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+41782,1,1,205000,Beograd,"Vozdovac opstina",101,NULL,2020,4,5,1,NULL,4,NULL,1,NULL,1
+60857,1,1,203900,"Novi Sad","Gradske lokacije",120,NULL,2020,0,4,NULL,"grejanje na gas",5,NULL,NULL,1,1
+42598,1,1,203000,"Novi Sad","Gradske lokacije",112,NULL,2020,0,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+16314,1,1,202200,"Novi Sad","Gradske lokacije",85,NULL,2020,4,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+34095,1,1,201300,Beograd,Vracar,87,NULL,2020,5,7,NULL,"centralno grejanje",4,NULL,1,1,1
+46241,1,1,201300,Beograd,"Savski Venac",122,NULL,2020,NULL,NULL,NULL,NULL,3,2,1,NULL,1
+15189,1,1,200700,"Novi Sad","Gradske lokacije",143,NULL,2020,0,2,NULL,NULL,4,NULL,1,NULL,1
+6811,0,1,200000,"Novi Sad","Gradske lokacije",144,400,2020,NULL,NULL,1,"grejanje na gas",4,2,1,NULL,1
+10063,1,1,200000,Beograd,"Savski Venac",53,NULL,2020,14,19,0,NULL,2,NULL,1,NULL,1
+32784,1,1,200000,Beograd,"Vozdovac opstina",100,NULL,2020,2,5,NULL,"centralno grejanje",4,2,NULL,1,NULL
+61070,1,1,200000,Golubac,"Okolne lokacije",200,NULL,2020,2,2,1,NULL,4,8,1,NULL,1
+55933,1,1,199820,"Novi Sad","Gradske lokacije",91,NULL,2020,3,5,1,"centralno grejanje",4,NULL,NULL,1,1
+37070,1,1,198898,Beograd,"Palilula opstina",75,NULL,2020,3,6,NULL,NULL,3,NULL,1,1,NULL
+36252,1,1,198612,Beograd,"Stari Grad opstina",73,NULL,2020,1,7,NULL,"centralno grejanje",3,2,NULL,NULL,1
+14383,1,1,198000,Beograd,Vracar,63,NULL,2020,1,5,1,NULL,2,1,NULL,NULL,1
+33738,1,1,197600,Beograd,Vracar,80,NULL,2020,0,3,NULL,"centralno grejanje",2,1,NULL,NULL,NULL
+33960,1,1,197600,Beograd,Vracar,104,NULL,2020,4,4,1,"centralno grejanje",4,NULL,NULL,1,1
+16083,1,1,196200,"Novi Sad","Gradske lokacije",87,NULL,2020,3,4,NULL,"centralno grejanje",3.5,2,NULL,1,1
+31207,1,1,196200,"Novi Sad","Gradske lokacije",87,NULL,2020,4,4,NULL,"centralno grejanje",4,2,NULL,1,1
+29190,1,1,195700,"Novi Sad","Gradske lokacije",74,NULL,2020,2,11,1,"centralno grejanje",3,1,1,1,1
+35907,1,1,195000,Beograd,"Vozdovac opstina",92,NULL,2020,1,4,1,NULL,4,2,NULL,NULL,NULL
+51380,1,1,195000,Beograd,"Novi Beograd",89,NULL,2020,3,10,NULL,"centralno grejanje",3,2,1,1,NULL
+60698,1,1,194900,"Novi Sad","Gradske lokacije",111,NULL,2020,0,2,NULL,"grejanje na gas",5,NULL,NULL,1,1
+8035,1,1,194554,Beograd,Vracar,69,NULL,2020,1,9,0,"centralno grejanje",2.5,2,1,1,1
+8070,1,1,194554,Beograd,Vracar,69,NULL,2020,3,9,0,"centralno grejanje",2,1,1,1,NULL
+37003,1,1,194425,Beograd,Vracar,56,NULL,2020,6,8,NULL,"centralno grejanje",2,NULL,1,1,1
+44296,1,1,194200,Beograd,Vracar,88,NULL,2020,8,11,NULL,NULL,3,NULL,1,1,1
+44301,1,1,194200,Beograd,Vracar,88,NULL,2020,1,11,NULL,NULL,3,NULL,1,1,1
+33956,1,1,194040,Beograd,Vracar,84,NULL,2020,1,4,NULL,"etazno grejanje",4,NULL,NULL,1,1
+37019,1,1,193900,Beograd,"Palilula opstina",74,NULL,2020,3,3,0,"podno grejanje",3,NULL,1,1,1
+20521,1,1,192000,"Novi Sad","Gradske lokacije",100,NULL,2020,6,6,NULL,"grejanje na gas",4,NULL,NULL,1,1
+46666,1,1,191900,"Novi Sad","Gradske lokacije",103,NULL,2020,1,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+46246,1,1,191200,Beograd,"Savski Venac",79,NULL,2020,2,NULL,NULL,NULL,3,2,1,NULL,1
+35212,1,1,191180,Beograd,"Savski Venac",79,NULL,2020,2,4,1,NULL,3,NULL,NULL,1,1
+49625,1,1,191000,Beograd,Vracar,83,NULL,2020,2,5,NULL,"centralno grejanje",4,NULL,1,1,NULL
+43463,1,1,190674,Beograd,"Vozdovac opstina",87,NULL,2020,3,6,0,"centralno grejanje",3,NULL,NULL,1,1
+53565,1,1,190000,Beograd,"Novi Beograd",61,NULL,2020,1,9,0,"centralno grejanje",2,NULL,NULL,1,1
+33357,1,1,188628,Beograd,Vracar,86,NULL,2020,1,6,0,"centralno grejanje",4,NULL,NULL,1,1
+50888,1,1,188400,Beograd,"Zemun opstina",79,NULL,2020,1,2,NULL,NULL,4,NULL,1,1,1
+17772,1,1,188000,Beograd,"Vozdovac opstina",127,NULL,2020,3,3,1,"etazno grejanje",5,NULL,NULL,NULL,1
+51386,1,1,188000,Beograd,"Novi Beograd",86,NULL,2020,2,10,NULL,"centralno grejanje",3,2,1,1,NULL
+29608,1,1,187850,Beograd,"Vozdovac opstina",83,NULL,2020,1,5,1,"etazno grejanje",3,NULL,1,1,1
+29637,1,1,187850,Beograd,"Vozdovac opstina",83,NULL,2020,3,5,1,"etazno grejanje",3,NULL,1,1,1
+29813,1,1,187850,Beograd,"Vozdovac opstina",83,NULL,2020,2,5,1,"etazno grejanje",3,NULL,1,1,1
+29858,1,1,187850,Beograd,"Vozdovac opstina",83,NULL,2020,4,5,1,"etazno grejanje",3,NULL,1,1,1
+47704,1,1,187500,"Novi Sad","Gradske lokacije",107,NULL,2020,3,3,NULL,"centralno grejanje",5,NULL,NULL,1,1
+20548,1,1,187200,"Novi Sad","Gradske lokacije",97,NULL,2020,6,6,NULL,"grejanje na gas",4,NULL,NULL,1,1
+51418,1,1,186888,Beograd,"Savski Venac",54,NULL,2020,22,24,NULL,"centralno grejanje",2,1,NULL,1,1
+51442,1,1,186888,Beograd,"Savski Venac",55,NULL,2020,22,23,NULL,"centralno grejanje",2,3,NULL,1,1
+20288,1,1,185400,"Novi Sad","Gradske lokacije",91,NULL,2020,4,4,NULL,"centralno grejanje",4,1,1,1,1
+33682,1,1,185400,"Novi Sad","Gradske lokacije",96,NULL,2020,3,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+33830,1,1,185200,"Novi Sad","Gradske lokacije",106,NULL,2020,4,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+14365,1,1,185000,Beograd,"Vozdovac opstina",90,NULL,2020,6,6,1,"etazno grejanje",3.5,NULL,NULL,1,1
+22179,1,1,185000,Beograd,"Savski Venac",55,NULL,2020,3,23,1,"centralno grejanje",2,NULL,1,1,1
+33418,1,1,185000,Beograd,Vracar,73,NULL,2020,0,3,NULL,"centralno grejanje",3,NULL,NULL,1,1
+34131,1,1,184968,Beograd,Vracar,84,NULL,2020,6,7,NULL,"centralno grejanje",4,NULL,1,1,1
+44256,1,1,183600,Beograd,Vracar,73,NULL,2020,0,7,NULL,"centralno grejanje",3,NULL,1,1,NULL
+45066,1,1,182700,"Novi Sad","Gradske lokacije",126,NULL,2020,4,5,NULL,NULL,5,NULL,NULL,1,1
+44343,1,1,182500,Beograd,Vracar,73,NULL,2020,2,4,NULL,"centralno grejanje",3,2,NULL,1,1
+18727,1,1,182000,Beograd,Vracar,87,NULL,2020,5,6,0,"centralno grejanje",3.5,NULL,1,1,1
+29840,1,1,181650,Beograd,"Vozdovac opstina",80,NULL,2020,0,5,1,"etazno grejanje",3,NULL,1,1,1
+33165,1,1,181000,Beograd,Vracar,75,NULL,2020,1,5,0,NULL,3,NULL,NULL,NULL,1
+33233,1,1,181000,Beograd,Vracar,75,NULL,2020,2,5,0,NULL,3,NULL,NULL,NULL,1
+46229,1,1,181000,Beograd,"Savski Venac",78,NULL,2020,4,4,NULL,NULL,3,2,1,NULL,1
+8013,1,1,180125,Beograd,Vracar,65,NULL,2020,1,9,0,"centralno grejanje",2,1,1,1,1
+8029,1,1,180125,Beograd,Vracar,65,NULL,2020,3,9,0,"centralno grejanje",2,1,1,1,1
+8054,1,1,180125,Beograd,Vracar,66,NULL,2020,6,9,0,"centralno grejanje",2,1,1,1,1
+8059,1,1,180125,Beograd,Vracar,65,NULL,2020,4,9,0,"centralno grejanje",2,1,1,1,1
+32714,1,1,180000,Beograd,"Vozdovac opstina",100,NULL,2020,7,9,0,"etazno grejanje",4,NULL,1,1,1
+35334,1,1,180000,Beograd,"Novi Beograd",61,NULL,2020,1,5,0,"centralno grejanje",2,NULL,NULL,1,1
+35506,1,1,180000,Beograd,"Novi Beograd",61,NULL,2020,1,9,1,"centralno grejanje",2,NULL,1,1,1
+51191,1,1,180000,Beograd,"Novi Beograd",61,NULL,2020,1,9,1,"centralno grejanje",2,NULL,NULL,1,1
+60835,1,1,180000,Beograd,"Novi Beograd",61,NULL,2020,1,8,NULL,"centralno grejanje",2,1,NULL,NULL,1
+37334,1,1,179220,"Novi Sad","Gradske lokacije",116,NULL,2020,0,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+26004,1,1,178750,Beograd,"Zvezdara opstina",65,NULL,2020,2,8,NULL,"etazno grejanje",2,1,NULL,1,1
+16417,1,1,178200,"Novi Sad","Gradske lokacije",85,NULL,2020,3,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+53519,1,1,178000,Beograd,"Novi Beograd",81,NULL,2020,2,10,NULL,"centralno grejanje",2.5,2,1,1,NULL
+45889,1,1,177710,Beograd,"Palilula opstina",68,NULL,2020,6,6,NULL,NULL,1.5,2,NULL,NULL,1
+2299,1,1,176900,"Novi Sad","Gradske lokacije",132,NULL,2020,3,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+46250,1,1,176888,Beograd,"Savski Venac",54,NULL,2020,12,24,1,NULL,1,1,1,NULL,1
+32867,1,1,176651,Beograd,"Vozdovac opstina",96,NULL,2020,5,5,0,"centralno grejanje",3,NULL,1,1,1
+42663,1,1,176000,"Novi Sad","Gradske lokacije",86,NULL,2020,0,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+49979,1,1,175350,"Novi Sad","Gradske lokacije",106,NULL,2020,4,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+45760,1,1,175000,Beograd,"Novi Beograd",60,NULL,2020,3,7,1,NULL,2,1,NULL,NULL,NULL
+22597,1,1,174900,Beograd,"Novi Beograd",83,NULL,2020,2,4,NULL,"centralno grejanje",4,NULL,1,1,1
+22548,1,1,174400,Beograd,"Novi Beograd",83,NULL,2020,3,4,NULL,"centralno grejanje",4,NULL,1,1,1
+37275,1,1,174000,"Novi Sad","Gradske lokacije",99,NULL,2020,1,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+43290,1,1,174000,Beograd,"Vozdovac opstina",87,NULL,2020,3,NULL,NULL,"centralno grejanje",3,2,NULL,1,NULL
+37312,1,1,173500,"Novi Sad","Gradske lokacije",133,NULL,2020,3,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+31067,1,1,173150,"Novi Sad","Gradske lokacije",87,NULL,2020,3,4,1,NULL,4,NULL,NULL,1,1
+33704,1,1,173100,Beograd,Vracar,86,NULL,2020,6,7,NULL,NULL,4,2,1,NULL,NULL
+36877,1,1,172900,Beograd,"Palilula opstina",66,NULL,2020,3,3,0,"podno grejanje",3,NULL,1,1,1
+51382,1,1,172888,Beograd,"Savski Venac",57,NULL,2020,2,14,0,"centralno grejanje",2,NULL,1,1,1
+44320,1,1,172500,Beograd,Vracar,69,NULL,2020,0,4,NULL,"centralno grejanje",3,2,NULL,1,NULL
+24109,1,1,172000,Beograd,"Stari Grad opstina",59,NULL,2020,2,6,0,NULL,3,NULL,1,1,NULL
+29732,1,1,172000,Beograd,"Vozdovac opstina",82,NULL,2020,4,5,1,"norveski radijatori",4,NULL,NULL,1,1
+36010,1,1,172000,Beograd,"Stari Grad opstina",59,NULL,2020,2,6,0,NULL,3,NULL,NULL,NULL,1
+36078,1,1,172000,Beograd,"Stari Grad opstina",60,NULL,2020,2,6,0,"centralno grejanje",3,NULL,1,1,1
+36238,1,1,172000,Beograd,"Stari Grad opstina",60,NULL,2020,2,6,0,"etazno grejanje",3,1,1,1,1
+445,1,1,171560,Beograd,"Cukarica opstina",86,NULL,2020,2,5,1,NULL,3,NULL,1,1,1
+8044,1,1,171300,Beograd,Vracar,75,NULL,2020,1,5,0,"grejanje na struju",3,2,1,1,1
+49530,1,1,171030,"Novi Sad","Gradske lokacije",123,NULL,2020,2,2,NULL,"grejanje na gas",4.5,NULL,NULL,1,1
+38481,1,1,171000,"Novi Sad","Gradske lokacije",97,NULL,2020,3,3,NULL,"centralno grejanje",4,NULL,NULL,1,1
+44159,1,1,170940,Beograd,Vracar,74,NULL,2020,2,7,NULL,NULL,3,NULL,NULL,1,NULL
+44164,1,1,170940,Beograd,Vracar,74,NULL,2020,1,7,NULL,NULL,3,NULL,NULL,1,NULL
+21180,1,1,170000,Beograd,"Zemun opstina",68,NULL,2020,3,7,NULL,"etazno grejanje",3,1,NULL,1,1
+21377,1,1,170000,Beograd,"Zemun opstina",68,NULL,2020,3,7,NULL,NULL,3,NULL,NULL,NULL,NULL
+26326,1,1,170000,Beograd,"Zvezdara opstina",83,NULL,2020,6,NULL,0,"grejanje na struju",4,2,NULL,1,1
+31828,1,1,170000,Beograd,"Vozdovac opstina",84,NULL,2020,2,3,0,"grejanje na gas",3,NULL,1,1,1
+35169,1,1,170000,Beograd,"Zemun opstina",68,NULL,2020,3,7,0,"centralno grejanje",3,NULL,1,1,1
+35922,1,1,170000,Beograd,"Savski Venac",55,NULL,2020,16,23,0,"centralno grejanje",2,NULL,1,1,1
+45250,1,1,170000,Beograd,"Zemun opstina",68,NULL,2020,3,8,0,"centralno grejanje",3,NULL,NULL,NULL,1
+10445,1,1,169400,Beograd,Vracar,70,NULL,2020,1,6,NULL,"etazno grejanje",3,2,1,NULL,1
+53466,1,1,169200,Beograd,"Zemun opstina",73,NULL,2020,1,2,NULL,NULL,4,NULL,1,1,1
+3366,1,1,169000,Beograd,"Zvezdara opstina",75,NULL,2020,3,5,1,"centralno grejanje",3,2,1,1,1
+33535,1,1,169000,Beograd,Vracar,67,NULL,2020,1,6,NULL,"centralno grejanje",3,1,1,1,1
+31185,1,1,168760,"Novi Sad","Gradske lokacije",75,NULL,2020,2,4,1,NULL,4,NULL,NULL,1,1
+17853,1,1,168300,Beograd,"Vozdovac opstina",78,NULL,2020,2,5,0,"etazno grejanje",2.5,NULL,1,1,1
+13462,1,1,167700,"Novi Sad","Gradske lokacije",74,NULL,2020,2,10,1,"centralno grejanje",3,2,1,1,1
+44247,1,1,167200,Beograd,Vracar,72,NULL,2020,2,7,NULL,"centralno grejanje",3,NULL,1,1,1
+48679,1,1,167150,"Novi Sad","Gradske lokacije",92,NULL,2020,1,5,NULL,"centralno grejanje",4,NULL,NULL,1,1
+53487,1,1,167000,Beograd,"Zemun opstina",86,NULL,2020,0,3,1,"etazno grejanje",4,NULL,NULL,NULL,1
+28817,1,1,166750,"Novi Sad","Gradske lokacije",87,NULL,2020,3,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+22279,1,1,165888,Beograd,"Savski Venac",55,NULL,2020,1,16,NULL,"centralno grejanje",2,1,NULL,1,1
+36069,1,1,165730,Beograd,"Vozdovac opstina",77,NULL,2020,1,5,NULL,"centralno grejanje",2.5,NULL,1,1,1
+53536,1,1,165700,Beograd,"Novi Beograd",76,NULL,2020,4,10,NULL,"centralno grejanje",2.5,2,1,1,NULL
+49551,1,1,165110,Beograd,"Vozdovac opstina",79,NULL,2020,5,7,NULL,"etazno grejanje",3.5,NULL,1,1,1
+27020,1,1,165000,Kragujevac,"Gradske lokacije",136,NULL,2020,4,NULL,1,NULL,4,5,1,1,1
+29621,1,1,165000,Beograd,"Vozdovac opstina",78,NULL,2020,2,5,0,"etazno grejanje",3,NULL,1,1,1
+32586,1,1,165000,Beograd,"Vozdovac opstina",78,NULL,2020,2,5,0,"etazno grejanje",3,NULL,1,1,1
+2781,1,1,164200,Beograd,"Cukarica opstina",83,NULL,2020,1,5,0,NULL,4,NULL,1,1,1
+37720,1,1,164000,"Novi Sad","Gradske lokacije",95,NULL,2020,1,2,NULL,"grejanje na gas",4,NULL,NULL,NULL,NULL
+32562,1,1,163250,Beograd,"Vozdovac opstina",72,NULL,2020,0,5,1,"etazno grejanje",2,NULL,1,1,1
+34482,1,1,163160,"Novi Sad","Gradske lokacije",84,NULL,2020,NULL,NULL,NULL,"grejanje na gas",4,2,NULL,1,NULL
+47554,1,1,162700,"Novi Sad","Gradske lokacije",83,NULL,2020,3,3,NULL,"centralno grejanje",4,NULL,NULL,1,1
+47599,1,1,162700,"Novi Sad","Gradske lokacije",83,NULL,2020,3,3,NULL,"centralno grejanje",4,NULL,NULL,1,1
+16055,1,1,162000,"Novi Sad","Gradske lokacije",75,NULL,2020,2,4,NULL,"centralno grejanje",3.5,2,NULL,1,1
+16150,1,1,162000,"Novi Sad","Gradske lokacije",75,NULL,2020,1,4,NULL,"centralno grejanje",3.5,2,NULL,1,1
+38470,1,1,162000,"Novi Sad","Gradske lokacije",87,NULL,2020,1,3,NULL,"centralno grejanje",3,NULL,NULL,1,1
+38518,1,1,162000,"Novi Sad","Gradske lokacije",87,NULL,2020,2,3,NULL,"centralno grejanje",3,NULL,NULL,1,1
+41829,1,1,161800,"Novi Sad","Gradske lokacije",122,NULL,2020,2,2,NULL,"grejanje na gas",4,NULL,NULL,NULL,NULL
+42621,1,1,161800,"Novi Sad","Gradske lokacije",84,NULL,2020,3,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+42673,1,1,161800,"Novi Sad","Gradske lokacije",84,NULL,2020,2,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+56313,1,1,161250,"Novi Sad","Gradske lokacije",125,NULL,2020,6,6,NULL,"centralno grejanje",5,NULL,NULL,1,1
+18351,1,1,161000,Beograd,Vracar,70,NULL,2020,1,6,0,"centralno grejanje",3,2,1,1,1
+46675,1,1,160700,"Novi Sad","Gradske lokacije",86,NULL,2020,3,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+47643,1,1,160500,"Novi Sad","Gradske lokacije",82,NULL,2020,1,3,NULL,"centralno grejanje",4,NULL,NULL,1,1
+47637,1,1,160400,"Novi Sad","Gradske lokacije",82,NULL,2020,1,3,NULL,"centralno grejanje",4,NULL,NULL,1,1
+17322,0,1,160000,"Novi Sad","Okolne lokacije",250,500,2020,NULL,NULL,1,"grejanje na gas",5,3,1,NULL,1
+51132,1,1,159740,Beograd,"Novi Beograd",57,NULL,2020,0,10,NULL,"centralno grejanje",2,NULL,NULL,1,1
+10475,1,1,159650,"Novi Sad","Gradske lokacije",99,NULL,2020,1,2,1,"grejanje na gas",4,NULL,NULL,NULL,1
+50551,1,1,159600,Beograd,Vracar,56,NULL,2020,0,7,0,"centralno grejanje",2,NULL,NULL,1,1
+29576,1,1,157440,Beograd,"Vozdovac opstina",82,NULL,2020,2,4,NULL,"centralno grejanje",3.5,2,NULL,1,1
+23066,1,1,157000,Beograd,"Stari Grad opstina",45,NULL,2020,1,5,0,"centralno grejanje",1,NULL,1,1,NULL
+33808,1,1,156820,"Novi Sad","Gradske lokacije",105,NULL,2020,1,2,NULL,"grejanje na gas",4,NULL,1,NULL,1
+25956,1,1,156299,Beograd,"Zvezdara opstina",55,NULL,2020,6,8,NULL,"etazno grejanje",2,1,NULL,1,1
+2224,1,1,156000,"Novi Sad","Gradske lokacije",156,NULL,2020,4,5,1,"centralno grejanje",6,NULL,NULL,1,1
+49507,1,1,155800,Beograd,"Vozdovac opstina",82,NULL,2020,5,5,1,"norveski radijatori",4,2,NULL,1,1
+18699,0,1,155000,Irig,"Okolne lokacije",80,NULL,2020,NULL,NULL,NULL,"grejanje na struju",NULL,NULL,NULL,NULL,NULL
+22645,1,1,154900,Beograd,"Novi Beograd",71,NULL,2020,1,4,NULL,"centralno grejanje",2.5,NULL,1,1,1
+6666,0,1,154500,"Novi Sad","Gradske lokacije",126,22100,2020,NULL,NULL,1,"grejanje na gas",3,NULL,1,NULL,1
+23710,1,1,154500,"Novi Sad","Gradske lokacije",79,NULL,2020,2,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+47448,1,1,154500,"Novi Sad","Gradske lokacije",80,NULL,2020,2,3,1,"centralno grejanje",3,NULL,NULL,1,1
+41822,1,1,154350,"Novi Sad","Gradske lokacije",111,NULL,2020,2,2,NULL,"grejanje na gas",4,NULL,NULL,1,1
+33647,1,1,153550,"Novi Sad","Gradske lokacije",99,NULL,2020,3,3,NULL,"grejanje na gas",4,NULL,NULL,1,NULL
+31168,1,1,153000,"Novi Sad","Gradske lokacije",75,NULL,2020,2,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+31239,1,1,153000,"Novi Sad","Gradske lokacije",75,NULL,2020,1,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+38500,1,1,153000,"Novi Sad","Gradske lokacije",87,NULL,2020,3,3,NULL,"centralno grejanje",3,NULL,NULL,1,1
+51570,1,1,153000,"Novi Sad","Gradske lokacije",103,NULL,2020,3,4,1,"grejanje na gas",4,NULL,NULL,1,1
+5842,1,1,152910,"Novi Sad","Gradske lokacije",98,NULL,2020,3,3,NULL,"grejanje na gas",3,2,1,1,1
+26235,1,1,151300,Beograd,"Zvezdara opstina",89,NULL,2020,0,3,NULL,"etazno grejanje",3.5,2,1,1,1
+32706,1,1,151200,Beograd,"Vozdovac opstina",84,NULL,2020,7,9,0,"centralno grejanje",4,NULL,1,1,1
+32746,1,1,151200,Beograd,"Vozdovac opstina",84,NULL,2020,7,9,0,"centralno grejanje",4,NULL,1,1,NULL
+58750,1,1,150400,Zlatibor,"Gradske lokacije",77,NULL,2020,3,3,NULL,"grejanje na struju",3,NULL,NULL,1,NULL
+59245,1,1,150400,Zlatibor,"Gradske lokacije",77,NULL,2020,3,3,NULL,"grejanje na struju",3,NULL,NULL,1,NULL
+37871,1,1,150350,"Novi Sad","Gradske lokacije",76,NULL,2020,4,5,NULL,"centralno grejanje",3,NULL,NULL,1,1
+9776,1,1,150000,"Novi Sad","Gradske lokacije",80,NULL,2020,2,NULL,0,NULL,3,2,NULL,1,1
+17823,1,1,150000,Beograd,"Vozdovac opstina",78,NULL,2020,2,5,NULL,"centralno grejanje",2.5,NULL,1,1,1
+21944,1,1,150000,Beograd,"Vozdovac opstina",78,NULL,2020,2,5,0,"etazno grejanje",3,NULL,1,1,1
+23255,1,1,150000,"Novi Sad","Gradske lokacije",97,NULL,2020,0,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+32695,1,1,150000,Beograd,"Vozdovac opstina",78,NULL,2020,2,5,NULL,"etazno grejanje",2.5,NULL,1,1,1
+46521,1,1,150000,Beograd,"Savski Venac",49,NULL,2020,2,4,NULL,"etazno grejanje",1.5,NULL,1,1,1
+49496,1,1,150000,Beograd,"Vozdovac opstina",81,NULL,2020,3,3,0,"grejanje na gas",3,NULL,1,NULL,NULL
+52062,1,1,150000,Kragujevac,"Gradske lokacije",125,NULL,2020,4,NULL,0,NULL,4,2,NULL,1,1
+55356,1,1,150000,Pancevo,"Gradske lokacije",153,NULL,2020,4,NULL,1,NULL,5,1,1,1,1
+56166,1,1,150000,Pancevo,"Gradske lokacije",153,NULL,2020,4,NULL,1,NULL,5,1,1,1,1
+23788,1,1,149350,"Novi Sad","Gradske lokacije",94,NULL,2020,0,2,NULL,NULL,4,2,1,NULL,1
+32889,1,1,149000,Beograd,Vracar,76,NULL,2020,2,6,1,"etazno grejanje",3,NULL,1,1,1
+34462,1,1,148300,"Novi Sad","Gradske lokacije",79,NULL,2020,2,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+32600,1,1,148200,Beograd,"Vozdovac opstina",78,NULL,2020,5,5,1,"norveski radijatori",3,2,NULL,1,1
+53551,1,1,148000,Beograd,"Novi Beograd",74,NULL,2020,8,10,1,NULL,2,2,NULL,NULL,1
+41849,1,1,147000,"Novi Sad","Gradske lokacije",111,NULL,2020,2,2,NULL,"grejanje na gas",4,NULL,NULL,NULL,NULL
+23809,1,1,146700,"Novi Sad","Gradske lokacije",104,NULL,2020,6,6,NULL,"centralno grejanje",4,NULL,NULL,1,NULL
+58937,1,1,146650,"Novi Sad","Gradske lokacije",104,NULL,2020,6,7,NULL,"centralno grejanje",4.5,NULL,NULL,1,NULL
+55936,1,1,146600,"Novi Sad","Gradske lokacije",104,NULL,2020,5,5,1,NULL,3.5,NULL,NULL,1,1
+41670,1,1,146405,Beograd,"Vozdovac opstina",70,NULL,2020,0,5,NULL,"centralno grejanje",4,NULL,1,1,NULL
+26427,1,1,146000,Beograd,"Zvezdara opstina",73,NULL,2020,1,5,0,"etazno grejanje",3,NULL,1,1,NULL
+56562,1,1,145850,"Novi Sad","Gradske lokacije",118,NULL,2020,4,4,1,"etazno grejanje",5,NULL,NULL,1,1
+25949,1,1,145700,Beograd,"Zvezdara opstina",62,NULL,2020,3,6,NULL,"centralno grejanje",2,1,NULL,1,1
+51553,1,1,145500,"Novi Sad","Gradske lokacije",113,NULL,2020,5,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+56287,1,1,145350,Beograd,Vracar,48,NULL,2020,0,4,0,"etazno grejanje",2,NULL,1,1,1
+37332,1,1,145000,"Novi Sad","Gradske lokacije",88,NULL,2020,3,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+55938,1,1,144300,"Novi Sad","Gradske lokacije",102,NULL,2020,5,5,1,NULL,3.5,NULL,NULL,1,1
+29421,1,1,144250,"Novi Sad","Gradske lokacije",75,NULL,2020,2,4,NULL,"centralno grejanje",3.5,NULL,NULL,1,1
+29424,1,1,144250,"Novi Sad","Gradske lokacije",75,NULL,2020,1,4,NULL,"centralno grejanje",3,NULL,NULL,1,1
+58946,1,1,144250,"Novi Sad","Gradske lokacije",102,NULL,2020,6,7,NULL,"centralno grejanje",4.5,NULL,NULL,1,NULL
+3254,1,1,144000,Beograd,"Zvezdara opstina",73,NULL,2020,1,5,0,"etazno grejanje",3,1,1,1,1
+38193,1,1,143790,Beograd,"Zvezdara opstina",65,NULL,2020,2,3,0,"centralno grejanje",3,NULL,NULL,1,1
+38243,1,1,143790,Beograd,"Zvezdara opstina",65,NULL,2020,3,3,0,"centralno grejanje",3,NULL,NULL,1,1
+42720,1,1,142250,"Novi Sad","Gradske lokacije",81,NULL,2020,0,2,NULL,"grejanje na gas",4,NULL,NULL,1,1
+32680,1,1,142200,Beograd,"Vozdovac opstina",79,NULL,2020,3,9,0,"centralno grejanje",4,NULL,NULL,1,1
+42943,1,1,142000,Beograd,"Novi Beograd",69,NULL,2020,0,8,1,"centralno grejanje",3,1,NULL,1,1
+38221,1,1,141800,Beograd,"Zvezdara opstina",68,NULL,2020,0,3,0,"centralno grejanje",3,NULL,NULL,1,1
+51648,1,1,141135,"Novi Sad","Gradske lokacije",85,NULL,2020,1,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+19262,1,1,140600,"Novi Sad","Gradske lokacije",65,NULL,2020,4,6,NULL,"centralno grejanje",2.5,1,1,1,1
+47539,1,1,140500,"Novi Sad","Gradske lokacije",88,NULL,2020,3,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+47898,1,1,140500,"Novi Sad","Gradske lokacije",88,NULL,2020,2,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+47669,1,1,140490,"Novi Sad","Gradske lokacije",88,NULL,2020,2,5,NULL,NULL,4,NULL,1,1,1
+19196,1,1,140450,"Novi Sad","Gradske lokacije",61,NULL,2020,4,6,1,"centralno grejanje",2.5,NULL,NULL,1,1
+28514,1,1,140450,"Novi Sad","Gradske lokacije",61,NULL,2020,4,5,NULL,"centralno grejanje",2.5,NULL,NULL,1,1
+5060,1,1,140400,"Novi Sad","Gradske lokacije",78,NULL,2020,6,7,0,"podno grejanje",4,2,NULL,1,1
+50842,1,1,140300,Beograd,"Zemun opstina",61,NULL,2020,2,2,NULL,NULL,3,NULL,1,1,1
+35669,1,1,140000,Beograd,"Palilula opstina",127,NULL,2020,5,5,1,NULL,6,2,1,NULL,1
+46160,1,1,140000,Beograd,"Savski Venac",49,NULL,2020,3,16,1,"centralno grejanje",2,NULL,NULL,1,1
+36084,1,1,139900,Beograd,"Vozdovac opstina",65,NULL,2020,5,6,NULL,"centralno grejanje",2.5,NULL,1,1,1
+37329,1,1,139900,"Novi Sad","Gradske lokacije",97,NULL,2020,0,4,NULL,"etazno grejanje",4,NULL,NULL,1,1
+32718,1,1,139500,Beograd,"Vozdovac opstina",66,NULL,2020,2,4,NULL,"etazno grejanje",3,1,NULL,NULL,NULL
+34468,1,1,139100,"Novi Sad","Gradske lokacije",75,NULL,2020,3,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+58635,1,1,139000,Zlatibor,"Okolne lokacije",73,NULL,2020,0,NULL,NULL,NULL,2,1,NULL,NULL,NULL
+32670,1,1,138850,Beograd,"Vozdovac opstina",67,NULL,2020,0,4,NULL,"etazno grejanje",3,1,NULL,NULL,NULL
+34410,1,1,138600,"Novi Sad","Gradske lokacije",74,NULL,2020,4,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+37131,1,1,138600,Beograd,"Palilula opstina",72,NULL,2020,NULL,NULL,NULL,NULL,1,2,NULL,1,1
+60552,1,1,138600,"Novi Sad","Gradske lokacije",75,NULL,2020,0,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+34415,1,1,138500,"Novi Sad","Gradske lokacije",74,NULL,2020,1,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+18665,1,1,138000,Beograd,Vracar,66,NULL,2020,5,6,0,"centralno grejanje",2.5,NULL,1,1,1
+51639,1,1,138000,"Novi Sad","Gradske lokacije",103,NULL,2020,0,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+23260,1,1,137900,"Novi Sad","Gradske lokacije",97,NULL,2020,0,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+34433,1,1,137800,"Novi Sad","Gradske lokacije",74,NULL,2020,5,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+38182,1,1,137250,Beograd,"Zvezdara opstina",65,NULL,2020,1,3,0,"centralno grejanje",3,NULL,NULL,1,1
+50980,1,1,137250,Beograd,"Zemun opstina",61,NULL,2020,1,2,NULL,NULL,3,NULL,1,1,1
+37402,1,1,137000,"Novi Sad","Gradske lokacije",95,NULL,2020,3,5,1,"etazno grejanje",4,NULL,NULL,1,1
+34401,1,1,136900,"Novi Sad","Gradske lokacije",73,NULL,2020,1,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+26424,1,1,136400,Beograd,"Zvezdara opstina",57,NULL,2020,2,4,NULL,"etazno grejanje",2,1,NULL,1,NULL
+38628,1,1,136400,Beograd,"Zvezdara opstina",59,NULL,2020,0,4,NULL,"etazno grejanje",2.5,1,NULL,1,NULL
+23820,1,1,136000,"Novi Sad","Gradske lokacije",96,NULL,2020,6,7,NULL,"centralno grejanje",4,NULL,NULL,1,1
+31121,1,1,136000,"Novi Sad","Gradske lokacije",67,NULL,2020,2,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+42829,1,1,136000,"Novi Sad","Gradske lokacije",66,NULL,2020,2,4,1,"etazno grejanje",2.5,NULL,NULL,1,1
+53646,1,1,136000,"Novi Sad","Gradske lokacije",110,NULL,2020,4,4,NULL,"grejanje na gas",5,NULL,NULL,1,1
+33804,1,1,135200,"Novi Sad","Gradske lokacije",88,NULL,2020,4,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+7397,1,1,135000,Beograd,"Vozdovac opstina",74,NULL,2020,0,4,0,"etazno grejanje",3,2,1,1,1
+55887,1,1,135000,"Novi Sad","Gradske lokacije",50,NULL,2020,4,NULL,1,NULL,2,NULL,NULL,NULL,NULL
+12136,1,1,134300,"Novi Sad","Gradske lokacije",71,NULL,2020,4,5,NULL,"grejanje na gas",3,2,1,1,1
+50873,1,1,134200,Beograd,"Zemun opstina",61,NULL,2020,2,2,NULL,NULL,3,NULL,1,1,1
+10505,1,1,134000,"Novi Sad","Gradske lokacije",96,NULL,2020,3,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+41869,1,1,134000,Beograd,"Vozdovac opstina",68,NULL,2020,0,NULL,1,"etazno grejanje",3,NULL,NULL,1,1
+9714,1,1,133900,"Novi Sad","Gradske lokacije",71,NULL,2020,4,5,NULL,"centralno grejanje",3,NULL,NULL,1,NULL
+23431,1,1,133900,"Novi Sad","Gradske lokacije",110,NULL,2020,5,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+24451,1,1,133900,"Novi Sad","Gradske lokacije",110,NULL,2020,4,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+21213,1,1,133800,"Novi Sad","Gradske lokacije",113,NULL,2020,0,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+49538,1,1,133760,Beograd,"Vozdovac opstina",64,NULL,2020,1,7,NULL,"etazno grejanje",2.5,NULL,1,1,1
+42826,1,1,132600,"Novi Sad","Gradske lokacije",80,NULL,2020,3,4,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+49988,1,1,132600,"Novi Sad","Gradske lokacije",80,NULL,2020,1,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+33161,1,1,132140,Beograd,Vracar,66,NULL,2020,3,7,NULL,NULL,3,1,1,NULL,NULL
+23789,1,1,132100,"Novi Sad","Gradske lokacije",95,NULL,2020,3,4,NULL,NULL,4,NULL,NULL,1,1
+37841,1,1,132100,"Novi Sad","Gradske lokacije",58,NULL,2020,6,6,NULL,"centralno grejanje",3,1,NULL,1,1
+36033,1,1,131100,Beograd,"Vozdovac opstina",61,NULL,2020,5,6,NULL,"centralno grejanje",2.5,NULL,1,1,1
+42841,1,1,130900,"Novi Sad","Gradske lokacije",79,NULL,2020,4,4,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+25926,1,1,130702,Beograd,"Zvezdara opstina",46,NULL,2020,0,8,NULL,"etazno grejanje",2,1,NULL,1,1
+33814,1,1,130400,"Novi Sad","Gradske lokacije",101,NULL,2020,6,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+47211,1,1,130190,"Novi Sad","Gradske lokacije",79,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+17328,1,1,130000,Beograd,"Vozdovac opstina",74,NULL,2020,0,NULL,NULL,"etazno grejanje",3,1,1,NULL,1
+41146,1,1,130000,"Novi Sad","Gradske lokacije",45,NULL,2020,0,3,NULL,"centralno grejanje",2,NULL,NULL,1,NULL
+37950,1,1,129910,"Novi Sad","Gradske lokacije",57,NULL,2020,1,7,NULL,"centralno grejanje",3,1,NULL,1,1
+47098,1,1,129700,"Novi Sad","Gradske lokacije",81,NULL,2020,3,5,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+47181,1,1,129700,"Novi Sad","Gradske lokacije",81,NULL,2020,1,5,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+54109,1,1,129500,"Novi Sad","Gradske lokacije",78,NULL,2020,3,3,NULL,"etazno grejanje",2,NULL,NULL,1,1
+49997,1,1,129320,"Novi Sad","Gradske lokacije",92,NULL,2020,4,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+33741,1,1,129300,"Novi Sad","Gradske lokacije",80,NULL,2020,1,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+262,0,1,129000,"Backa Topola","Okolne lokacije",179,20000,2020,NULL,NULL,1,"etazno grejanje",5,2,1,NULL,1
+6800,0,1,129000,"Backa Topola","Gradske lokacije",151,20000,2020,NULL,NULL,1,"grejanje na struju",3,2,1,NULL,1
+33759,1,1,128500,"Novi Sad","Gradske lokacije",80,NULL,2020,5,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+58639,1,1,128480,Zlatibor,"Okolne lokacije",73,NULL,2020,0,NULL,NULL,NULL,2,1,NULL,NULL,NULL
+13036,1,1,128370,Beograd,"Vozdovac opstina",63,NULL,2020,0,4,NULL,"etazno grejanje",2,1,NULL,NULL,NULL
+33390,1,1,128300,"Novi Sad","Gradske lokacije",80,NULL,2020,3,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+33396,1,1,128300,"Novi Sad","Gradske lokacije",80,NULL,2020,5,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+33400,1,1,128300,"Novi Sad","Gradske lokacije",80,NULL,2020,1,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+33414,1,1,128300,"Novi Sad","Gradske lokacije",80,NULL,2020,4,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+33415,1,1,128300,"Novi Sad","Gradske lokacije",80,NULL,2020,2,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+33842,1,1,128300,"Novi Sad","Gradske lokacije",80,NULL,2020,1,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+33866,1,1,128300,"Novi Sad","Gradske lokacije",80,NULL,2020,4,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+33795,1,1,128280,"Novi Sad","Gradske lokacije",80,NULL,2020,1,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+41614,1,1,128000,Beograd,"Vozdovac opstina",64,NULL,2020,0,NULL,1,"etazno grejanje",3,NULL,NULL,1,1
+37231,1,1,127550,"Novi Sad","Gradske lokacije",72,NULL,2020,1,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+37238,1,1,127550,"Novi Sad","Gradske lokacije",72,NULL,2020,4,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+37248,1,1,127550,"Novi Sad","Gradske lokacije",72,NULL,2020,2,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+41858,1,1,127200,"Novi Sad","Gradske lokacije",102,NULL,2020,3,3,NULL,NULL,4,NULL,NULL,1,1
+42017,1,1,127000,"Novi Sad","Gradske lokacije",107,NULL,2020,3,3,NULL,"centralno grejanje",4,NULL,NULL,1,1
+44036,1,1,125500,Beograd,Vracar,46,NULL,2020,0,5,0,NULL,2,NULL,NULL,NULL,1
+47146,1,1,125500,"Novi Sad","Gradske lokacije",78,NULL,2020,4,5,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+36345,1,1,125466,Beograd,"Novi Beograd",57,NULL,2020,10,10,0,"centralno grejanje",1,NULL,1,1,1
+41794,1,1,125312,Beograd,"Vozdovac opstina",64,NULL,2020,4,8,NULL,"etazno grejanje",3,1,NULL,1,1
+58555,1,1,125260,"Novi Sad","Gradske lokacije",76,NULL,2020,3,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+7278,1,1,125000,Beograd,"Vozdovac opstina",61,NULL,2020,0,5,NULL,"centralno grejanje",3,1,NULL,1,1
+11392,1,1,125000,Beograd,"Zvezdara opstina",55,NULL,2020,4,6,NULL,NULL,2,NULL,NULL,1,NULL
+26035,1,1,125000,Beograd,"Zvezdara opstina",55,NULL,2020,0,4,1,NULL,2.5,1,NULL,NULL,1
+28809,1,1,125000,Nis,"Gradske lokacije",137,NULL,2020,8,8,0,NULL,3,1,NULL,NULL,NULL
+31135,1,1,125000,"Novi Sad","Gradske lokacije",94,NULL,2020,4,5,NULL,NULL,4,NULL,1,1,1
+45273,1,1,125000,Beograd,"Zemun opstina",41,NULL,2020,3,7,1,"centralno grejanje",2,1,NULL,1,1
+46357,1,1,125000,Beograd,"Vozdovac opstina",65,NULL,2020,2,4,1,"centralno grejanje",2.5,NULL,NULL,1,1
+49503,1,1,124900,Beograd,"Vozdovac opstina",85,NULL,2020,0,4,1,"etazno grejanje",1,NULL,NULL,NULL,1
+22727,1,1,124800,Beograd,"Savski Venac",64,NULL,2020,6,7,NULL,"centralno grejanje",3,2,1,1,1
+58066,1,1,124680,"Novi Sad","Gradske lokacije",91,NULL,2020,2,4,1,NULL,4,NULL,NULL,1,1
+56411,1,1,124500,"Novi Sad","Gradske lokacije",78,NULL,2020,3,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+56421,1,1,124500,"Novi Sad","Gradske lokacije",78,NULL,2020,2,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+23016,1,1,124400,"Novi Sad","Gradske lokacije",86,NULL,2020,3,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+42978,1,1,124000,Beograd,"Novi Beograd",54,NULL,2020,5,8,1,"centralno grejanje",2.5,1,NULL,1,1
+53443,1,1,124000,Beograd,"Zemun opstina",62,NULL,2020,0,2,NULL,"podno grejanje",2.5,NULL,NULL,NULL,1
+39812,1,1,123800,"Novi Sad","Gradske lokacije",67,NULL,2020,5,5,NULL,"centralno grejanje",3,NULL,NULL,1,NULL
+17113,1,1,123710,Nis,"Gradske lokacije",120,NULL,2020,4,NULL,0,NULL,5,2,NULL,NULL,NULL
+42866,1,1,123700,"Novi Sad","Gradske lokacije",85,NULL,2020,5,5,NULL,"centralno grejanje",3.5,NULL,NULL,1,1
+37316,1,1,123600,"Novi Sad","Gradske lokacije",83,NULL,2020,1,4,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+49184,1,1,123600,"Novi Sad","Gradske lokacije",75,NULL,2020,7,7,1,"centralno grejanje",3,2,NULL,1,1
+23397,1,1,123500,Beograd,"Zemun opstina",71,NULL,2020,1,2,NULL,"podno grejanje",4,NULL,NULL,NULL,NULL
+23509,1,1,123500,Beograd,"Zemun opstina",72,NULL,2020,1,2,NULL,"etazno grejanje",3.5,NULL,1,NULL,1
+53935,1,1,123200,"Novi Sad","Gradske lokacije",104,NULL,2020,7,NULL,1,"centralno grejanje",4.5,2,NULL,1,1
+59380,1,1,123200,"Novi Sad","Gradske lokacije",104,NULL,2020,7,7,1,"centralno grejanje",5,2,NULL,1,1
+4935,1,1,123190,"Novi Sad","Gradske lokacije",104,NULL,2020,7,7,1,"centralno grejanje",5,2,NULL,1,1
+56076,1,1,123190,"Novi Sad","Gradske lokacije",104,NULL,2020,7,7,1,"centralno grejanje",5,2,NULL,1,1
+8089,1,1,123161,Beograd,Vracar,46,NULL,2020,0,9,0,"centralno grejanje",1.5,1,1,1,NULL
+37197,1,1,123000,Beograd,"Zemun opstina",53,NULL,2020,2,2,1,"grejanje na struju",1.5,NULL,1,1,1
+60254,1,1,123000,"Novi Sad","Gradske lokacije",63,NULL,2020,5,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+41727,1,1,122900,"Novi Sad","Gradske lokacije",97,NULL,2020,2,2,NULL,"etazno grejanje",4,NULL,NULL,1,1
+40589,1,1,122570,"Novi Sad","Gradske lokacije",68,NULL,2020,4,7,1,"centralno grejanje",3,2,NULL,1,1
+3430,1,1,122400,Beograd,"Zvezdara opstina",68,NULL,2020,5,5,0,"centralno grejanje",2.5,1,1,NULL,1
+41030,1,1,122400,Nis,"Gradske lokacije",90,NULL,2020,2,NULL,NULL,NULL,3.5,2,NULL,NULL,NULL
+51254,1,1,122319,Beograd,"Novi Beograd",51,NULL,2020,2,NULL,1,"centralno grejanje",1.5,1,1,1,1
+32660,1,1,122250,Beograd,"Vozdovac opstina",67,NULL,2020,2,4,NULL,"podno grejanje",3,NULL,NULL,NULL,1
+49982,1,1,122080,"Novi Sad","Gradske lokacije",87,NULL,2020,4,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+31725,1,1,122000,"Novi Sad","Gradske lokacije",91,NULL,2020,2,3,NULL,"grejanje na gas",4,NULL,NULL,NULL,1
+33456,1,1,122000,Beograd,Vracar,51,NULL,2020,2,4,NULL,"etazno grejanje",2,1,1,1,NULL
+41755,1,1,122000,"Novi Sad","Gradske lokacije",96,NULL,2020,2,2,NULL,"grejanje na gas",4,NULL,NULL,1,NULL
+44100,1,1,122000,Beograd,Vracar,51,NULL,2020,2,4,NULL,"etazno grejanje",2,NULL,1,1,NULL
+58056,1,1,121990,"Novi Sad","Gradske lokacije",91,NULL,2020,2,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+42268,1,1,121650,"Novi Sad","Gradske lokacije",96,NULL,2020,2,2,NULL,"etazno grejanje",3.5,NULL,NULL,1,1
+34960,1,1,121600,"Novi Sad","Gradske lokacije",63,NULL,2020,1,5,NULL,"centralno grejanje",3,NULL,NULL,1,1
+42293,1,1,121550,"Novi Sad","Gradske lokacije",95,NULL,2020,2,2,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+42051,1,1,121540,"Novi Sad","Gradske lokacije",81,NULL,2020,4,4,1,NULL,4,NULL,NULL,1,1
+45768,1,1,121500,Beograd,"Novi Beograd",45,NULL,2020,10,10,NULL,"centralno grejanje",2,NULL,NULL,1,1
+45774,1,1,121500,Beograd,"Novi Beograd",45,NULL,2020,10,10,1,"centralno grejanje",2,NULL,1,1,1
+56406,1,1,121390,"Novi Sad","Gradske lokacije",76,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+22562,1,1,121300,Beograd,"Novi Beograd",56,NULL,2020,1,4,NULL,"centralno grejanje",2.5,NULL,1,1,1
+60697,1,1,120510,"Novi Sad","Gradske lokacije",78,NULL,2020,6,6,NULL,NULL,4.5,2,NULL,1,1
+56131,1,1,120300,"Novi Sad","Gradske lokacije",59,NULL,2020,1,2,NULL,"grejanje na gas",3,NULL,NULL,1,1
+3884,0,1,120000,Nis,"Gradske lokacije",90,1800,2020,NULL,NULL,1,"grejanje na struju",NULL,NULL,NULL,NULL,NULL
+26257,1,1,120000,Beograd,"Zvezdara opstina",55,NULL,2020,0,6,1,"etazno grejanje",2.5,NULL,NULL,1,1
+29176,1,1,120000,Nis,"Gradske lokacije",127,NULL,2020,1,2,1,"grejanje na gas",4,NULL,NULL,NULL,1
+32690,1,1,120000,Beograd,"Vozdovac opstina",50,NULL,2020,0,3,0,"podno grejanje",2.5,NULL,NULL,NULL,NULL
+49548,1,1,120000,Nis,"Gradske lokacije",134,NULL,2020,2,NULL,1,"grejanje na gas",3,NULL,1,NULL,1
+56424,1,1,119790,"Novi Sad","Gradske lokacije",75,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+54343,1,1,119600,Pancevo,"Gradske lokacije",92,NULL,2020,1,4,NULL,NULL,3,NULL,1,1,1
+55348,1,1,119600,Pancevo,"Gradske lokacije",92,NULL,2020,1,4,NULL,NULL,3,NULL,1,1,1
+27141,1,1,119300,"Novi Sad","Gradske lokacije",64,NULL,2020,2,5,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+56964,1,1,119100,"Novi Sad","Gradske lokacije",68,NULL,2020,1,5,NULL,"centralno grejanje",3,NULL,NULL,1,1
+22326,1,1,118900,Beograd,"Novi Beograd",55,NULL,2020,2,4,NULL,"centralno grejanje",2,NULL,1,1,1
+23784,1,1,118700,"Novi Sad","Gradske lokacije",90,NULL,2020,2,2,NULL,"grejanje na gas",4,NULL,1,NULL,1
+2347,1,1,118000,"Novi Sad","Gradske lokacije",66,NULL,2020,2,3,1,"centralno grejanje",3,2,1,1,1
+37118,1,1,117920,Beograd,"Palilula opstina",54,NULL,2020,3,8,NULL,"centralno grejanje",2,1,NULL,1,1
+29429,1,1,117500,"Novi Sad","Gradske lokacije",55,NULL,2020,2,2,NULL,"centralno grejanje",3,NULL,NULL,1,1
+44102,1,1,117450,Beograd,Vracar,46,NULL,2020,1,NULL,NULL,NULL,2,NULL,NULL,NULL,NULL
+56290,1,1,117300,Beograd,Vracar,46,NULL,2020,0,4,0,"etazno grejanje",2,NULL,1,1,NULL
+60837,1,1,117011,Beograd,"Novi Beograd",39,NULL,2020,3,10,0,NULL,2,1,1,NULL,1
+43142,1,1,117000,"Novi Sad","Gradske lokacije",60,NULL,2020,3,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+47264,1,1,117000,"Novi Sad","Gradske lokacije",71,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+49541,1,1,117000,Beograd,"Vozdovac opstina",65,NULL,2020,2,4,NULL,"etazno grejanje",2.5,NULL,NULL,NULL,NULL
+24445,1,1,116850,"Novi Sad","Gradske lokacije",81,NULL,2020,4,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+10510,1,1,116800,"Novi Sad","Gradske lokacije",84,NULL,2020,1,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+10517,1,1,116800,"Novi Sad","Gradske lokacije",84,NULL,2020,2,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+24418,1,1,116800,"Novi Sad","Gradske lokacije",81,NULL,2020,4,5,NULL,"grejanje na gas",4,NULL,NULL,1,1
+16478,1,1,116500,"Novi Sad","Gradske lokacije",74,NULL,2020,1,4,NULL,NULL,3,NULL,1,1,1
+23057,1,1,116500,"Novi Sad","Gradske lokacije",92,NULL,2020,4,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+27806,1,1,116500,"Novi Sad","Gradske lokacije",63,NULL,2020,5,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+31233,1,1,116478,"Novi Sad","Gradske lokacije",74,NULL,2020,3,4,NULL,"centralno grejanje",3,2,1,1,1
+31243,1,1,116462,"Novi Sad","Gradske lokacije",74,NULL,2020,1,4,NULL,"centralno grejanje",3,2,1,1,1
+21675,1,1,115800,Beograd,"Vozdovac opstina",54,NULL,2020,5,5,NULL,"podno grejanje",2,NULL,1,1,1
+47247,1,1,115350,"Novi Sad","Gradske lokacije",70,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+42247,1,1,115300,"Novi Sad","Gradske lokacije",91,NULL,2020,2,2,NULL,"etazno grejanje",3.5,NULL,NULL,1,1
+42709,1,1,115300,"Novi Sad","Gradske lokacije",69,NULL,2020,4,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+52052,1,1,115285,"Novi Sad","Gradske lokacije",89,NULL,2020,0,5,NULL,"grejanje na gas",2,1,NULL,1,NULL
+32685,1,1,115200,Beograd,"Vozdovac opstina",64,NULL,2020,3,9,0,"etazno grejanje",3,NULL,1,1,1
+13080,1,1,115150,"Novi Sad","Gradske lokacije",43,NULL,2020,8,9,NULL,"centralno grejanje",1.5,NULL,NULL,1,1
+11696,1,1,115000,Beograd,"Zvezdara opstina",79,NULL,2020,3,3,NULL,"etazno grejanje",2,1,1,1,1
+13041,1,1,115000,Beograd,"Vozdovac opstina",63,NULL,2020,0,4,NULL,"podno grejanje",2,NULL,NULL,1,1
+26390,1,1,115000,Beograd,"Zvezdara opstina",79,NULL,2020,3,3,NULL,"etazno grejanje",1.5,1,1,1,1
+49128,1,1,114900,"Novi Sad","Gradske lokacije",61,NULL,2020,3,3,NULL,"etazno grejanje",3,NULL,NULL,1,1
+42304,1,1,114850,"Novi Sad","Gradske lokacije",90,NULL,2020,2,2,NULL,"grejanje na gas",3.5,NULL,NULL,1,NULL
+50969,1,1,114840,Beograd,"Zemun opstina",58,NULL,2020,0,2,NULL,NULL,3,NULL,1,1,NULL
+55556,1,1,114750,Beograd,Vracar,35,NULL,2020,0,4,0,"etazno grejanje",0.5,NULL,1,1,1
+43184,1,1,114150,"Novi Sad","Gradske lokacije",59,NULL,2020,3,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+22320,1,1,114000,Beograd,"Novi Beograd",53,NULL,2020,1,4,NULL,"centralno grejanje",2,NULL,1,1,1
+22376,1,1,114000,Beograd,"Novi Beograd",53,NULL,2020,2,4,NULL,"centralno grejanje",2,NULL,1,1,1
+22412,1,1,114000,Beograd,"Novi Beograd",53,NULL,2020,3,4,NULL,"centralno grejanje",2,NULL,1,1,1
+32823,1,1,113750,Beograd,"Vozdovac opstina",65,NULL,2020,2,2,1,"etazno grejanje",3,2,NULL,NULL,1
+23078,1,1,113600,"Novi Sad","Gradske lokacije",89,NULL,2020,4,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+56691,1,1,113520,Nis,"Gradske lokacije",86,NULL,2020,1,NULL,NULL,NULL,3,2,NULL,1,1
+21441,1,1,113500,Beograd,"Zemun opstina",62,NULL,2020,1,2,1,"etazno grejanje",3,1,1,NULL,1
+33853,1,1,113300,"Novi Sad","Gradske lokacije",88,NULL,2020,6,6,NULL,"centralno grejanje",4,NULL,NULL,1,1
+47156,1,1,113300,"Novi Sad","Gradske lokacije",81,NULL,2020,4,4,NULL,NULL,3.5,NULL,NULL,1,1
+37269,1,1,113100,"Novi Sad","Gradske lokacije",68,NULL,2020,3,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+37283,1,1,113100,"Novi Sad","Gradske lokacije",68,NULL,2020,2,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+37435,1,1,113100,"Novi Sad","Gradske lokacije",68,NULL,2020,1,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+60679,1,1,113100,"Novi Sad","Gradske lokacije",60,NULL,2020,4,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+40250,1,1,113000,"Novi Sad","Gradske lokacije",58,NULL,2020,4,NULL,1,"centralno grejanje",2.5,2,NULL,1,1
+26156,1,1,111813,Beograd,"Zvezdara opstina",57,NULL,2020,4,4,0,"centralno grejanje",2.5,NULL,1,1,1
+50939,1,1,111810,"Novi Sad","Gradske lokacije",58,NULL,2020,2,9,NULL,"centralno grejanje",3,NULL,NULL,1,1
+42806,1,1,111600,"Novi Sad","Gradske lokacije",67,NULL,2020,4,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+31081,1,1,111280,"Novi Sad","Gradske lokacije",77,NULL,2020,4,5,NULL,NULL,4,NULL,1,1,1
+55042,1,1,111230,"Novi Sad","Gradske lokacije",68,NULL,2020,2,5,NULL,NULL,3,NULL,1,1,1
+51343,1,1,111150,Beograd,"Zemun opstina",45,NULL,2020,1,2,NULL,NULL,2,NULL,1,1,1
+38384,1,1,111000,"Novi Sad","Gradske lokacije",53,NULL,2020,1,3,NULL,"centralno grejanje",3,NULL,NULL,1,1
+38613,1,1,111000,"Novi Sad","Gradske lokacije",54,NULL,2020,1,3,NULL,"centralno grejanje",3,NULL,NULL,1,1
+53629,1,1,110880,Beograd,"Zemun opstina",56,NULL,2020,1,2,NULL,"etazno grejanje",2,NULL,NULL,1,1
+21161,1,1,110800,Beograd,"Zemun opstina",62,NULL,2020,0,2,NULL,"etazno grejanje",2,NULL,NULL,NULL,1
+38353,1,1,110800,"Novi Sad","Gradske lokacije",54,NULL,2020,2,3,NULL,"centralno grejanje",3,NULL,NULL,1,1
+27470,1,1,110550,"Novi Sad","Gradske lokacije",59,NULL,2020,2,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+27516,1,1,110550,"Novi Sad","Gradske lokacije",59,NULL,2020,1,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+49441,1,1,110220,"Novi Sad","Gradske lokacije",87,NULL,2020,2,2,NULL,"etazno grejanje",3,NULL,NULL,1,1
+13047,1,1,110200,Beograd,"Vozdovac opstina",58,NULL,2020,5,5,1,"norveski radijatori",2,1,NULL,1,1
+13087,1,1,110200,Beograd,"Vozdovac opstina",58,NULL,2020,5,5,NULL,NULL,2,1,NULL,1,1
+36201,1,1,110100,"Novi Sad","Gradske lokacije",89,NULL,2020,5,6,NULL,NULL,3.5,NULL,1,1,1
+46879,1,1,110100,"Novi Sad","Gradske lokacije",66,NULL,2020,5,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+21608,1,1,110000,Beograd,"Vozdovac opstina",75,NULL,2020,0,3,0,NULL,2,1,NULL,NULL,1
+46500,1,1,110000,Beograd,"Savski Venac",75,NULL,2020,0,3,1,"etazno grejanje",2,NULL,NULL,1,1
+54454,1,1,109650,Beograd,Vracar,43,NULL,2020,1,4,0,"etazno grejanje",1.5,NULL,NULL,1,1
+55784,1,1,109600,"Novi Sad","Gradske lokacije",76,NULL,2020,3,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+19184,1,1,109400,"Novi Sad","Gradske lokacije",66,NULL,2020,0,3,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+46680,1,1,109360,"Novi Sad","Gradske lokacije",66,NULL,2020,2,5,NULL,"grejanje na gas",2.5,1,NULL,1,1
+57668,1,1,109360,"Novi Sad","Gradske lokacije",66,NULL,2020,2,5,1,"grejanje na gas",3,NULL,NULL,1,1
+29655,1,1,109000,Beograd,"Vozdovac opstina",60,NULL,2020,3,3,1,"centralno grejanje",2.5,NULL,1,1,1
+32729,1,1,109000,Beograd,"Vozdovac opstina",60,NULL,2020,3,3,1,"centralno grejanje",2.5,NULL,1,1,1
+9790,1,1,108900,"Novi Sad","Gradske lokacije",66,NULL,2020,1,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+32594,1,1,108900,Beograd,"Vozdovac opstina",66,NULL,2020,2,2,1,"etazno grejanje",2.5,1,NULL,NULL,NULL
+31197,1,1,108670,"Novi Sad","Gradske lokacije",69,NULL,2020,2,4,NULL,"centralno grejanje",3,2,1,1,1
+55796,1,1,108600,"Novi Sad","Gradske lokacije",75,NULL,2020,30,3,NULL,"grejanje na gas",3,NULL,NULL,NULL,1
+56991,1,1,108600,"Novi Sad","Gradske lokacije",61,NULL,2020,1,5,NULL,"centralno grejanje",3,NULL,NULL,1,1
+16552,1,1,108500,"Novi Sad","Gradske lokacije",69,NULL,2020,1,4,NULL,NULL,3,NULL,1,1,1
+36382,1,1,108500,"Novi Sad","Gradske lokacije",78,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+21138,1,1,108400,"Novi Sad","Gradske lokacije",70,NULL,2020,1,4,NULL,"centralno grejanje",3,NULL,NULL,1,1
+53700,1,1,108150,"Novi Sad","Gradske lokacije",70,NULL,2020,1,NULL,NULL,"centralno grejanje",3,1,NULL,1,1
+16487,1,1,108000,"Novi Sad","Gradske lokacije",69,NULL,2020,1,4,NULL,NULL,3,NULL,1,1,1
+59191,1,1,107800,Zlatibor,"Gradske lokacije",49,NULL,2020,NULL,NULL,NULL,NULL,2,1,NULL,NULL,NULL
+45363,1,1,107400,"Novi Sad","Gradske lokacije",56,NULL,2020,2,9,NULL,"centralno grejanje",3,NULL,NULL,1,1
+9810,1,1,107300,"Novi Sad","Gradske lokacije",63,NULL,2020,1,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+23452,1,1,107300,Beograd,"Zemun opstina",58,NULL,2020,3,5,1,"podno grejanje",2.5,1,NULL,1,NULL
+16498,1,1,107200,"Novi Sad","Gradske lokacije",65,NULL,2020,1,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+41836,1,1,107200,"Novi Sad","Gradske lokacije",87,NULL,2020,3,3,NULL,NULL,4,NULL,1,1,1
+42714,1,1,107200,"Novi Sad","Gradske lokacije",65,NULL,2020,2,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+42745,1,1,107200,"Novi Sad","Gradske lokacije",65,NULL,2020,4,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+42793,1,1,107200,"Novi Sad","Gradske lokacije",65,NULL,2020,3,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+45518,1,1,107000,Beograd,"Novi Beograd",33,NULL,2020,4,9,NULL,"centralno grejanje",0.5,1,1,1,NULL
+21392,1,1,106900,Beograd,"Zemun opstina",62,NULL,2020,0,2,NULL,"etazno grejanje",3,NULL,1,NULL,1
+31208,1,1,106900,"Novi Sad","Gradske lokacije",74,NULL,2020,2,4,NULL,"centralno grejanje",3,2,1,1,1
+56086,1,1,106900,"Novi Sad","Gradske lokacije",51,NULL,2020,2,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+56107,1,1,106900,"Novi Sad","Gradske lokacije",51,NULL,2020,3,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+56119,1,1,106900,"Novi Sad","Gradske lokacije",51,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+36208,1,1,106850,"Novi Sad","Gradske lokacije",78,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+49987,1,1,106560,"Novi Sad","Gradske lokacije",73,NULL,2020,4,5,1,"grejanje na gas",4,NULL,NULL,1,1
+37399,1,1,106330,"Novi Sad","Gradske lokacije",64,NULL,2020,0,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+51672,1,1,106250,"Novi Sad","Gradske lokacije",76,NULL,2020,0,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+55984,1,1,106000,"Novi Sad","Gradske lokacije",46,NULL,2020,3,NULL,1,NULL,2,NULL,NULL,NULL,NULL
+53482,1,1,105840,Beograd,"Zemun opstina",50,NULL,2020,0,3,0,"etazno grejanje",2,NULL,1,1,1
+29262,1,1,105720,Nis,"Gradske lokacije",88,NULL,2020,NULL,NULL,1,"etazno grejanje",3,2,1,1,1
+29282,1,1,105720,Nis,"Gradske lokacije",88,NULL,2020,NULL,NULL,1,"etazno grejanje",3,2,1,1,1
+50892,1,1,105700,"Novi Sad","Gradske lokacije",76,NULL,2020,1,4,NULL,"grejanje na gas",3.5,0,NULL,1,NULL
+42374,1,1,105650,"Novi Sad","Gradske lokacije",76,NULL,2020,2,2,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+55869,1,1,105600,"Novi Sad","Gradske lokacije",64,NULL,2020,1,5,NULL,NULL,3,NULL,NULL,1,1
+37194,1,1,105500,"Novi Sad","Gradske lokacije",64,NULL,2020,1,2,NULL,NULL,2.5,NULL,NULL,NULL,1
+37263,1,1,105470,"Novi Sad","Gradske lokacije",64,NULL,2020,1,5,1,"grejanje na gas",2.5,1,NULL,1,1
+37328,1,1,105470,"Novi Sad","Gradske lokacije",64,NULL,2020,1,2,1,"grejanje na gas",2.5,NULL,NULL,NULL,1
+21397,1,1,105400,Beograd,"Zemun opstina",61,NULL,2020,0,2,NULL,"podno grejanje",3,NULL,NULL,NULL,NULL
+41688,1,1,105400,"Novi Sad","Gradske lokacije",68,NULL,2020,1,5,NULL,"centralno grejanje",3,NULL,NULL,1,1
+41850,1,1,105400,"Novi Sad","Gradske lokacije",68,NULL,2020,4,5,NULL,"centralno grejanje",3,NULL,NULL,1,1
+41893,1,1,105400,"Novi Sad","Gradske lokacije",68,NULL,2020,3,5,NULL,"centralno grejanje",3,NULL,NULL,1,1
+41759,1,1,105350,"Novi Sad","Gradske lokacije",85,NULL,2020,1,3,NULL,NULL,4,NULL,1,1,1
+21781,1,1,105100,"Novi Sad","Gradske lokacije",82,NULL,2020,4,4,NULL,"centralno grejanje",3.5,NULL,NULL,1,1
+7084,1,1,105000,Beograd,"Vozdovac opstina",66,NULL,2020,2,2,1,"etazno grejanje",2.5,NULL,NULL,NULL,NULL
+22235,1,1,105000,Beograd,"Savski Venac",30,NULL,2020,16,23,0,"centralno grejanje",0.5,NULL,1,1,1
+29856,1,1,105000,Beograd,"Vozdovac opstina",65,NULL,2020,2,2,1,"etazno grejanje",2.5,NULL,NULL,NULL,NULL
+45612,1,1,105000,Beograd,"Novi Beograd",75,NULL,2020,4,4,0,"etazno grejanje",3,NULL,NULL,1,1
+56957,1,1,105000,Sabac,"Gradske lokacije",95,NULL,2020,4,5,1,NULL,3,NULL,1,1,1
+53947,1,1,104800,"Novi Sad","Gradske lokacije",50,NULL,2020,2,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+47559,1,1,104650,Kragujevac,"Gradske lokacije",91,NULL,2020,3,NULL,0,NULL,4,1,NULL,1,1
+9770,1,1,104400,"Novi Sad","Gradske lokacije",65,NULL,2020,3,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+56936,1,1,104287,"Novi Sad","Gradske lokacije",75,NULL,2020,3,4,NULL,"etazno grejanje",3,NULL,NULL,1,1
+37421,1,1,104270,"Novi Sad","Gradske lokacije",63,NULL,2020,1,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+37370,1,1,104170,"Novi Sad","Gradske lokacije",63,NULL,2020,0,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+17174,1,1,104130,Nis,"Gradske lokacije",101,NULL,2020,4,NULL,0,NULL,4,2,NULL,NULL,NULL
+36798,1,1,104000,Beograd,"Vozdovac opstina",39,NULL,2020,3,4,1,"etazno grejanje",1.5,NULL,NULL,1,1
+38247,1,1,104000,Beograd,"Zvezdara opstina",49,NULL,2020,0,5,1,NULL,2,1,1,NULL,NULL
+38663,1,1,104000,Beograd,"Zvezdara opstina",52,NULL,2020,0,4,NULL,"etazno grejanje",2.5,1,NULL,1,NULL
+51053,1,1,104000,Beograd,"Novi Beograd",94,NULL,2020,2,2,NULL,"etazno grejanje",4,1,NULL,NULL,NULL
+51107,1,1,104000,Beograd,"Novi Beograd",94,NULL,2020,2,2,NULL,"etazno grejanje",4,1,NULL,NULL,NULL
+37115,1,1,103950,Beograd,"Palilula opstina",54,NULL,2020,NULL,NULL,NULL,NULL,1,1,NULL,1,1
+41866,1,1,103830,"Novi Sad","Gradske lokacije",72,NULL,2020,2,3,NULL,NULL,3,NULL,NULL,1,1
+56426,1,1,103790,"Novi Sad","Gradske lokacije",65,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+55201,1,1,103580,"Novi Sad","Gradske lokacije",63,NULL,2020,2,5,NULL,NULL,3,NULL,1,1,1
+16485,1,1,103500,"Novi Sad","Gradske lokacije",66,NULL,2020,1,4,NULL,NULL,3,NULL,1,1,1
+25709,1,1,103500,Beograd,"Zvezdara opstina",46,NULL,2020,1,6,NULL,"centralno grejanje",2,1,NULL,1,NULL
+49413,1,1,103500,"Novi Sad","Gradske lokacije",71,NULL,2020,2,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+46637,1,1,103210,"Novi Sad","Gradske lokacije",63,NULL,2020,2,5,NULL,"grejanje na gas",2.5,1,NULL,1,1
+55045,1,1,103180,"Novi Sad","Gradske lokacije",63,NULL,2020,3,5,NULL,NULL,3,NULL,1,1,1
+7133,1,1,103000,Beograd,"Vozdovac opstina",64,NULL,2020,2,2,1,"etazno grejanje",2.5,NULL,NULL,NULL,NULL
+42289,1,1,103000,"Novi Sad","Gradske lokacije",91,NULL,2020,0,4,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+47035,1,1,103000,Beograd,"Palilula opstina",57,NULL,2020,1,5,NULL,"etazno grejanje",3,1,1,1,1
+9784,1,1,102900,"Novi Sad","Gradske lokacije",62,NULL,2020,3,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+41723,1,1,102850,"Novi Sad","Gradske lokacije",83,NULL,2020,3,3,NULL,NULL,4,NULL,1,1,1
+54347,1,1,102850,Pancevo,"Gradske lokacije",85,NULL,2020,1,5,1,"grejanje na gas",3,2,1,1,1
+11494,1,1,102800,"Novi Sad","Gradske lokacije",73,NULL,2020,5,5,1,NULL,2.5,NULL,NULL,1,1
+38244,1,1,102800,"Novi Sad","Gradske lokacije",73,NULL,2020,6,6,NULL,"centralno grejanje",3,NULL,NULL,1,NULL
+55843,1,1,102800,"Novi Sad","Gradske lokacije",64,NULL,2020,1,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+38268,1,1,102780,"Novi Sad","Gradske lokacije",73,NULL,2020,6,7,NULL,"centralno grejanje",3,NULL,NULL,1,NULL
+57670,1,1,102700,"Novi Sad","Gradske lokacije",62,NULL,2020,3,5,1,"grejanje na gas",3,NULL,NULL,1,1
+57607,1,1,102680,"Novi Sad","Gradske lokacije",62,NULL,2020,1,5,1,"grejanje na gas",3,NULL,NULL,1,1
+42783,1,1,102600,"Novi Sad","Gradske lokacije",62,NULL,2020,4,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+47239,1,1,102190,"Novi Sad","Gradske lokacije",62,NULL,2020,1,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+37288,1,1,102170,"Novi Sad","Gradske lokacije",62,NULL,2020,2,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+37314,1,1,102170,"Novi Sad","Gradske lokacije",62,NULL,2020,1,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+47253,1,1,102170,"Novi Sad","Gradske lokacije",62,NULL,2020,2,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+37406,1,1,102120,"Novi Sad","Gradske lokacije",60,NULL,2020,2,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+37415,1,1,102062,"Novi Sad","Gradske lokacije",66,NULL,2020,1,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+42315,1,1,102000,"Novi Sad","Gradske lokacije",77,NULL,2020,1,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+2309,1,1,101970,"Novi Sad","Gradske lokacije",62,NULL,2020,4,4,1,"grejanje na gas",2.5,2,NULL,1,1
+24943,1,1,101970,"Novi Sad","Gradske lokacije",60,NULL,2020,2,5,1,"centralno grejanje",2.5,NULL,1,1,1
+16997,1,1,101900,"Novi Sad","Gradske lokacije",86,NULL,2020,1,2,1,"grejanje na gas",4,NULL,NULL,NULL,1
+31546,1,1,101650,"Novi Sad","Gradske lokacije",41,NULL,2020,3,5,1,"centralno grejanje",2,NULL,NULL,1,1
+23044,1,1,101400,"Novi Sad","Gradske lokacije",80,NULL,2020,4,4,NULL,"centralno grejanje",4,NULL,NULL,1,1
+18052,1,1,100900,"Novi Sad","Gradske lokacije",49,NULL,2020,3,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+26068,1,1,100633,Beograd,"Zvezdara opstina",61,NULL,2020,1,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+9807,1,1,100600,Beograd,"Zemun opstina",58,NULL,2020,2,2,NULL,"podno grejanje",2,NULL,NULL,NULL,NULL
+21166,1,1,100600,"Novi Sad","Gradske lokacije",63,NULL,2020,0,4,NULL,"centralno grejanje",3,NULL,NULL,1,1
+53704,1,1,100580,"Novi Sad","Gradske lokacije",63,NULL,2020,1,NULL,NULL,"centralno grejanje",3,1,NULL,1,1
+41802,1,1,100200,"Novi Sad","Gradske lokacije",76,NULL,2020,2,2,NULL,"grejanje na gas",4,NULL,NULL,NULL,1
+52089,1,1,100000,Kragujevac,"Gradske lokacije",95,NULL,2020,2,4,0,NULL,4,2,1,NULL,1
+54451,1,1,100000,Beograd,Vracar,44,NULL,2020,4,4,0,"etazno grejanje",1.5,NULL,NULL,1,1
+38781,1,1,99975,"Novi Sad","Gradske lokacije",88,NULL,2020,1,2,NULL,NULL,4,NULL,NULL,NULL,1
+24978,1,1,99900,"Novi Sad","Gradske lokacije",61,NULL,2020,2,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+56284,1,1,99900,"Novi Sad","Gradske lokacije",49,NULL,2020,0,2,NULL,"grejanje na gas",3,NULL,NULL,1,1
+27322,1,1,99800,"Novi Sad","Gradske lokacije",51,NULL,2020,1,5,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+42280,1,1,99700,"Novi Sad","Gradske lokacije",88,NULL,2020,0,4,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+56148,1,1,99700,"Novi Sad","Gradske lokacije",50,NULL,2020,2,4,NULL,"centralno grejanje",3,NULL,NULL,1,1
+37192,1,1,99500,Beograd,"Zemun opstina",58,NULL,2020,0,2,NULL,"etazno grejanje",2.5,1,NULL,NULL,1
+37432,1,1,99060,"Novi Sad","Gradske lokacije",60,NULL,2020,0,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+11019,1,1,99050,Beograd,"Zvezdara opstina",62,NULL,2020,0,3,NULL,"podno grejanje",2,NULL,1,NULL,1
+11217,1,1,99000,Beograd,"Zvezdara opstina",87,NULL,2020,3,3,1,"norveski radijatori",4,2,NULL,NULL,1
+18026,1,1,99000,"Novi Sad","Gradske lokacije",48,NULL,2020,5,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+25378,1,1,99000,Beograd,"Zvezdara opstina",86,NULL,2020,4,4,1,"norveski radijatori",4,NULL,NULL,NULL,1
+25447,1,1,99000,Beograd,"Zvezdara opstina",86,NULL,2020,3,4,1,"etazno grejanje",3.5,1,NULL,NULL,NULL
+37330,1,1,98880,"Novi Sad","Gradske lokacije",60,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+51797,1,1,98600,"Novi Sad","Gradske lokacije",66,NULL,2020,0,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+14852,1,1,98570,"Novi Sad","Gradske lokacije",65,NULL,2020,4,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+10023,1,1,98400,"Novi Sad","Gradske lokacije",57,NULL,2020,1,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+10028,1,1,98400,"Novi Sad","Gradske lokacije",57,NULL,2020,2,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+20980,1,1,98400,"Novi Sad","Gradske lokacije",57,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+29143,1,1,98400,Nis,"Gradske lokacije",81,NULL,2020,3,4,NULL,"grejanje na struju",3.5,NULL,1,1,NULL
+42379,1,1,98250,"Novi Sad","Gradske lokacije",85,NULL,2020,4,4,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+37306,1,1,98150,"Novi Sad","Gradske lokacije",59,NULL,2020,2,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+37335,1,1,98150,"Novi Sad","Gradske lokacije",59,NULL,2020,3,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+55827,1,1,98060,"Novi Sad","Gradske lokacije",68,NULL,2020,0,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+7437,1,1,98000,Beograd,"Vozdovac opstina",42,NULL,2020,3,5,0,"etazno grejanje",2,1,NULL,1,NULL
+38776,1,1,97900,"Novi Sad","Gradske lokacije",86,NULL,2020,2,2,NULL,"grejanje na gas",4,NULL,NULL,NULL,1
+38786,1,1,97900,"Novi Sad","Gradske lokacije",86,NULL,2020,1,2,NULL,"grejanje na gas",4,NULL,NULL,NULL,1
+33902,1,1,97850,"Novi Sad","Gradske lokacije",65,NULL,2020,0,4,1,"grejanje na gas",2.5,1,1,1,1
+42719,1,1,97800,"Novi Sad","Gradske lokacije",59,NULL,2020,4,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+42723,1,1,97800,"Novi Sad","Gradske lokacije",59,NULL,2020,2,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+42732,1,1,97800,"Novi Sad","Gradske lokacije",59,NULL,2020,1,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+47566,1,1,97750,Kragujevac,"Gradske lokacije",85,NULL,2020,3,NULL,0,NULL,4,1,NULL,1,1
+49724,1,1,97700,"Novi Sad","Gradske lokacije",63,NULL,2020,2,5,NULL,"centralno grejanje",2.5,NULL,NULL,1,1
+21150,1,1,97500,"Novi Sad","Gradske lokacije",61,NULL,2020,0,4,NULL,"centralno grejanje",3,NULL,NULL,1,1
+31187,1,1,97240,"Novi Sad","Gradske lokacije",68,NULL,2020,0,4,NULL,"centralno grejanje",3,2,1,1,NULL
+49812,1,1,97200,"Novi Sad","Gradske lokacije",62,NULL,2020,1,5,NULL,"centralno grejanje",2.5,NULL,NULL,1,1
+51261,1,1,97200,Beograd,"Novi Beograd",72,NULL,2020,0,2,1,"etazno grejanje",3,1,NULL,NULL,1
+55835,1,1,97150,"Novi Sad","Gradske lokacije",67,NULL,2020,0,3,NULL,"grejanje na gas",3,NULL,NULL,NULL,NULL
+51838,1,1,97104,"Novi Sad","Gradske lokacije",57,NULL,2020,3,7,NULL,"centralno grejanje",3,NULL,NULL,1,1
+51908,1,1,97104,"Novi Sad","Gradske lokacije",57,NULL,2020,2,7,NULL,"centralno grejanje",3,NULL,NULL,1,1
+51917,1,1,97104,"Novi Sad","Gradske lokacije",57,NULL,2020,1,7,NULL,"centralno grejanje",3,NULL,NULL,1,1
+16686,1,1,97100,"Novi Sad","Gradske lokacije",68,NULL,2020,0,4,1,NULL,3,NULL,NULL,1,NULL
+52640,1,1,96700,"Novi Sad","Gradske lokacije",63,NULL,2020,1,4,1,NULL,3,NULL,1,1,1
+52812,1,1,96700,"Novi Sad","Gradske lokacije",63,NULL,2020,2,4,1,NULL,3,NULL,1,1,1
+49606,1,1,96200,"Novi Sad","Gradske lokacije",75,NULL,2020,1,2,NULL,NULL,3,NULL,1,NULL,1
+53691,1,1,96140,"Novi Sad","Gradske lokacije",65,NULL,2020,0,NULL,NULL,"centralno grejanje",3,1,NULL,1,NULL
+49884,1,1,96010,"Novi Sad","Gradske lokacije",66,NULL,2020,4,4,NULL,"centralno grejanje",2,1,1,1,1
+36411,1,1,96000,"Novi Sad","Gradske lokacije",63,NULL,2020,2,5,1,"centralno grejanje",2.5,NULL,NULL,1,1
+53501,1,1,96000,Beograd,"Zemun opstina",48,NULL,2020,0,2,NULL,"podno grejanje",2,NULL,NULL,NULL,1
+49643,1,1,95960,"Novi Sad","Gradske lokacije",75,NULL,2020,2,2,NULL,NULL,3,NULL,1,NULL,1
+38285,1,1,95800,"Novi Sad","Gradske lokacije",68,NULL,2020,6,7,NULL,"centralno grejanje",3,NULL,NULL,1,NULL
+2239,1,1,95790,"Novi Sad","Gradske lokacije",62,NULL,2020,1,5,1,"grejanje na gas",3,1,NULL,1,1
+56575,1,1,95790,"Novi Sad","Gradske lokacije",60,NULL,2020,1,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+47430,1,1,95750,"Novi Sad","Gradske lokacije",68,NULL,2020,5,5,1,NULL,2,NULL,NULL,1,1
+41775,1,1,95530,"Novi Sad","Gradske lokacije",88,NULL,2020,3,3,NULL,"etazno grejanje",4,NULL,NULL,1,NULL
+42575,1,1,95500,"Novi Sad","Gradske lokacije",66,NULL,2020,4,4,NULL,NULL,2,NULL,NULL,1,1
+51815,1,1,95300,"Novi Sad","Gradske lokacije",66,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+31735,1,1,95270,"Novi Sad","Gradske lokacije",77,NULL,2020,3,3,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+41842,1,1,95250,"Novi Sad","Gradske lokacije",88,NULL,2020,3,3,NULL,NULL,4,NULL,1,1,1
+49585,1,1,95250,"Novi Sad","Gradske lokacije",65,NULL,2020,3,5,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+49655,1,1,95250,"Novi Sad","Gradske lokacije",65,NULL,2020,1,5,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+41805,1,1,95220,"Novi Sad","Gradske lokacije",88,NULL,2020,3,3,NULL,"etazno grejanje",4,NULL,NULL,1,1
+21172,1,1,95100,"Novi Sad","Gradske lokacije",65,NULL,2020,0,4,NULL,"centralno grejanje",3,NULL,NULL,1,1
+27446,1,1,95100,"Novi Sad","Gradske lokacije",51,NULL,2020,1,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+53991,1,1,95050,"Novi Sad","Gradske lokacije",57,NULL,2020,0,3,NULL,"etazno grejanje",3,NULL,NULL,1,NULL
+51276,1,1,95040,Beograd,"Novi Beograd",72,NULL,2020,4,4,1,"etazno grejanje",3,NULL,NULL,1,1
+19070,0,1,95000,Beograd,"Mladenovac opstina",240,NULL,2020,NULL,NULL,0,"grejanje na struju",NULL,NULL,1,NULL,1
+47553,1,1,95000,Beograd,"Zvezdara opstina",40,NULL,2020,1,4,0,"centralno grejanje",1.5,NULL,NULL,1,1
+50933,1,1,95000,Beograd,"Novi Beograd",74,NULL,2020,0,2,1,"etazno grejanje",3,NULL,1,NULL,NULL
+37344,1,1,94650,"Novi Sad","Gradske lokacije",77,NULL,2020,5,6,NULL,NULL,4,NULL,1,1,1
+16504,1,1,94500,"Novi Sad","Gradske lokacije",68,NULL,2020,1,2,NULL,"etazno grejanje",3,NULL,NULL,NULL,NULL
+54440,1,1,94500,Beograd,Vracar,37,NULL,2020,3,4,0,"etazno grejanje",1.5,NULL,1,1,NULL
+58171,1,1,94460,"Novi Sad","Gradske lokacije",77,NULL,2020,3,4,1,NULL,4,NULL,NULL,1,1
+58078,1,1,94450,"Novi Sad","Gradske lokacije",77,NULL,2020,3,3,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+37094,1,1,94325,Beograd,"Palilula opstina",49,NULL,2020,NULL,NULL,NULL,NULL,1,1,NULL,1,1
+42259,1,1,94320,"Novi Sad","Gradske lokacije",83,NULL,2020,0,4,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+41785,1,1,94280,"Novi Sad","Gradske lokacije",83,NULL,2020,3,3,NULL,"etazno grejanje",4,NULL,NULL,1,NULL
+53736,1,1,94270,"Novi Sad","Gradske lokacije",64,NULL,2020,0,NULL,1,"centralno grejanje",3,1,NULL,1,NULL
+58062,1,1,94215,"Novi Sad","Gradske lokacije",76,NULL,2020,2,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+31739,1,1,94210,"Novi Sad","Gradske lokacije",76,NULL,2020,2,3,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+21203,1,1,94100,"Novi Sad","Gradske lokacije",60,NULL,2020,1,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+41646,1,1,94100,"Novi Sad","Gradske lokacije",63,NULL,2020,1,3,NULL,NULL,3,NULL,NULL,1,1
+24479,1,1,94010,"Novi Sad","Gradske lokacije",94,NULL,2020,6,6,1,"centralno grejanje",4,NULL,NULL,1,1
+17460,1,1,94000,"Novi Sad","Gradske lokacije",83,NULL,2020,2,2,NULL,"centralno grejanje",3,NULL,NULL,NULL,1
+26832,1,1,94000,Kragujevac,"Gradske lokacije",82,NULL,2020,1,4,1,"podno grejanje",2.5,2,1,NULL,NULL
+41792,1,1,94000,"Novi Sad","Gradske lokacije",83,NULL,2020,0,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+53494,1,1,94000,Beograd,"Zemun opstina",47,NULL,2020,0,2,NULL,"podno grejanje",2,NULL,NULL,NULL,1
+53541,1,1,94000,Beograd,"Zemun opstina",47,NULL,2020,0,2,NULL,"podno grejanje",1.5,NULL,NULL,NULL,1
+37293,1,1,93900,"Novi Sad","Gradske lokacije",57,NULL,2020,2,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+47223,1,1,93900,"Novi Sad","Gradske lokacije",57,NULL,2020,1,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+41780,1,1,93770,"Novi Sad","Gradske lokacije",86,NULL,2020,3,3,NULL,"etazno grejanje",4,NULL,NULL,1,1
+8950,1,1,93730,"Novi Sad","Gradske lokacije",52,NULL,2020,2,7,1,"centralno grejanje",2.5,NULL,NULL,1,1
+17948,1,1,93600,"Novi Sad","Gradske lokacije",45,NULL,2020,4,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+21169,1,1,93600,"Novi Sad","Gradske lokacije",64,NULL,2020,0,4,NULL,"centralno grejanje",3,NULL,NULL,1,1
+37268,1,1,93600,Beograd,"Zemun opstina",52,NULL,2020,3,4,1,"podno grejanje",2.5,1,NULL,1,1
+14820,1,1,93550,"Novi Sad","Gradske lokacije",66,NULL,2020,1,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+14825,1,1,93550,"Novi Sad","Gradske lokacije",66,NULL,2020,2,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+30003,1,1,93500,Nis,"Gradske lokacije",85,NULL,2020,NULL,NULL,NULL,NULL,3.5,1,NULL,NULL,NULL
+38490,1,1,93250,Beograd,"Zvezdara opstina",54,NULL,2020,4,5,1,"etazno grejanje",2.5,1,NULL,1,NULL
+41881,1,1,93200,"Novi Sad","Gradske lokacije",67,NULL,2020,4,5,NULL,"centralno grejanje",3,NULL,NULL,1,1
+46705,1,1,93200,"Novi Sad","Gradske lokacije",67,NULL,2020,3,2,NULL,"grejanje na gas",2.5,NULL,NULL,NULL,NULL
+49430,1,1,93200,"Novi Sad","Gradske lokacije",67,NULL,2020,4,5,NULL,"etazno grejanje",3,NULL,NULL,1,1
+29788,1,1,93165,"Novi Sad","Gradske lokacije",67,NULL,2020,5,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+20700,1,1,93130,Beograd,"Cukarica opstina",67,NULL,2020,0,3,1,"etazno grejanje",3,NULL,1,NULL,1
+19112,1,1,92940,"Novi Sad","Gradske lokacije",63,NULL,2020,1,NULL,0,"grejanje na gas",2.5,1,1,1,1
+43252,1,1,92905,"Novi Sad","Gradske lokacije",82,NULL,2020,2,2,1,NULL,3.5,NULL,NULL,NULL,1
+43274,1,1,92905,"Novi Sad","Gradske lokacije",82,NULL,2020,2,2,1,NULL,3.5,NULL,NULL,NULL,1
+31710,1,1,92900,"Novi Sad","Gradske lokacije",75,NULL,2020,2,2,NULL,"grejanje na gas",4,NULL,NULL,NULL,1
+50867,1,1,92900,"Novi Sad","Gradske lokacije",82,NULL,2020,2,2,NULL,"etazno grejanje",4,NULL,NULL,NULL,NULL
+54024,1,1,92900,"Novi Sad","Gradske lokacije",41,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+58072,1,1,92860,"Novi Sad","Gradske lokacije",75,NULL,2020,2,3,1,NULL,4,NULL,NULL,1,1
+58082,1,1,92850,"Novi Sad","Gradske lokacije",75,NULL,2020,2,2,NULL,"grejanje na gas",4,NULL,NULL,1,1
+55578,1,1,92800,Beograd,Vracar,58,NULL,2020,4,4,0,"centralno grejanje",2,NULL,NULL,1,1
+58756,1,1,92730,Zlatibor,"Gradske lokacije",56,NULL,2020,-1,NULL,NULL,NULL,3,1,NULL,NULL,NULL
+38315,1,1,92700,"Novi Sad","Gradske lokacije",52,NULL,2020,2,5,1,"centralno grejanje",2.5,2,1,1,1
+43318,1,1,92700,"Novi Sad","Gradske lokacije",65,NULL,2020,0,2,NULL,"centralno grejanje",3.5,NULL,NULL,NULL,NULL
+51633,1,1,92700,"Novi Sad","Gradske lokacije",107,NULL,2020,5,5,NULL,"grejanje na gas",4,3,NULL,1,NULL
+55841,1,1,92600,"Novi Sad","Gradske lokacije",62,NULL,2020,4,4,NULL,"etazno grejanje",3,NULL,NULL,1,1
+59133,1,1,92480,Zlatibor,"Okolne lokacije",54,NULL,2020,3,5,NULL,"norveski radijatori",3,NULL,NULL,NULL,NULL
+37177,1,1,92400,Beograd,"Palilula opstina",48,NULL,2020,NULL,NULL,NULL,NULL,1,1,NULL,1,1
+41875,1,1,92390,"Novi Sad","Gradske lokacije",69,NULL,2020,0,3,NULL,NULL,3,NULL,NULL,1,1
+38290,1,1,92350,"Novi Sad","Gradske lokacije",65,NULL,2020,6,7,NULL,"centralno grejanje",3,NULL,NULL,1,NULL
+42864,1,1,92340,"Novi Sad","Gradske lokacije",61,NULL,2020,4,4,1,"grejanje na gas",1.5,1,NULL,1,1
+24934,1,1,92300,"Novi Sad","Gradske lokacije",65,NULL,2020,6,6,NULL,"centralno grejanje",2.5,NULL,NULL,1,NULL
+47427,1,1,92300,"Novi Sad","Gradske lokacije",65,NULL,2020,5,5,1,NULL,2.5,NULL,NULL,1,1
+43769,1,1,92196,"Novi Sad","Gradske lokacije",51,NULL,2020,7,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+21144,1,1,92100,"Novi Sad","Gradske lokacije",63,NULL,2020,1,4,NULL,"centralno grejanje",3,NULL,NULL,1,1
+52114,1,1,92000,Kragujevac,"Gradske lokacije",82,NULL,2020,1,NULL,1,"podno grejanje",4,2,1,NULL,NULL
+52736,1,1,92000,"Novi Sad","Gradske lokacije",80,NULL,2020,2,2,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+58344,1,1,92000,Zlatibor,"Gradske lokacije",49,NULL,2020,2,5,NULL,NULL,2,1,1,NULL,1
+41814,1,1,91900,"Novi Sad","Gradske lokacije",81,NULL,2020,2,2,NULL,NULL,4,NULL,1,NULL,1
+54432,1,1,91800,Beograd,Vracar,36,NULL,2020,1,4,0,"etazno grejanje",1.5,NULL,1,1,NULL
+57794,1,1,91800,"Novi Sad","Gradske lokacije",54,NULL,2020,0,4,NULL,"centralno grejanje",2.5,NULL,NULL,1,1
+19011,1,1,91700,"Novi Sad","Gradske lokacije",56,NULL,2020,1,5,1,NULL,2.5,NULL,NULL,1,1
+42000,1,1,91700,"Novi Sad","Gradske lokacije",68,NULL,2020,3,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+49589,1,1,91650,"Novi Sad","Gradske lokacije",71,NULL,2020,3,3,NULL,NULL,3,NULL,1,1,1
+37392,1,1,91500,"Novi Sad","Gradske lokacije",65,NULL,2020,0,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+42255,1,1,91220,"Novi Sad","Gradske lokacije",72,NULL,2020,2,2,NULL,"etazno grejanje",3.5,NULL,NULL,1,1
+31142,1,1,91200,"Novi Sad","Gradske lokacije",59,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+9757,1,1,91000,"Novi Sad","Gradske lokacije",57,NULL,2020,1,5,1,"grejanje na gas",2.5,1,NULL,1,1
+9993,1,1,91000,"Novi Sad","Gradske lokacije",57,NULL,2020,1,4,1,"grejanje na gas",2.5,NULL,NULL,1,1
+20885,1,1,91000,Beograd,"Cukarica opstina",80,NULL,2020,2,2,NULL,"grejanje na gas",3,1,1,NULL,1
+41968,1,1,91000,"Novi Sad","Gradske lokacije",71,NULL,2020,2,2,NULL,"grejanje na gas",3,NULL,NULL,1,NULL
+49583,1,1,90660,"Novi Sad","Gradske lokacije",61,NULL,2020,2,6,NULL,"grejanje na gas",3,1,NULL,1,1
+19107,1,1,90640,"Novi Sad","Gradske lokacije",55,NULL,2020,4,6,NULL,"centralno grejanje",2.5,NULL,NULL,1,1
+41832,1,1,90570,"Novi Sad","Gradske lokacije",76,NULL,2020,3,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+38762,1,1,90200,"Novi Sad","Gradske lokacije",79,NULL,2020,0,2,NULL,"grejanje na gas",4,NULL,NULL,NULL,1
+26106,1,1,90000,Beograd,"Zvezdara opstina",53,NULL,2020,1,3,NULL,"etazno grejanje",2,1,1,1,1
+26123,1,1,90000,Beograd,"Zvezdara opstina",53,NULL,2020,2,3,NULL,"etazno grejanje",2,1,1,1,1
+43438,1,1,90000,Beograd,"Vozdovac opstina",81,NULL,2020,3,4,0,"etazno grejanje",3.5,NULL,1,NULL,1
+47533,1,1,90000,Beograd,"Zvezdara opstina",41,NULL,2020,0,4,0,"centralno grejanje",1.5,NULL,NULL,1,NULL
+48667,1,1,90000,"Novi Sad","Gradske lokacije",46,NULL,2020,1,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+4495,0,1,89990,Beograd,"Vozdovac opstina",72,100,2020,NULL,NULL,0,"podno grejanje",3,2,1,NULL,NULL
+50390,1,1,89900,Beograd,Vracar,35,NULL,2020,1,4,NULL,"etazno grejanje",1.5,1,NULL,1,NULL
+10033,1,1,89700,"Novi Sad","Gradske lokacije",52,NULL,2020,0,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,NULL
+14875,1,1,89600,"Novi Sad","Gradske lokacije",58,NULL,2020,5,5,NULL,"grejanje na gas",3,NULL,NULL,1,NULL
+21284,1,1,89600,"Novi Sad","Gradske lokacije",58,NULL,2020,4,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+10155,1,1,89500,Beograd,"Savski Venac",22,NULL,2020,17,22,1,NULL,0.5,1,NULL,NULL,NULL
+16666,1,1,89400,"Novi Sad","Gradske lokacije",62,NULL,2020,4,4,NULL,NULL,3,NULL,NULL,1,1
+55564,1,1,89300,Beograd,Vracar,35,NULL,2020,1,4,0,"etazno grejanje",1,NULL,1,1,NULL
+49350,1,1,89170,Nis,"Gradske lokacije",68,NULL,2020,2,4,NULL,NULL,2,2,NULL,1,1
+52519,1,1,89170,Nis,"Gradske lokacije",68,NULL,2020,2,4,NULL,NULL,2,2,NULL,1,1
+9254,1,1,89100,"Novi Sad","Gradske lokacije",41,NULL,2020,3,6,1,NULL,2,NULL,NULL,1,1
+47738,1,1,89100,"Novi Sad","Gradske lokacije",41,NULL,2020,3,6,1,"centralno grejanje",2,NULL,NULL,1,1
+42284,1,1,89050,"Novi Sad","Gradske lokacije",79,NULL,2020,2,2,NULL,NULL,3.5,NULL,1,NULL,1
+14099,1,1,89000,Nis,"Gradske lokacije",72,NULL,2020,0,4,1,"norveski radijatori",3.5,2,1,NULL,NULL
+25620,1,1,89000,Beograd,"Zvezdara opstina",67,NULL,2020,1,3,NULL,"centralno grejanje",3,1,1,1,NULL
+21231,1,1,88990,"Novi Sad","Gradske lokacije",60,NULL,2020,0,4,NULL,"centralno grejanje",3,NULL,NULL,1,1
+42343,1,1,88990,"Novi Sad","Gradske lokacije",64,NULL,2020,2,3,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+45263,1,1,88990,"Novi Sad","Gradske lokacije",60,NULL,2020,0,4,NULL,"centralno grejanje",2,NULL,NULL,1,1
+49919,1,1,88948,"Novi Sad","Gradske lokacije",62,NULL,2020,4,4,NULL,"centralno grejanje",2,1,1,1,1
+53958,1,1,88880,"Novi Sad","Gradske lokacije",49,NULL,2020,0,2,NULL,"grejanje na gas",2,NULL,NULL,1,1
+4661,1,1,88840,"Novi Sad","Gradske lokacije",38,NULL,2020,2,4,1,NULL,1.5,NULL,NULL,1,1
+53548,1,1,88800,Beograd,"Zemun opstina",48,NULL,2020,0,NULL,NULL,NULL,1.5,NULL,1,NULL,1
+42264,1,1,88740,"Novi Sad","Gradske lokacije",78,NULL,2020,0,4,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+42763,1,1,88700,"Novi Sad","Gradske lokacije",60,NULL,2020,4,4,NULL,NULL,2,NULL,NULL,1,1
+8643,1,1,88500,Beograd,Vracar,35,NULL,2020,1,3,0,"etazno grejanje",1.5,NULL,1,1,1
+44305,1,1,88500,Beograd,Vracar,35,NULL,2020,1,4,NULL,"centralno grejanje",1.5,NULL,1,1,NULL
+21131,1,1,88400,"Novi Sad","Gradske lokacije",57,NULL,2020,1,4,NULL,"centralno grejanje",3,NULL,NULL,1,1
+41638,1,1,88370,"Novi Sad","Gradske lokacije",65,NULL,2020,0,3,NULL,NULL,3,NULL,NULL,1,1
+38112,1,1,88350,Beograd,"Zvezdara opstina",40,NULL,2020,3,3,0,"centralno grejanje",2,NULL,NULL,1,1
+27875,1,1,88300,"Novi Sad","Gradske lokacije",45,NULL,2020,5,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+16450,1,1,88250,"Novi Sad","Gradske lokacije",61,NULL,2020,1,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+16454,1,1,88250,"Novi Sad","Gradske lokacije",61,NULL,2020,3,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+60255,1,1,88250,"Novi Sad","Gradske lokacije",45,NULL,2020,5,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+55802,1,1,88100,"Novi Sad","Gradske lokacije",59,NULL,2020,1,4,NULL,"etazno grejanje",3,NULL,NULL,1,1
+55863,1,1,88100,"Novi Sad","Gradske lokacije",57,NULL,2020,1,4,NULL,"etazno grejanje",3,NULL,NULL,1,1
+22406,1,1,88000,Beograd,"Novi Beograd",37,NULL,2020,1,4,NULL,"centralno grejanje",1,NULL,1,1,NULL
+53544,1,1,88000,Beograd,"Zemun opstina",46,NULL,2020,1,2,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+49471,1,1,87970,"Novi Sad","Gradske lokacije",60,NULL,2020,1,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+6485,0,1,87600,"Novi Sad","Gradske lokacije",103,NULL,2020,NULL,NULL,NULL,"grejanje na gas",NULL,NULL,NULL,NULL,NULL
+49409,1,1,87600,"Novi Sad","Gradske lokacije",63,NULL,2020,4,5,NULL,"etazno grejanje",3,NULL,NULL,1,1
+8516,1,1,87550,"Novi Sad","Gradske lokacije",55,NULL,2020,1,3,1,"grejanje na gas",2.5,1,NULL,1,1
+58602,1,1,87500,Zlatibor,"Gradske lokacije",35,NULL,2020,1,5,1,"norveski radijatori",1,2,NULL,1,1
+43191,1,1,87400,"Novi Sad","Gradske lokacije",40,NULL,2020,1,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+27932,1,1,87150,"Novi Sad","Gradske lokacije",47,NULL,2020,5,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+31472,1,1,87000,"Novi Sad","Gradske lokacije",46,NULL,2020,3,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+31798,1,1,87000,"Novi Sad","Gradske lokacije",73,NULL,2020,0,2,NULL,NULL,3.5,NULL,NULL,NULL,1
+47740,1,1,87000,Kragujevac,"Gradske lokacije",83,NULL,2020,1,8,0,"grejanje na gas",3,2,NULL,1,1
+39701,1,1,86900,"Novi Sad","Gradske lokacije",46,NULL,2020,1,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+42927,1,1,86900,"Novi Sad","Gradske lokacije",49,NULL,2020,4,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49466,1,1,86550,"Novi Sad","Gradske lokacije",59,NULL,2020,1,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+31119,1,1,86500,"Novi Sad","Gradske lokacije",56,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+46925,1,1,86500,"Novi Sad","Gradske lokacije",49,NULL,2020,2,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+26724,1,1,86200,"Novi Sad","Gradske lokacije",93,NULL,2020,2,2,1,"grejanje na gas",3,NULL,1,NULL,1
+41886,1,1,86200,"Novi Sad","Gradske lokacije",61,NULL,2020,2,3,NULL,NULL,3,NULL,NULL,1,1
+29885,1,1,85900,"Novi Sad","Gradske lokacije",69,NULL,2020,1,2,NULL,NULL,3,NULL,NULL,NULL,1
+48759,1,1,85900,"Novi Sad","Gradske lokacije",45,NULL,2020,5,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+16910,1,1,85700,Nis,"Gradske lokacije",69,NULL,2020,NULL,NULL,0,"TA pec",2.5,1,1,1,1
+16916,1,1,85700,Nis,"Gradske lokacije",69,NULL,2020,0,NULL,0,NULL,2.5,1,NULL,NULL,NULL
+16935,1,1,85700,Nis,"Gradske lokacije",69,NULL,2020,NULL,NULL,0,"TA pec",2.5,1,1,1,1
+49969,1,1,85516,"Novi Sad","Gradske lokacije",59,NULL,2020,4,4,NULL,"centralno grejanje",2,1,1,1,1
+22292,1,1,85500,"Novi Sad","Gradske lokacije",57,NULL,2020,2,4,1,"centralno grejanje",2.5,NULL,NULL,1,1
+16959,1,1,85400,Nis,"Gradske lokacije",68,NULL,2020,NULL,NULL,0,NULL,2.5,1,1,1,1
+16972,1,1,85400,Nis,"Gradske lokacije",68,NULL,2020,0,NULL,0,NULL,2.5,1,NULL,NULL,NULL
+16982,1,1,85400,Nis,"Gradske lokacije",68,NULL,2020,NULL,NULL,0,NULL,2.5,1,1,1,1
+26745,1,1,85280,"Novi Sad","Gradske lokacije",92,NULL,2020,100,100,1,"grejanje na gas",3,2,1,NULL,1
+41956,1,1,85275,"Novi Sad","Gradske lokacije",62,NULL,2020,1,4,NULL,"grejanje na gas",3,1,NULL,1,1
+42808,1,1,85200,"Novi Sad","Gradske lokacije",51,NULL,2020,4,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+43125,1,1,85200,"Novi Sad","Gradske lokacije",32,NULL,2020,2,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+47780,1,1,85200,Kragujevac,"Gradske lokacije",71,NULL,2020,1,NULL,0,NULL,3,1,NULL,1,1
+42009,1,1,85100,"Novi Sad","Gradske lokacije",60,NULL,2020,3,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+49453,1,1,85050,"Novi Sad","Gradske lokacije",61,NULL,2020,2,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+12012,1,1,85000,"Novi Sad","Gradske lokacije",75,NULL,2020,1,1,NULL,"grejanje na gas",3,NULL,NULL,NULL,1
+26083,1,1,85000,Beograd,"Zvezdara opstina",50,NULL,2020,2,3,NULL,"etazno grejanje",2,1,1,1,1
+26129,1,1,85000,Beograd,"Zvezdara opstina",50,NULL,2020,1,3,NULL,"etazno grejanje",2,1,1,1,1
+43129,1,1,85000,"Novi Sad","Gradske lokacije",81,NULL,2020,2,2,NULL,"podno grejanje",4,2,1,NULL,1
+52966,1,1,85000,Beograd,"Vozdovac opstina",66,NULL,2020,0,3,1,NULL,3,NULL,NULL,NULL,1
+58606,1,1,85000,Zlatibor,"Gradske lokacije",33,NULL,2020,1,6,0,NULL,1,2,1,1,1
+58944,1,1,85000,Zlatibor,"Gradske lokacije",43,NULL,2020,4,6,1,"norveski radijatori",2,1,NULL,1,1
+42718,1,1,84700,"Novi Sad","Gradske lokacije",58,NULL,2020,4,4,NULL,NULL,2.5,NULL,NULL,1,NULL
+25414,1,1,84600,Beograd,"Zvezdara opstina",71,NULL,2020,4,4,1,"etazno grejanje",3,1,1,1,1
+37366,1,1,84500,"Novi Sad","Gradske lokacije",70,NULL,2020,4,4,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+43138,1,1,84500,"Novi Sad","Gradske lokacije",41,NULL,2020,3,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+41826,1,1,84470,"Novi Sad","Gradske lokacije",74,NULL,2020,4,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+53800,1,1,84460,"Novi Sad","Gradske lokacije",61,NULL,2020,0,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+27473,1,1,84410,"Novi Sad","Gradske lokacije",45,NULL,2020,1,5,NULL,NULL,2,NULL,NULL,1,1
+43213,1,1,84100,"Novi Sad","Gradske lokacije",39,NULL,2020,2,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+52457,1,1,84100,"Novi Sad","Gradske lokacije",43,NULL,2020,1,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+48765,1,1,84050,"Novi Sad","Gradske lokacije",42,NULL,2020,1,5,1,"centralno grejanje",2,NULL,NULL,1,1
+17851,1,1,84000,Beograd,"Vozdovac opstina",42,NULL,2020,1,9,0,"etazno grejanje",2,NULL,1,1,1
+47080,1,1,84000,"Novi Sad","Gradske lokacije",58,NULL,2020,3,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+54858,1,1,84000,Beograd,"Zemun opstina",35,NULL,2020,0,2,NULL,NULL,2,NULL,1,1,1
+23843,1,1,83640,"Novi Sad","Gradske lokacije",58,NULL,2020,4,5,1,"centralno grejanje",2.5,1,NULL,1,1
+17050,1,1,83590,Nis,"Gradske lokacije",67,NULL,2020,NULL,NULL,0,"grejanje na struju",3,2,1,1,1
+17145,1,1,83590,Nis,"Gradske lokacije",67,NULL,2020,NULL,NULL,0,"grejanje na struju",3,2,1,1,1
+17178,1,1,83590,Nis,"Gradske lokacije",67,NULL,2020,0,5,0,NULL,3,2,NULL,NULL,NULL
+26753,1,1,83450,"Novi Sad","Gradske lokacije",90,NULL,2020,1,2,1,"grejanje na gas",3,NULL,1,NULL,1
+26763,1,1,83430,"Novi Sad","Gradske lokacije",90,NULL,2020,1,2,1,"grejanje na gas",3,2,1,NULL,1
+49506,1,1,83400,"Novi Sad","Gradske lokacije",60,NULL,2020,5,5,NULL,"etazno grejanje",3,NULL,NULL,1,1
+43149,1,1,83300,"Novi Sad","Gradske lokacije",40,NULL,2020,1,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+52618,1,1,83100,"Novi Sad","Gradske lokacije",55,NULL,2020,0,4,1,NULL,3,NULL,1,1,1
+49826,1,1,83020,"Novi Sad","Gradske lokacije",62,NULL,2020,0,3,NULL,NULL,2.5,NULL,NULL,1,1
+39164,1,1,83000,Beograd,"Zvezdara opstina",41,NULL,2020,2,5,1,NULL,2,1,NULL,NULL,NULL
+51812,1,1,83000,"Novi Sad","Gradske lokacije",52,NULL,2020,2,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+43160,1,1,82800,"Novi Sad","Gradske lokacije",38,NULL,2020,1,3,1,"centralno grejanje",2,NULL,NULL,1,1
+43206,1,1,82800,"Novi Sad","Gradske lokacije",38,NULL,2020,2,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+57741,1,1,82780,"Novi Sad","Gradske lokacije",64,NULL,2020,1,2,NULL,"grejanje na gas",4,NULL,NULL,1,1
+56995,1,1,82770,"Novi Sad","Gradske lokacije",65,NULL,2020,1,3,1,NULL,3.5,NULL,NULL,1,1
+31693,1,1,82760,"Novi Sad","Gradske lokacije",64,NULL,2020,1,3,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+43076,1,1,82700,"Novi Sad","Gradske lokacije",41,NULL,2020,4,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+58175,1,1,82700,"Novi Sad","Gradske lokacije",64,NULL,2020,2,2,NULL,"grejanje na gas",4,NULL,NULL,1,1
+46704,1,1,82690,"Novi Sad","Gradske lokacije",54,NULL,2020,4,4,NULL,NULL,2.5,NULL,NULL,1,1
+43258,1,1,82600,"Novi Sad","Gradske lokacije",91,NULL,2020,2,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+55177,1,1,82550,"Novi Sad","Gradske lokacije",61,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+41861,1,1,82500,"Novi Sad","Gradske lokacije",62,NULL,2020,1,2,NULL,"grejanje na gas",3,NULL,NULL,NULL,1
+46916,1,1,82410,"Novi Sad","Gradske lokacije",44,NULL,2020,1,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+49578,1,1,82400,"Novi Sad","Gradske lokacije",67,NULL,2020,2,2,NULL,NULL,3,NULL,1,NULL,1
+50805,1,1,82400,"Novi Sad","Gradske lokacije",61,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,NULL
+58587,1,1,82400,Zlatibor,"Okolne lokacije",36,NULL,2020,1,NULL,NULL,NULL,1.5,1,NULL,NULL,NULL
+39626,1,1,82350,"Novi Sad","Gradske lokacije",48,NULL,2020,0,3,NULL,"etazno grejanje",2.5,NULL,NULL,1,NULL
+33912,1,1,82300,"Novi Sad","Gradske lokacije",47,NULL,2020,4,6,NULL,"centralno grejanje",1.5,NULL,NULL,1,1
+49460,1,1,82300,"Novi Sad","Gradske lokacije",61,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+60665,1,1,82300,"Novi Sad","Gradske lokacije",44,NULL,2020,0,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+54845,1,1,82250,Beograd,"Zemun opstina",35,NULL,2020,2,2,NULL,NULL,2,NULL,1,1,1
+49678,1,1,82210,"Novi Sad","Gradske lokacije",61,NULL,2020,0,3,NULL,NULL,3,NULL,1,1,1
+2316,1,1,82200,"Novi Sad","Gradske lokacije",57,NULL,2020,3,6,0,"grejanje na gas",3,1,NULL,1,1
+11218,1,1,82050,"Novi Sad","Gradske lokacije",48,NULL,2020,6,7,NULL,"centralno grejanje",2,NULL,NULL,1,NULL
+55011,1,1,82000,"Novi Sad","Gradske lokacije",61,NULL,2020,1,NULL,NULL,"grejanje na gas",3,2,1,1,1
+39717,1,1,81900,"Novi Sad","Gradske lokacije",42,NULL,2020,3,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+51907,1,1,81900,"Novi Sad","Gradske lokacije",61,NULL,2020,0,3,1,"grejanje na gas",3,NULL,NULL,1,1
+53524,1,1,81900,Beograd,"Novi Beograd",63,NULL,2020,2,2,NULL,"etazno grejanje",3,NULL,NULL,NULL,1
+39794,1,1,81800,"Novi Sad","Gradske lokacije",42,NULL,2020,1,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+31730,1,1,81760,"Novi Sad","Gradske lokacije",66,NULL,2020,3,3,NULL,"grejanje na gas",2.5,NULL,NULL,NULL,1
+47647,1,1,81760,"Novi Sad","Gradske lokacije",81,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+58064,1,1,81760,"Novi Sad","Gradske lokacije",66,NULL,2020,3,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+58084,1,1,81760,"Novi Sad","Gradske lokacije",66,NULL,2020,3,4,1,NULL,2.5,NULL,NULL,1,1
+17884,1,1,81700,"Novi Sad","Gradske lokacije",40,NULL,2020,4,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+38581,1,1,81700,Beograd,"Zvezdara opstina",40,NULL,2020,0,4,NULL,"etazno grejanje",1.5,1,NULL,1,NULL
+5110,1,1,81650,Nis,"Gradske lokacije",71,NULL,2020,4,NULL,1,"grejanje na struju",4,2,1,1,1
+47605,1,1,81650,Kragujevac,"Gradske lokacije",71,NULL,2020,2,NULL,0,NULL,3,1,NULL,1,1
+42705,1,1,81600,"Novi Sad","Gradske lokacije",57,NULL,2020,0,4,NULL,NULL,2.5,NULL,NULL,1,NULL
+43074,1,1,81600,"Novi Sad","Gradske lokacije",72,NULL,2020,1,2,NULL,"grejanje na gas",2.5,NULL,NULL,NULL,1
+47708,1,1,81600,Kragujevac,"Gradske lokacije",68,NULL,2020,3,NULL,0,NULL,3.5,1,NULL,1,1
+47712,1,1,81600,Kragujevac,"Gradske lokacije",68,NULL,2020,2,NULL,0,NULL,3.5,1,NULL,1,1
+49858,1,1,81600,"Novi Sad","Gradske lokacije",66,NULL,2020,0,3,NULL,NULL,2.5,NULL,NULL,1,1
+39754,1,1,81580,"Novi Sad","Gradske lokacije",44,NULL,2020,1,NULL,NULL,"centralno grejanje",2,NULL,1,1,1
+54840,1,1,81400,Beograd,"Zemun opstina",37,NULL,2020,0,2,NULL,NULL,2,NULL,1,1,1
+35834,1,1,81200,Beograd,"Zemun opstina",67,NULL,2020,1,3,NULL,"etazno grejanje",3,2,1,NULL,1
+46904,1,1,81200,"Novi Sad","Gradske lokacije",45,NULL,2020,4,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+52608,1,1,81150,"Novi Sad","Gradske lokacije",53,NULL,2020,0,4,1,NULL,3,NULL,1,1,1
+34459,1,1,81110,"Novi Sad","Gradske lokacije",45,NULL,2020,1,5,NULL,"grejanje na gas",2,NULL,1,1,NULL
+43175,1,1,81100,"Novi Sad","Gradske lokacije",38,NULL,2020,1,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+60681,1,1,81100,"Novi Sad","Gradske lokacije",63,NULL,2020,0,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+11184,1,1,80800,"Novi Sad","Gradske lokacije",48,NULL,2020,6,6,NULL,"centralno grejanje",2,NULL,NULL,1,1
+38352,1,1,80800,"Novi Sad","Gradske lokacije",48,NULL,2020,5,5,1,NULL,1.5,NULL,NULL,1,1
+52363,1,1,80800,"Novi Sad","Gradske lokacije",41,NULL,2020,1,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+11189,1,1,80780,"Novi Sad","Gradske lokacije",48,NULL,2020,6,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+46874,1,1,80760,"Novi Sad","Gradske lokacije",49,NULL,2020,3,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+26709,1,1,80650,"Novi Sad","Gradske lokacije",87,NULL,2020,0,2,1,"grejanje na gas",3,2,1,NULL,1
+26615,1,1,80350,"Novi Sad","Gradske lokacije",78,NULL,2020,0,1,NULL,"grejanje na gas",3,NULL,NULL,NULL,1
+46945,1,1,80300,"Novi Sad","Gradske lokacije",44,NULL,2020,4,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+43047,1,1,80150,"Novi Sad","Gradske lokacije",38,NULL,2020,2,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+7828,0,1,80000,"Novi Sad","Okolne lokacije",220,42700,2020,NULL,NULL,1,NULL,7,NULL,NULL,NULL,NULL
+9856,1,1,80000,"Novi Sad","Gradske lokacije",61,NULL,2020,0,3,1,"grejanje na gas",3,1,1,1,1
+43884,1,1,79974,"Novi Sad","Gradske lokacije",44,NULL,2020,5,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+43894,1,1,79974,"Novi Sad","Gradske lokacije",44,NULL,2020,2,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+48150,1,1,79926,Kragujevac,"Gradske lokacije",72,NULL,2020,NULL,NULL,1,"centralno grejanje",3,2,1,1,1
+54016,1,1,79550,"Novi Sad","Gradske lokacije",39,NULL,2020,0,2,NULL,"grejanje na gas",2,NULL,NULL,1,1
+37114,1,1,79500,Beograd,"Palilula opstina",43,NULL,2020,2,5,NULL,"etazno grejanje",2,1,1,1,1
+54038,1,1,79500,"Novi Sad","Gradske lokacije",39,NULL,2020,1,2,NULL,"grejanje na gas",2,NULL,NULL,1,1
+26063,1,1,79350,Beograd,"Zvezdara opstina",46,NULL,2020,1,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+47751,1,1,79350,Kragujevac,"Gradske lokacije",69,NULL,2020,4,NULL,0,NULL,3,1,NULL,1,1
+49485,1,1,79300,"Novi Sad","Gradske lokacije",70,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+46689,1,1,79200,"Novi Sad","Gradske lokacije",52,NULL,2020,0,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+21011,1,1,79100,"Novi Sad","Gradske lokacije",43,NULL,2020,3,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+21039,1,1,79100,"Novi Sad","Gradske lokacije",45,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+41048,1,1,79100,Nis,"Gradske lokacije",75,NULL,2020,2,NULL,NULL,"etazno grejanje",3,2,NULL,1,1
+41316,1,1,79100,Nis,"Gradske lokacije",75,NULL,2020,1,NULL,NULL,"etazno grejanje",3,2,NULL,NULL,1
+46816,1,1,79100,"Novi Sad","Gradske lokacije",48,NULL,2020,3,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+46831,1,1,79100,"Novi Sad","Gradske lokacije",48,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+46955,1,1,79100,"Novi Sad","Gradske lokacije",48,NULL,2020,2,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+41653,1,1,79000,"Novi Sad","Gradske lokacije",59,NULL,2020,0,3,NULL,NULL,3,NULL,NULL,1,1
+49570,1,1,79000,"Novi Sad","Gradske lokacije",59,NULL,2020,1,5,1,"centralno grejanje",2.5,NULL,NULL,1,1
+59301,1,1,79000,Zlatibor,"Gradske lokacije",70,NULL,2020,4,5,1,"etazno grejanje",4,NULL,1,1,1
+43224,1,1,78900,"Novi Sad","Gradske lokacije",38,NULL,2020,1,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+51771,1,1,78800,"Novi Sad","Gradske lokacije",51,NULL,2020,1,5,NULL,"grejanje na gas",3,NULL,NULL,1,1
+51821,1,1,78800,"Novi Sad","Gradske lokacije",51,NULL,2020,1,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+49709,1,1,78750,"Novi Sad","Gradske lokacije",61,NULL,2020,1,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+49719,1,1,78750,"Novi Sad","Gradske lokacije",61,NULL,2020,2,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+49797,1,1,78750,"Novi Sad","Gradske lokacije",61,NULL,2020,3,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+49846,1,1,78750,"Novi Sad","Gradske lokacije",61,NULL,2020,4,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+49788,1,1,78500,"Novi Sad","Gradske lokacije",55,NULL,2020,1,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+27065,1,1,78385,Kragujevac,"Gradske lokacije",61,NULL,2020,2,6,0,NULL,2.5,1,1,1,1
+31290,1,1,78280,"Novi Sad","Gradske lokacije",38,NULL,2020,1,3,1,"grejanje na gas",1.5,1,NULL,NULL,1
+47630,1,1,78280,"Novi Sad","Gradske lokacije",76,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,1,NULL,1
+49481,1,1,78080,"Novi Sad","Gradske lokacije",63,NULL,2020,3,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+46697,1,1,78034,"Novi Sad","Gradske lokacije",53,NULL,2020,0,4,1,"grejanje na gas",2.5,1,NULL,1,1
+51334,1,1,78000,Beograd,"Zemun opstina",37,NULL,2020,0,4,0,NULL,2,NULL,NULL,NULL,1
+41981,1,1,77900,"Novi Sad","Gradske lokacije",68,NULL,2020,3,3,NULL,"grejanje na gas",3,NULL,NULL,1,NULL
+46866,1,1,77900,"Novi Sad","Gradske lokacije",42,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+55081,1,1,77900,"Novi Sad","Gradske lokacije",42,NULL,2020,1,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+49623,1,1,77850,"Novi Sad","Gradske lokacije",56,NULL,2020,2,2,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+20975,1,1,77600,"Novi Sad","Gradske lokacije",43,NULL,2020,3,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+55886,1,1,77490,"Novi Sad","Gradske lokacije",47,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+46786,1,1,77450,"Novi Sad","Gradske lokacije",47,NULL,2020,0,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+46794,1,1,77450,"Novi Sad","Gradske lokacije",47,NULL,2020,3,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+46806,1,1,77450,"Novi Sad","Gradske lokacije",47,NULL,2020,2,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+46825,1,1,77450,"Novi Sad","Gradske lokacije",47,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+51629,1,1,77450,"Novi Sad","Gradske lokacije",27,NULL,2020,3,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+59052,1,1,77450,"Novi Sad","Gradske lokacije",47,NULL,2020,1,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+26609,1,1,77250,"Novi Sad","Gradske lokacije",75,NULL,2020,0,1,NULL,"grejanje na gas",3,NULL,NULL,NULL,1
+31756,1,1,77240,"Novi Sad","Gradske lokacije",65,NULL,2020,0,1,1,NULL,3,NULL,NULL,NULL,1
+42916,1,1,77200,"Novi Sad","Gradske lokacije",44,NULL,2020,4,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42966,1,1,77200,"Novi Sad","Gradske lokacije",44,NULL,2020,1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42973,1,1,77200,"Novi Sad","Gradske lokacije",44,NULL,2020,3,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42980,1,1,77200,"Novi Sad","Gradske lokacije",44,NULL,2020,2,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49221,1,1,77050,Nis,"Gradske lokacije",67,NULL,2020,0,NULL,NULL,"etazno grejanje",2,1,NULL,1,1
+41766,1,1,77000,"Novi Sad","Gradske lokacije",68,NULL,2020,0,4,NULL,"grejanje na gas",4,NULL,NULL,1,1
+49426,1,1,77000,"Novi Sad","Gradske lokacije",71,NULL,2020,3,3,NULL,"etazno grejanje",3,NULL,NULL,1,1
+51013,1,1,77000,Beograd,"Novi Beograd",55,NULL,2020,1,3,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+49266,1,1,76900,Nis,"Gradske lokacije",66,NULL,2020,1,NULL,NULL,"etazno grejanje",2.5,1,NULL,NULL,1
+53745,1,1,76640,"Novi Sad","Gradske lokacije",48,NULL,2020,1,NULL,NULL,"centralno grejanje",2,1,NULL,1,1
+43166,1,1,76600,"Novi Sad","Gradske lokacije",35,NULL,2020,1,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+5562,1,1,76560,"Novi Sad","Gradske lokacije",54,NULL,2020,0,4,NULL,"grejanje na gas",3,1,NULL,1,1
+6028,1,1,76500,Nis,"Gradske lokacije",54,NULL,2020,1,6,NULL,"norveski radijatori",1.5,NULL,NULL,1,NULL
+20872,1,1,76500,"Novi Sad","Gradske lokacije",43,NULL,2020,2,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+20920,1,1,76500,"Novi Sad","Gradske lokacije",43,NULL,2020,2,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+21084,1,1,76500,"Novi Sad","Gradske lokacije",43,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+21089,1,1,76500,"Novi Sad","Gradske lokacije",43,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+49841,1,1,76500,"Novi Sad","Gradske lokacije",55,NULL,2020,2,2,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+50641,1,1,76500,"Novi Sad","Gradske lokacije",55,NULL,2020,4,4,NULL,"etazno grejanje",2.5,NULL,NULL,1,NULL
+43279,1,1,76480,"Novi Sad","Gradske lokacije",60,NULL,2020,2,3,NULL,"grejanje na gas",3,NULL,NULL,NULL,1
+28812,1,1,76320,Nis,"Gradske lokacije",63,NULL,2020,NULL,NULL,1,"podno grejanje",3.5,2,1,1,1
+40804,1,1,76320,Nis,"Gradske lokacije",63,NULL,2020,NULL,NULL,1,"podno grejanje",3.5,2,1,1,1
+17397,1,1,76220,"Novi Sad","Gradske lokacije",60,NULL,2020,0,NULL,1,"centralno grejanje",2,1,NULL,NULL,1
+21073,1,1,76200,"Novi Sad","Gradske lokacije",43,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+27805,1,1,76200,"Novi Sad","Gradske lokacije",37,NULL,2020,4,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+20867,1,1,76100,"Novi Sad","Gradske lokacije",43,NULL,2020,2,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+20932,1,1,76100,"Novi Sad","Gradske lokacije",43,NULL,2020,2,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+21066,1,1,76100,"Novi Sad","Gradske lokacije",43,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+21097,1,1,76100,"Novi Sad","Gradske lokacije",43,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+41072,1,1,76000,Nis,"Gradske lokacije",76,NULL,2020,4,7,NULL,NULL,3,2,NULL,1,1
+55877,1,1,75970,"Novi Sad","Gradske lokacije",59,NULL,2020,2,2,NULL,"grejanje na gas",3,NULL,NULL,NULL,1
+11223,1,1,75720,"Novi Sad","Gradske lokacije",45,NULL,2020,6,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+13834,1,1,75600,Nis,"Gradske lokacije",54,NULL,2020,1,NULL,1,"podno grejanje",1.5,1,NULL,1,1
+22553,1,1,75600,Beograd,"Novi Beograd",39,NULL,2020,0,4,NULL,"centralno grejanje",1,NULL,1,1,1
+16944,1,1,75500,"Novi Sad","Gradske lokacije",56,NULL,2020,1,3,NULL,"grejanje na gas",2,NULL,NULL,NULL,1
+42905,1,1,75500,"Novi Sad","Gradske lokacije",43,NULL,2020,4,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42909,1,1,75500,"Novi Sad","Gradske lokacije",43,NULL,2020,1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42945,1,1,75500,"Novi Sad","Gradske lokacije",43,NULL,2020,3,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42893,1,1,75400,"Novi Sad","Gradske lokacije",43,NULL,2020,4,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49374,1,1,75250,Nis,"Gradske lokacije",80,NULL,2020,1,1,1,"grejanje na struju",3,2,1,NULL,1
+52573,1,1,75250,Nis,"Gradske lokacije",80,NULL,2020,1,1,1,"grejanje na struju",3,2,1,NULL,1
+42660,1,1,75200,"Novi Sad","Gradske lokacije",52,NULL,2020,0,4,NULL,NULL,2,NULL,NULL,1,NULL
+43082,1,1,75200,"Novi Sad","Gradske lokacije",73,NULL,2020,2,2,NULL,"grejanje na gas",2.5,NULL,NULL,NULL,1
+53672,1,1,75190,"Novi Sad","Gradske lokacije",56,NULL,2020,2,NULL,NULL,NULL,3,1,1,NULL,1
+60499,1,1,75190,"Novi Sad","Gradske lokacije",43,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+7402,1,1,75000,Beograd,"Vozdovac opstina",59,NULL,2020,0,6,0,"etazno grejanje",2.5,NULL,1,1,1
+11659,1,1,75000,Beograd,"Zvezdara opstina",47,NULL,2020,0,5,1,"centralno grejanje",2,1,NULL,1,NULL
+29255,1,1,75000,Nis,"Gradske lokacije",67,NULL,2020,NULL,NULL,NULL,NULL,3,1,NULL,1,1
+29380,1,1,75000,Nis,"Gradske lokacije",67,NULL,2020,NULL,NULL,NULL,NULL,3,1,NULL,1,1
+29418,1,1,75000,Nis,"Gradske lokacije",83,NULL,2020,1,NULL,0,NULL,3,1,NULL,NULL,NULL
+39214,1,1,75000,Kragujevac,"Gradske lokacije",66,NULL,2020,2,6,1,"centralno grejanje",2,1,NULL,1,1
+49638,1,1,75000,"Novi Sad","Gradske lokacije",52,NULL,2020,0,3,NULL,NULL,2.5,NULL,NULL,1,1
+26260,1,1,74900,Beograd,"Zvezdara opstina",44,NULL,2020,1,3,NULL,"etazno grejanje",1.5,1,1,1,1
+17442,1,1,74800,"Novi Sad","Gradske lokacije",66,NULL,2020,0,2,NULL,"centralno grejanje",3,NULL,NULL,NULL,NULL
+26425,1,1,74800,Beograd,"Zvezdara opstina",44,NULL,2020,2,3,NULL,"etazno grejanje",1.5,1,1,1,1
+50863,1,1,74800,Beograd,"Zemun opstina",68,NULL,2020,4,4,NULL,"etazno grejanje",3.5,1,1,NULL,1
+51167,1,1,74800,Beograd,"Zemun opstina",68,NULL,2020,4,4,NULL,"etazno grejanje",3.5,1,1,NULL,1
+43281,1,1,74780,"Novi Sad","Gradske lokacije",66,NULL,2020,0,2,1,NULL,3.5,NULL,NULL,NULL,1
+45105,1,1,74700,"Novi Sad","Gradske lokacije",66,NULL,2020,0,2,NULL,"etazno grejanje",3.5,NULL,NULL,NULL,NULL
+45414,1,1,74700,"Novi Sad","Gradske lokacije",49,NULL,2020,0,4,NULL,"centralno grejanje",2,NULL,NULL,1,1
+49730,1,1,74600,"Novi Sad","Gradske lokacije",51,NULL,2020,0,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+49500,1,1,74450,"Novi Sad","Gradske lokacije",51,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+49653,1,1,74400,"Novi Sad","Gradske lokacije",60,NULL,2020,2,2,NULL,NULL,3,NULL,1,NULL,1
+23665,1,1,74300,"Novi Sad","Gradske lokacije",57,NULL,2020,1,3,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+14665,1,1,74200,"Novi Sad","Gradske lokacije",55,NULL,2020,2,3,NULL,NULL,3,NULL,1,1,1
+49571,1,1,74200,"Novi Sad","Gradske lokacije",55,NULL,2020,2,3,NULL,NULL,3,NULL,1,1,1
+49668,1,1,74200,"Novi Sad","Gradske lokacije",55,NULL,2020,1,3,NULL,NULL,3,NULL,1,1,1
+49670,1,1,74200,"Novi Sad","Gradske lokacije",55,NULL,2020,1,3,NULL,NULL,3,NULL,1,1,1
+54905,1,1,74200,"Novi Sad","Gradske lokacije",60,NULL,2020,0,2,NULL,"grejanje na gas",3,NULL,1,NULL,NULL
+26594,1,1,74160,"Novi Sad","Gradske lokacije",52,NULL,2020,0,2,0,"grejanje na gas",3,NULL,NULL,NULL,NULL
+23970,1,1,74100,"Novi Sad","Gradske lokacije",44,NULL,2020,6,6,NULL,"centralno grejanje",1,NULL,NULL,1,1
+23975,1,1,74100,"Novi Sad","Gradske lokacije",44,NULL,2020,6,7,NULL,"centralno grejanje",1,NULL,NULL,1,1
+47397,1,1,74100,"Novi Sad","Gradske lokacije",44,NULL,2020,5,5,1,NULL,2,NULL,NULL,1,1
+42885,1,1,74050,"Novi Sad","Gradske lokacije",42,NULL,2020,1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42960,1,1,74050,"Novi Sad","Gradske lokacije",42,NULL,2020,2,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42984,1,1,74050,"Novi Sad","Gradske lokacije",42,NULL,2020,3,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+47701,1,1,74000,Kragujevac,"Gradske lokacije",83,NULL,2020,4,4,1,"podno grejanje",3.5,1,NULL,NULL,1
+47761,1,1,74000,Kragujevac,"Gradske lokacije",83,NULL,2020,4,NULL,1,"podno grejanje",3,1,NULL,NULL,1
+55330,1,1,74000,"Novi Sad","Gradske lokacije",54,NULL,2020,1,2,NULL,"etazno grejanje",2,NULL,NULL,1,1
+46898,1,1,73950,"Novi Sad","Gradske lokacije",47,NULL,2020,3,4,NULL,NULL,2,NULL,NULL,1,1
+52718,1,1,73930,"Novi Sad","Gradske lokacije",57,NULL,2020,0,4,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+52627,1,1,73900,"Novi Sad","Gradske lokacije",51,NULL,2020,1,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+52652,1,1,73900,"Novi Sad","Gradske lokacije",51,NULL,2020,2,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+41685,1,1,73800,"Novi Sad","Gradske lokacije",55,NULL,2020,1,2,NULL,"grejanje na gas",3,NULL,NULL,NULL,1
+41856,1,1,73800,"Novi Sad","Gradske lokacije",55,NULL,2020,2,2,NULL,"grejanje na gas",3,NULL,NULL,NULL,1
+9774,1,1,73750,Beograd,"Cukarica opstina",59,NULL,2020,6,6,0,"etazno grejanje",2.5,NULL,NULL,1,1
+39217,1,1,73700,Kragujevac,"Gradske lokacije",67,NULL,2020,6,8,0,"grejanje na gas",2,2,NULL,1,1
+49513,1,1,73650,"Novi Sad","Gradske lokacije",55,NULL,2020,0,2,NULL,"grejanje na gas",2.5,NULL,NULL,NULL,NULL
+26824,1,1,73600,Kragujevac,"Gradske lokacije",64,NULL,2020,NULL,NULL,0,NULL,2.5,1,1,1,1
+26933,1,1,73600,Kragujevac,"Gradske lokacije",64,NULL,2020,2,NULL,0,NULL,2.5,1,NULL,1,1
+42700,1,1,73500,"Novi Sad","Gradske lokacije",48,NULL,2020,0,5,NULL,"centralno grejanje",2.5,NULL,NULL,1,NULL
+49475,1,1,73400,"Novi Sad","Gradske lokacije",54,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+43771,1,1,73368,"Novi Sad","Gradske lokacije",40,NULL,2020,2,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+43824,1,1,73368,"Novi Sad","Gradske lokacije",40,NULL,2020,5,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+43836,1,1,73368,"Novi Sad","Gradske lokacije",40,NULL,2020,1,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+43877,1,1,73368,"Novi Sad","Gradske lokacije",40,NULL,2020,4,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+54149,1,1,73300,"Novi Sad","Gradske lokacije",47,NULL,2020,4,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+55380,1,1,73300,"Novi Sad","Gradske lokacije",53,NULL,2020,1,2,NULL,"grejanje na gas",2,NULL,NULL,1,1
+3616,1,1,73200,"Novi Sad","Gradske lokacije",65,NULL,2020,1,1,NULL,"grejanje na gas",2.5,NULL,NULL,NULL,1
+52465,1,1,73110,"Novi Sad","Gradske lokacije",35,NULL,2020,4,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+39570,1,1,73000,Zrenjanin,"Gradske lokacije",68,NULL,2020,0,1,0,"centralno grejanje",3,2,1,NULL,1
+41671,1,1,73000,"Novi Sad","Gradske lokacije",55,NULL,2020,2,2,NULL,"grejanje na gas",3,NULL,NULL,NULL,1
+43119,1,1,73000,"Novi Sad","Gradske lokacije",35,NULL,2020,1,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+48320,1,1,73000,Zrenjanin,"Gradske lokacije",68,NULL,2020,0,1,0,"centralno grejanje",3,2,1,NULL,1
+54231,1,1,73000,Pancevo,"Gradske lokacije",50,NULL,2020,2,4,1,"grejanje na gas",2,1,1,1,1
+55355,1,1,73000,"Novi Sad","Gradske lokacije",47,NULL,2020,1,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+56263,1,1,73000,Pancevo,"Gradske lokacije",50,NULL,2020,2,4,1,"grejanje na gas",2,1,1,1,1
+29850,1,1,72950,"Novi Sad","Gradske lokacije",59,NULL,2020,4,5,0,"centralno grejanje",3,NULL,NULL,1,1
+9777,1,1,72800,Beograd,"Cukarica opstina",56,NULL,2020,1,8,0,"etazno grejanje",2.5,NULL,NULL,1,1
+45597,1,1,72800,Beograd,"Novi Beograd",52,NULL,2020,0,4,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+51112,1,1,72800,Beograd,"Novi Beograd",52,NULL,2020,4,4,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+53756,1,1,72620,"Novi Sad","Gradske lokacije",47,NULL,2020,1,NULL,NULL,"centralno grejanje",2,1,NULL,1,1
+55364,1,1,72600,"Novi Sad","Gradske lokacije",47,NULL,2020,3,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+55851,1,1,72590,"Novi Sad","Gradske lokacije",44,NULL,2020,0,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+29398,1,1,72420,Nis,"Gradske lokacije",65,NULL,2020,4,6,0,NULL,3,1,NULL,NULL,NULL
+36809,1,1,72400,"Novi Sad","Gradske lokacije",39,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+54175,1,1,72310,"Novi Sad","Gradske lokacije",52,NULL,2020,2,3,NULL,NULL,2,NULL,NULL,1,1
+42796,1,1,72300,"Novi Sad","Gradske lokacije",46,NULL,2020,3,5,NULL,"centralno grejanje",2.5,NULL,NULL,1,1
+42804,1,1,72300,"Novi Sad","Gradske lokacije",46,NULL,2020,2,5,NULL,"centralno grejanje",2.5,NULL,NULL,1,1
+42851,1,1,72300,"Novi Sad","Gradske lokacije",46,NULL,2020,4,5,NULL,"centralno grejanje",2.5,NULL,NULL,1,1
+42860,1,1,72300,"Novi Sad","Gradske lokacije",46,NULL,2020,1,5,NULL,"centralno grejanje",2.5,NULL,NULL,1,1
+50320,1,1,72300,"Novi Sad","Gradske lokacije",47,NULL,2020,2,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+9817,1,1,72280,Beograd,"Cukarica opstina",52,NULL,2020,0,3,NULL,"etazno grejanje",2,NULL,1,NULL,1
+43835,1,1,72100,"Novi Sad","Gradske lokacije",44,NULL,2020,2,4,NULL,"etazno grejanje",2,NULL,NULL,1,1
+47493,0,1,72100,"Novi Sad","Gradske lokacije",80,2006,2020,NULL,NULL,1,"grejanje na gas",3,NULL,1,NULL,1
+55351,1,1,72100,"Novi Sad","Gradske lokacije",51,NULL,2020,2,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+11976,1,1,72000,Kragujevac,"Gradske lokacije",48,NULL,2020,1,NULL,0,NULL,1.5,NULL,1,1,1
+23173,1,1,72000,"Novi Sad","Gradske lokacije",41,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+40684,1,1,72000,Nis,"Gradske lokacije",77,NULL,2020,NULL,NULL,0,"etazno grejanje",2.5,1,1,NULL,1
+41444,1,1,72000,Nis,"Gradske lokacije",77,NULL,2020,0,NULL,0,NULL,2.5,1,NULL,NULL,NULL
+49238,1,1,72000,Nis,"Gradske lokacije",77,NULL,2020,NULL,NULL,0,"etazno grejanje",2.5,1,1,NULL,1
+11352,1,1,71981,Beograd,"Zvezdara opstina",48,NULL,2020,1,8,0,"centralno grejanje",1.5,NULL,NULL,1,1
+47014,1,1,71850,"Novi Sad","Gradske lokacije",48,NULL,2020,0,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+47063,1,1,71700,"Novi Sad","Gradske lokacije",48,NULL,2020,0,3,NULL,"grejanje na gas",2.5,NULL,NULL,NULL,NULL
+45367,1,1,71650,"Novi Sad","Gradske lokacije",47,NULL,2020,1,4,NULL,"centralno grejanje",2,NULL,NULL,1,1
+45379,1,1,71650,"Novi Sad","Gradske lokacije",47,NULL,2020,0,4,NULL,"centralno grejanje",2,NULL,NULL,1,1
+41921,1,1,71500,"Novi Sad","Gradske lokacije",63,NULL,2020,3,3,NULL,"grejanje na gas",3,NULL,NULL,1,NULL
+45561,1,1,71500,Beograd,"Novi Beograd",55,NULL,2020,0,2,1,"etazno grejanje",2,1,NULL,NULL,1
+51136,1,1,71500,Beograd,"Zemun opstina",65,NULL,2020,4,4,NULL,"etazno grejanje",3.5,1,1,NULL,1
+51194,1,1,71500,Beograd,"Zemun opstina",65,NULL,2020,4,4,NULL,"etazno grejanje",3.5,1,1,NULL,1
+11002,1,1,71440,Beograd,"Zvezdara opstina",51,NULL,2020,0,3,NULL,"podno grejanje",1,NULL,1,NULL,1
+49761,1,1,71400,"Novi Sad","Gradske lokacije",51,NULL,2020,2,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+26912,1,1,71300,Kragujevac,"Gradske lokacije",62,NULL,2020,1,4,0,"grejanje na gas",2.5,1,1,1,1
+49661,1,1,71300,"Novi Sad","Gradske lokacije",52,NULL,2020,2,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+59261,1,1,71300,Valjevo,"Okolne lokacije",46,NULL,2020,3,3,1,"podno grejanje",3,NULL,1,NULL,NULL
+10228,1,1,71250,Beograd,"Vozdovac opstina",75,NULL,2020,0,4,0,"grejanje na gas",3,1,NULL,NULL,NULL
+55262,1,1,71250,"Novi Sad","Gradske lokacije",52,NULL,2020,2,2,NULL,"etazno grejanje",2,NULL,NULL,1,1
+21103,1,1,71200,"Novi Sad","Gradske lokacije",39,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+41971,1,1,71200,"Novi Sad","Gradske lokacije",54,NULL,2020,1,3,NULL,"grejanje na gas",1.5,NULL,NULL,NULL,1
+52621,1,1,71200,"Novi Sad","Gradske lokacije",47,NULL,2020,2,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+52813,1,1,71200,"Novi Sad","Gradske lokacije",47,NULL,2020,3,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+11349,1,1,71070,"Novi Sad","Gradske lokacije",43,NULL,2020,5,5,1,"centralno grejanje",1.5,NULL,NULL,1,1
+25330,1,1,71000,"Novi Sad","Gradske lokacije",43,NULL,2020,4,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+29284,1,1,71000,Nis,"Gradske lokacije",69,NULL,2020,5,7,NULL,NULL,2.5,2,NULL,1,1
+49847,1,1,71000,"Novi Sad","Gradske lokacije",53,NULL,2020,3,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+46801,1,1,70860,"Novi Sad","Gradske lokacije",43,NULL,2020,3,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+46941,1,1,70860,"Novi Sad","Gradske lokacije",43,NULL,2020,0,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+32952,1,1,70848,"Novi Sad","Gradske lokacije",39,NULL,2020,2,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+43812,1,1,70848,"Novi Sad","Gradske lokacije",39,NULL,2020,1,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+43844,1,1,70848,"Novi Sad","Gradske lokacije",39,NULL,2020,4,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+49275,1,1,70800,Nis,"Gradske lokacije",67,NULL,2020,5,7,NULL,NULL,2.5,1,NULL,1,1
+43227,1,1,70500,"Novi Sad","Gradske lokacije",57,NULL,2020,1,2,NULL,"grejanje na gas",2.5,NULL,NULL,NULL,1
+47085,1,1,70476,Beograd,"Palilula opstina",50,NULL,2020,3,6,NULL,"centralno grejanje",2,1,NULL,1,1
+50268,1,1,70300,"Novi Sad","Gradske lokacije",46,NULL,2020,1,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+49422,1,1,70290,"Novi Sad","Gradske lokacije",54,NULL,2020,1,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+50333,1,1,70250,"Novi Sad","Gradske lokacije",45,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+42890,1,1,70150,"Novi Sad","Gradske lokacije",40,NULL,2020,3,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42923,1,1,70150,"Novi Sad","Gradske lokacije",40,NULL,2020,1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42953,1,1,70150,"Novi Sad","Gradske lokacije",40,NULL,2020,4,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42975,1,1,70150,"Novi Sad","Gradske lokacije",40,NULL,2020,2,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+23587,1,1,70100,"Novi Sad","Gradske lokacije",56,NULL,2020,0,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,1
+55366,1,1,70100,"Novi Sad","Gradske lokacije",51,NULL,2020,2,2,NULL,"grejanje na gas",2,NULL,NULL,1,1
+43111,1,1,70060,"Novi Sad","Gradske lokacije",32,NULL,2020,2,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+43724,1,1,70040,"Novi Sad","Gradske lokacije",40,NULL,2020,4,6,1,"centralno grejanje",2,NULL,NULL,1,1
+13800,1,1,70000,Nis,"Gradske lokacije",66,NULL,2020,1,NULL,1,NULL,3,2,NULL,NULL,NULL
+48021,1,1,70000,Kragujevac,"Gradske lokacije",69,NULL,2020,0,3,1,"podno grejanje",2.5,1,1,NULL,NULL
+52950,0,1,70000,"Sremski Karlovci","Gradske lokacije",256,25600,2020,NULL,NULL,0,"grejanje na gas",3,4,1,NULL,1
+59074,1,1,70000,Zlatibor,"Okolne lokacije",36,NULL,2020,0,NULL,NULL,NULL,1,1,NULL,NULL,NULL
+59088,1,1,70000,Zlatibor,"Okolne lokacije",36,NULL,2020,1,NULL,NULL,NULL,1,1,NULL,NULL,NULL
+59100,1,1,69900,Zlatibor,"Gradske lokacije",39,NULL,2020,NULL,NULL,NULL,NULL,2,1,NULL,NULL,NULL
+42900,1,1,69800,"Novi Sad","Gradske lokacije",39,NULL,2020,3,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42948,1,1,69800,"Novi Sad","Gradske lokacije",39,NULL,2020,2,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42988,1,1,69800,"Novi Sad","Gradske lokacije",39,NULL,2020,1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+20888,1,1,69700,"Novi Sad","Gradske lokacije",38,NULL,2020,2,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+21113,1,1,69700,"Novi Sad","Gradske lokacije",38,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+49598,1,1,69700,"Novi Sad","Gradske lokacije",52,NULL,2020,3,3,NULL,NULL,3,NULL,1,1,1
+49611,1,1,69650,"Novi Sad","Gradske lokacije",52,NULL,2020,0,3,NULL,"grejanje na gas",2.5,NULL,NULL,1,NULL
+59208,1,1,69600,Zlatibor,"Gradske lokacije",39,NULL,2020,2,5,NULL,NULL,2,NULL,NULL,NULL,NULL
+43818,1,1,69588,"Novi Sad","Gradske lokacije",38,NULL,2020,5,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+43866,1,1,69588,"Novi Sad","Gradske lokacije",38,NULL,2020,1,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+59220,1,1,69550,Zlatibor,"Gradske lokacije",39,NULL,2020,5,5,NULL,NULL,2,1,NULL,NULL,NULL
+18204,1,1,69500,"Novi Sad","Gradske lokacije",45,NULL,2020,4,5,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+31163,1,1,69500,"Novi Sad","Gradske lokacije",49,NULL,2020,0,2,NULL,"etazno grejanje",2,NULL,NULL,NULL,1
+42928,1,1,69500,"Novi Sad","Gradske lokacije",39,NULL,2020,1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42935,1,1,69500,"Novi Sad","Gradske lokacije",39,NULL,2020,2,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+42894,1,1,69400,"Novi Sad","Gradske lokacije",39,NULL,2020,4,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49445,1,1,69250,"Novi Sad","Gradske lokacije",48,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+54077,1,1,69220,"Novi Sad","Gradske lokacije",48,NULL,2020,2,3,NULL,NULL,2,NULL,NULL,1,1
+54091,1,1,69220,"Novi Sad","Gradske lokacije",48,NULL,2020,0,3,NULL,NULL,2,NULL,NULL,1,1
+37302,1,1,69216,"Novi Sad","Gradske lokacije",48,NULL,2020,0,4,1,"grejanje na gas",2.5,3,NULL,1,NULL
+41082,1,1,69200,Nis,"Gradske lokacije",68,NULL,2020,1,5,1,"grejanje na struju",2.5,1,1,1,1
+42912,1,1,69200,"Novi Sad","Gradske lokacije",39,NULL,2020,4,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+46838,1,1,69200,"Novi Sad","Gradske lokacije",42,NULL,2020,0,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+49200,1,1,69200,Nis,"Gradske lokacije",68,NULL,2020,1,5,1,"grejanje na struju",2.5,1,1,1,1
+43888,1,1,69192,"Novi Sad","Gradske lokacije",38,NULL,2020,2,7,NULL,"centralno grejanje",2,NULL,NULL,1,1
+36785,1,1,69150,"Novi Sad","Gradske lokacije",37,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+56043,1,1,69120,"Vrnjacka Banja","Gradske lokacije",48,NULL,2020,1,3,NULL,"etazno grejanje",2,NULL,NULL,1,1
+56759,1,1,69120,"Vrnjacka Banja","Gradske lokacije",48,NULL,2020,1,3,NULL,"etazno grejanje",2,NULL,NULL,1,1
+50272,1,1,69050,"Novi Sad","Gradske lokacije",45,NULL,2020,4,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+9765,1,1,69000,Beograd,"Cukarica opstina",55,NULL,2020,6,6,0,"etazno grejanje",2.5,NULL,NULL,1,1
+46015,1,1,69000,Beograd,"Palilula opstina",46,NULL,2020,0,3,NULL,"etazno grejanje",2.5,NULL,NULL,NULL,1
+47536,1,1,69000,Beograd,"Zvezdara opstina",30,NULL,2020,1,4,0,"centralno grejanje",1.5,NULL,NULL,1,1
+38771,1,1,68900,"Novi Sad","Gradske lokacije",75,NULL,2020,1,2,NULL,NULL,3.5,NULL,NULL,NULL,1
+21062,1,1,68700,"Novi Sad","Gradske lokacije",38,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+58648,1,1,68640,Zlatibor,"Gradske lokacije",38,NULL,2020,5,5,NULL,NULL,2,1,NULL,NULL,NULL
+36804,1,1,68600,"Novi Sad","Gradske lokacije",36,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+45589,1,1,68600,Beograd,"Novi Beograd",49,NULL,2020,4,4,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+49492,1,1,68520,"Novi Sad","Gradske lokacije",60,NULL,2020,0,3,NULL,"etazno grejanje",3,NULL,NULL,1,NULL
+55181,1,1,68500,"Novi Sad","Gradske lokacije",47,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+55207,1,1,68500,"Novi Sad","Gradske lokacije",47,NULL,2020,2,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+55252,1,1,68500,"Novi Sad","Gradske lokacije",50,NULL,2020,2,2,NULL,"etazno grejanje",2,NULL,NULL,1,1
+43246,1,1,68320,"Novi Sad","Gradske lokacije",67,NULL,2020,1,2,NULL,"grejanje na gas",3.5,NULL,1,NULL,1
+43406,1,1,68320,"Novi Sad","Gradske lokacije",67,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,1,NULL,1
+43410,1,1,68320,"Novi Sad","Gradske lokacije",67,NULL,2020,1,2,NULL,"grejanje na gas",3.5,NULL,1,NULL,1
+43416,1,1,68320,"Novi Sad","Gradske lokacije",67,NULL,2020,1,2,NULL,"grejanje na gas",3.5,NULL,1,NULL,1
+43424,1,1,68320,"Novi Sad","Gradske lokacije",67,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,1,NULL,1
+43442,1,1,68320,"Novi Sad","Gradske lokacije",67,NULL,2020,1,2,NULL,"grejanje na gas",3.5,NULL,1,NULL,1
+55359,1,1,68300,"Novi Sad","Gradske lokacije",44,NULL,2020,1,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+42811,1,1,68280,"Novi Sad","Gradske lokacije",47,NULL,2020,0,5,NULL,"centralno grejanje",2.5,NULL,NULL,1,1
+14420,1,1,68200,Beograd,"Vozdovac opstina",30,NULL,2020,4,5,1,"etazno grejanje",0.5,NULL,1,1,NULL
+14457,1,1,68200,Beograd,"Vozdovac opstina",30,NULL,2020,1,5,1,"etazno grejanje",0.5,NULL,1,1,NULL
+54185,1,1,68150,"Novi Sad","Gradske lokacije",49,NULL,2020,2,2,NULL,"grejanje na gas",2,NULL,NULL,1,1
+9665,1,1,68110,Beograd,"Cukarica opstina",49,NULL,2020,0,3,1,"etazno grejanje",2,NULL,1,NULL,1
+26081,1,1,68000,Beograd,"Zvezdara opstina",40,NULL,2020,0,4,0,"centralno grejanje",1.5,1,NULL,NULL,1
+47986,1,1,68000,Kragujevac,"Gradske lokacije",69,NULL,2020,0,NULL,1,NULL,2.5,NULL,1,NULL,NULL
+49287,1,1,68000,Nis,"Gradske lokacije",66,NULL,2020,6,7,NULL,NULL,2.5,2,NULL,1,1
+13370,1,1,67980,"Novi Sad","Gradske lokacije",30,NULL,2020,1,4,NULL,"grejanje na gas",1,NULL,NULL,1,1
+31859,1,1,67900,"Novi Sad","Gradske lokacije",66,NULL,2020,2,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+31868,1,1,67900,"Novi Sad","Gradske lokacije",66,NULL,2020,1,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+31873,1,1,67900,"Novi Sad","Gradske lokacije",66,NULL,2020,1,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+11160,1,1,67850,Beograd,"Zvezdara opstina",59,NULL,2020,0,5,0,"etazno grejanje",3,NULL,NULL,1,NULL
+49626,1,1,67800,"Novi Sad","Gradske lokacije",51,NULL,2020,0,3,NULL,NULL,3,NULL,1,1,1
+54124,1,1,67800,"Novi Sad","Gradske lokacije",48,NULL,2020,2,2,NULL,"grejanje na gas",2,NULL,NULL,NULL,1
+55216,1,1,67800,"Novi Sad","Gradske lokacije",43,NULL,2020,4,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+54072,1,1,67780,"Novi Sad","Gradske lokacije",47,NULL,2020,0,3,NULL,NULL,2,NULL,NULL,1,1
+54069,1,1,67770,"Novi Sad","Gradske lokacije",46,NULL,2020,2,3,NULL,NULL,2,NULL,NULL,1,1
+36826,1,1,67720,"Novi Sad","Gradske lokacije",51,NULL,2020,0,3,NULL,"centralno grejanje",2,NULL,1,1,NULL
+52602,1,1,67700,"Novi Sad","Gradske lokacije",45,NULL,2020,1,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+52849,1,1,67700,"Novi Sad","Gradske lokacije",45,NULL,2020,4,5,NULL,"grejanje na gas",2,NULL,NULL,1,1
+55302,1,1,67600,"Novi Sad","Gradske lokacije",49,NULL,2020,2,2,NULL,"grejanje na gas",2,NULL,NULL,1,1
+46811,1,1,67580,"Novi Sad","Gradske lokacije",41,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+21050,1,1,67500,"Novi Sad","Gradske lokacije",37,NULL,2020,3,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49617,1,1,67350,"Novi Sad","Gradske lokacije",50,NULL,2020,2,2,NULL,NULL,3,NULL,1,NULL,1
+23965,1,1,67320,"Novi Sad","Gradske lokacije",40,NULL,2020,6,7,NULL,"centralno grejanje",1,NULL,NULL,1,1
+38215,1,1,67300,"Novi Sad","Gradske lokacije",40,NULL,2020,5,5,1,NULL,1,NULL,NULL,1,1
+53977,1,1,67300,"Novi Sad","Gradske lokacije",33,NULL,2020,0,2,NULL,"grejanje na gas",2,NULL,NULL,1,1
+51066,1,1,67200,Beograd,"Novi Beograd",48,NULL,2020,2,4,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+52962,1,1,67200,Beograd,"Vozdovac opstina",57,NULL,2020,1,3,0,"grejanje na gas",2,NULL,NULL,NULL,1
+47789,1,1,67100,Kragujevac,"Gradske lokacije",61,NULL,2020,3,NULL,0,"centralno grejanje",3,1,NULL,1,NULL
+43107,1,1,67000,"Novi Sad","Gradske lokacije",46,NULL,2020,2,2,NULL,"centralno grejanje",2,NULL,NULL,NULL,1
+49449,1,1,67000,"Novi Sad","Gradske lokacije",55,NULL,2020,2,3,NULL,"etazno grejanje",3,NULL,NULL,1,1
+52133,1,1,67000,Kragujevac,"Gradske lokacije",69,NULL,2020,0,2,1,NULL,3,1,1,NULL,NULL
+53469,1,1,67000,Beograd,"Novi Beograd",48,NULL,2020,1,2,1,"etazno grejanje",1.5,1,NULL,NULL,1
+50253,1,1,66900,"Novi Sad","Gradske lokacije",43,NULL,2020,2,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+55169,1,1,66900,"Novi Sad","Gradske lokacije",46,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+55357,1,1,66900,"Novi Sad","Gradske lokacije",46,NULL,2020,2,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+10997,1,1,66600,Beograd,"Zvezdara opstina",42,NULL,2020,3,3,NULL,NULL,2,NULL,1,NULL,1
+20879,1,1,66600,"Novi Sad","Gradske lokacije",39,NULL,2020,1,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+20896,1,1,66600,"Novi Sad","Gradske lokacije",39,NULL,2020,2,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+20996,1,1,66600,"Novi Sad","Gradske lokacije",39,NULL,2020,3,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+29508,1,1,66600,Nis,"Gradske lokacije",76,NULL,2020,4,5,0,"grejanje na struju",3.5,NULL,1,1,NULL
+41257,1,1,66600,Nis,"Gradske lokacije",76,NULL,2020,4,5,1,"grejanje na struju",4,2,1,1,1
+41271,1,1,66600,Nis,"Gradske lokacije",76,NULL,2020,4,5,1,"grejanje na struju",4,2,1,1,1
+49636,1,1,66600,"Novi Sad","Gradske lokacije",50,NULL,2020,0,3,NULL,NULL,3,NULL,1,1,NULL
+14016,1,1,66500,Nis,"Gradske lokacije",76,NULL,2020,4,5,0,"grejanje na struju",3.5,2,NULL,1,1
+28852,1,1,66460,"Novi Sad","Gradske lokacije",29,NULL,2020,0,4,NULL,"centralno grejanje",0.5,NULL,NULL,1,NULL
+59125,1,1,66360,Zlatibor,"Okolne lokacije",42,NULL,2020,5,5,NULL,NULL,2,NULL,NULL,NULL,NULL
+60235,1,1,66100,"Novi Sad","Okolne lokacije",73,NULL,2020,1,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+59129,1,1,66000,Zlatibor,"Gradske lokacije",39,NULL,2020,0,NULL,NULL,NULL,2,NULL,NULL,NULL,NULL
+59185,1,1,66000,Zlatibor,"Gradske lokacije",40,NULL,2020,0,5,NULL,NULL,2,1,NULL,NULL,NULL
+46773,1,1,65900,"Novi Sad","Gradske lokacije",40,NULL,2020,3,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+45634,1,1,65800,Beograd,"Novi Beograd",47,NULL,2020,2,3,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+51024,1,1,65800,Beograd,"Novi Beograd",47,NULL,2020,1,3,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+51029,1,1,65800,Beograd,"Novi Beograd",47,NULL,2020,0,3,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+51098,1,1,65800,Beograd,"Novi Beograd",47,NULL,2020,3,3,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+43006,1,1,65550,Kragujevac,"Gradske lokacije",57,NULL,2020,2,4,NULL,"grejanje na gas",3,1,NULL,NULL,1
+17025,1,1,65500,"Novi Sad","Gradske lokacije",46,NULL,2020,2,NULL,NULL,NULL,1.5,1,1,NULL,1
+17069,1,1,65500,"Novi Sad","Gradske lokacije",53,NULL,2020,2,2,1,"grejanje na gas",2.5,NULL,NULL,NULL,1
+43104,1,1,65500,"Novi Sad","Gradske lokacije",53,NULL,2020,2,2,NULL,"grejanje na gas",2.5,NULL,NULL,NULL,1
+43183,1,1,65500,"Novi Sad","Gradske lokacije",54,NULL,2020,2,2,1,"grejanje na gas",2.5,NULL,NULL,NULL,1
+48091,1,1,65500,Kragujevac,"Gradske lokacije",59,NULL,2020,1,4,0,"grejanje na gas",2,1,NULL,1,1
+53985,1,1,65290,"Novi Sad","Gradske lokacije",32,NULL,2020,0,2,NULL,"grejanje na gas",2,NULL,NULL,1,1
+54020,1,1,65260,"Novi Sad","Gradske lokacije",32,NULL,2020,1,2,NULL,"grejanje na gas",2,NULL,NULL,1,1
+58892,1,1,65120,Zlatibor,"Gradske lokacije",37,NULL,2020,2,3,1,"norveski radijatori",2,2,1,NULL,1
+59197,1,1,65120,Zlatibor,"Gradske lokacije",36,NULL,2020,NULL,NULL,NULL,NULL,2,1,NULL,NULL,NULL
+49613,1,1,65050,"Novi Sad","Gradske lokacije",49,NULL,2020,2,2,NULL,NULL,3,NULL,1,NULL,1
+26836,1,1,65000,Kragujevac,"Gradske lokacije",64,NULL,2020,7,9,1,"grejanje na gas",2.5,2,1,1,1
+29379,1,1,65000,Nis,"Gradske lokacije",65,NULL,2020,3,NULL,0,"TA pec",2.5,1,NULL,1,1
+21263,1,1,64900,"Novi Sad","Gradske lokacije",53,NULL,2020,1,2,NULL,"centralno grejanje",3,NULL,NULL,NULL,1
+40974,1,1,64900,Nis,"Gradske lokacije",59,NULL,2020,1,NULL,1,"grejanje na struju",2.5,NULL,1,1,1
+41500,1,1,64900,Nis,"Gradske lokacije",66,NULL,2020,0,4,NULL,NULL,3,1,1,NULL,NULL
+29481,1,1,64600,Nis,"Gradske lokacije",76,NULL,2020,4,5,0,"TA pec",3.5,2,NULL,1,1
+58572,1,1,64550,Zlatibor,"Gradske lokacije",39,NULL,2020,0,NULL,NULL,NULL,1,1,NULL,NULL,NULL
+59193,1,1,64550,Zlatibor,"Gradske lokacije",39,NULL,2020,0,NULL,NULL,NULL,1,1,NULL,NULL,NULL
+41090,1,1,64400,Nis,"Gradske lokacije",65,NULL,2020,0,NULL,0,"etazno grejanje",3,2,1,NULL,1
+51051,1,1,64400,Beograd,"Novi Beograd",46,NULL,2020,2,4,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+56087,1,1,64350,"Vrnjacka Banja","Gradske lokacije",55,NULL,2020,1,2,1,"grejanje na struju",1.5,1,1,NULL,1
+56809,1,1,64350,"Vrnjacka Banja","Gradske lokacije",55,NULL,2020,1,2,1,"grejanje na struju",1.5,1,1,NULL,1
+38445,1,1,64200,"Novi Sad","Gradske lokacije",30,NULL,2020,3,3,NULL,"centralno grejanje",0.5,NULL,NULL,1,1
+11176,1,1,64000,Beograd,"Zvezdara opstina",33,NULL,2020,1,5,1,"etazno grejanje",2,2,NULL,1,1
+13809,1,1,64000,Nis,"Gradske lokacije",80,NULL,2020,1,4,1,"etazno grejanje",3,2,1,NULL,1
+43427,1,1,64000,Beograd,"Vozdovac opstina",40,NULL,2020,0,2,1,"etazno grejanje",2,1,NULL,NULL,NULL
+60004,1,1,64000,"Velika Plana","Gradske lokacije",93,NULL,2020,2,2,1,"etazno grejanje",3,NULL,NULL,NULL,1
+11910,1,1,63800,"Novi Sad","Gradske lokacije",66,NULL,2020,2,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+11915,1,1,63800,"Novi Sad","Gradske lokacije",66,NULL,2020,1,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+11920,1,1,63800,"Novi Sad","Gradske lokacije",66,NULL,2020,1,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+11963,1,1,63800,"Novi Sad","Gradske lokacije",66,NULL,2020,2,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,1
+9638,1,1,63750,Beograd,"Cukarica opstina",48,NULL,2020,6,6,0,"etazno grejanje",2,NULL,NULL,1,1
+13464,1,1,63500,"Novi Sad","Gradske lokacije",28,NULL,2020,1,4,NULL,"grejanje na gas",1,NULL,NULL,1,1
+22949,1,1,63500,"Novi Sad","Gradske lokacije",39,NULL,2020,1,4,NULL,"centralno grejanje",2,NULL,NULL,1,1
+50368,1,1,63500,"Novi Sad","Gradske lokacije",41,NULL,2020,0,4,1,"grejanje na gas",2,NULL,NULL,1,NULL
+50246,1,1,63470,"Novi Sad","Gradske lokacije",41,NULL,2020,0,5,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+54099,1,1,63450,"Novi Sad","Gradske lokacije",43,NULL,2020,0,3,NULL,NULL,2,NULL,NULL,1,1
+41957,1,1,63300,"Novi Sad","Gradske lokacije",48,NULL,2020,1,3,NULL,"grejanje na gas",1.5,NULL,NULL,NULL,1
+23127,1,1,63100,"Novi Sad","Gradske lokacije",34,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+23133,1,1,63100,"Novi Sad","Gradske lokacije",35,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+23169,1,1,63100,"Novi Sad","Gradske lokacije",34,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+35075,1,1,63000,Beograd,"Mladenovac opstina",63,NULL,2020,1,5,NULL,"grejanje na gas",2.5,2,NULL,1,1
+35152,1,1,63000,Beograd,"Mladenovac opstina",63,NULL,2020,1,5,0,"grejanje na gas",2,2,1,1,1
+45656,1,1,63000,Beograd,"Novi Beograd",45,NULL,2020,4,4,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+51078,1,1,63000,Beograd,"Novi Beograd",45,NULL,2020,1,4,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+51085,1,1,63000,Beograd,"Novi Beograd",45,NULL,2020,0,4,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+51089,1,1,63000,Beograd,"Novi Beograd",45,NULL,2020,4,4,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+38322,1,1,62700,"Novi Sad","Gradske lokacije",29,NULL,2020,3,3,NULL,"centralno grejanje",1,NULL,NULL,1,1
+40999,1,1,62700,Nis,"Gradske lokacije",57,NULL,2020,2,NULL,1,NULL,2.5,1,1,NULL,1
+51478,1,1,62600,"Novi Sad","Gradske lokacije",38,NULL,2020,0,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+57050,1,1,62600,Krusevac,"Gradske lokacije",73,NULL,2020,NULL,NULL,0,"centralno grejanje",3,0,1,1,NULL
+49894,1,1,62550,"Novi Sad","Gradske lokacije",44,NULL,2020,0,2,NULL,"etazno grejanje",2,NULL,NULL,1,1
+52711,1,1,62400,"Novi Sad","Gradske lokacije",43,NULL,2020,0,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+20928,1,1,62300,"Novi Sad","Gradske lokacije",34,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+50987,1,1,62300,Beograd,"Novi Beograd",44,NULL,2020,4,4,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+20915,1,1,62250,"Novi Sad","Gradske lokacije",34,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+55192,1,1,62200,"Novi Sad","Gradske lokacije",40,NULL,2020,4,5,NULL,"centralno grejanje",2,NULL,NULL,1,NULL
+55196,1,1,62100,"Novi Sad","Gradske lokacije",43,NULL,2020,1,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+55247,1,1,62100,"Vrnjacka Banja","Gradske lokacije",46,NULL,2020,2,3,0,NULL,1,1,1,NULL,1
+56634,1,1,62100,"Vrnjacka Banja","Gradske lokacije",46,NULL,2020,2,3,0,NULL,1,1,1,NULL,1
+57815,1,1,62100,"Vrnjacka Banja","Gradske lokacije",46,NULL,2020,2,3,NULL,"grejanje na struju",2,1,1,NULL,1
+49639,1,1,62000,"Novi Sad","Gradske lokacije",40,NULL,2020,1,5,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49694,1,1,62000,"Novi Sad","Gradske lokacije",40,NULL,2020,3,5,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+59119,1,1,62000,Zlatibor,"Okolne lokacije",42,NULL,2020,1,3,1,NULL,2,1,1,NULL,1
+26096,1,1,61800,"Novi Sad","Gradske lokacije",29,NULL,2020,5,5,1,"centralno grejanje",1,1,NULL,1,1
+33972,1,1,61800,"Novi Sad","Gradske lokacije",32,NULL,2020,5,5,NULL,"centralno grejanje",1.5,NULL,NULL,1,1
+54154,1,1,61700,"Novi Sad","Gradske lokacije",51,NULL,2020,3,3,NULL,NULL,2,NULL,NULL,1,1
+51224,1,1,61680,Beograd,"Novi Beograd",47,NULL,2020,2,2,NULL,"etazno grejanje",2.5,NULL,NULL,NULL,1
+26956,1,1,61600,Kragujevac,"Gradske lokacije",56,NULL,2020,2,6,0,NULL,2.5,1,NULL,1,1
+54121,1,1,61600,"Novi Sad","Gradske lokacije",46,NULL,2020,2,3,NULL,"grejanje na gas",2,NULL,NULL,1,1
+59255,1,1,61600,Zlatibor,"Gradske lokacije",35,NULL,2020,3,5,0,"podno grejanje",2,1,1,1,1
+49242,1,1,61500,Nis,"Gradske lokacije",58,NULL,2020,1,NULL,NULL,"etazno grejanje",2,1,NULL,NULL,1
+51618,1,1,61500,"Novi Sad","Gradske lokacije",38,NULL,2020,0,4,NULL,NULL,1.5,NULL,NULL,1,1
+55339,1,1,61500,"Novi Sad","Gradske lokacije",41,NULL,2020,0,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+55303,1,1,61300,"Novi Sad","Gradske lokacije",40,NULL,2020,0,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+49239,1,1,61200,Nis,"Gradske lokacije",68,NULL,2020,0,NULL,NULL,"grejanje na struju",2,2,NULL,1,1
+58468,1,1,61200,Valjevo,"Okolne lokacije",34,NULL,2020,2,3,NULL,"centralno grejanje",1.5,NULL,NULL,NULL,1
+23123,1,1,61100,"Novi Sad","Gradske lokacije",33,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+59107,1,1,61050,Zlatibor,"Gradske lokacije",36,NULL,2020,0,5,NULL,NULL,2,1,NULL,NULL,NULL
+21092,1,1,61000,Beograd,"Cukarica opstina",53,NULL,2020,2,2,NULL,"grejanje na gas",2,1,1,NULL,1
+51492,1,1,60960,"Novi Sad","Gradske lokacije",37,NULL,2020,0,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+26107,1,1,60900,"Novi Sad","Gradske lokacije",31,NULL,2020,0,3,NULL,"centralno grejanje",1,NULL,NULL,1,NULL
+45631,1,1,60800,Beograd,"Novi Beograd",43,NULL,2020,2,4,NULL,"etazno grejanje",2.5,NULL,NULL,1,1
+49645,1,1,60700,"Novi Sad","Gradske lokacije",51,NULL,2020,3,3,NULL,"centralno grejanje",2,NULL,NULL,1,1
+23161,1,1,60600,"Novi Sad","Gradske lokacije",34,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+38478,1,1,60500,"Novi Sad","Gradske lokacije",28,NULL,2020,1,3,NULL,"centralno grejanje",0.5,NULL,NULL,1,1
+42128,1,1,60500,"Novi Sad","Gradske lokacije",47,NULL,2020,2,3,NULL,"centralno grejanje",1.5,NULL,NULL,1,1
+13435,1,1,60300,"Novi Sad","Gradske lokacije",27,NULL,2020,0,2,NULL,"grejanje na gas",1,NULL,NULL,1,1
+60398,1,1,60300,"Backa Palanka","Gradske lokacije",95,NULL,2020,4,4,NULL,"etazno grejanje",5,NULL,NULL,NULL,1
+49792,1,1,60100,"Novi Sad","Gradske lokacije",46,NULL,2020,0,2,NULL,NULL,3,NULL,1,NULL,NULL
+9821,1,1,59770,Beograd,"Cukarica opstina",44,NULL,2020,0,3,1,"etazno grejanje",2,NULL,1,NULL,NULL
+27048,1,1,59500,Kragujevac,"Gradske lokacije",60,NULL,2020,0,4,1,"grejanje na gas",2.5,1,1,1,1
+47608,1,1,59200,Kragujevac,"Gradske lokacije",55,NULL,2020,7,7,0,NULL,1,1,1,1,1
+49742,1,1,59120,"Novi Sad","Gradske lokacije",40,NULL,2020,0,3,NULL,NULL,1.5,NULL,NULL,1,1
+52750,1,1,59100,"Novi Sad","Gradske lokacije",42,NULL,2020,0,2,NULL,"grejanje na gas",1.5,NULL,NULL,NULL,1
+10446,1,1,59000,Beograd,"Zemun opstina",42,NULL,2020,0,3,1,"etazno grejanje",1.5,1,NULL,NULL,NULL
+11290,1,1,59000,Beograd,"Zvezdara opstina",37,NULL,2020,2,3,NULL,NULL,2,NULL,1,NULL,1
+31433,1,1,59000,Kragujevac,"Gradske lokacije",59,NULL,2020,1,3,1,"grejanje na gas",2,1,1,1,1
+49436,1,1,58950,"Novi Sad","Gradske lokacije",49,NULL,2020,0,3,NULL,"etazno grejanje",3,NULL,NULL,1,NULL
+46894,1,1,58800,"Novi Sad","Gradske lokacije",43,NULL,2020,2,4,NULL,"centralno grejanje",2,1,NULL,1,1
+34777,1,1,58710,"Novi Sad","Gradske lokacije",38,NULL,2020,0,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+16965,1,1,58660,"Novi Sad","Gradske lokacije",44,NULL,2020,1,3,NULL,"grejanje na gas",2,NULL,NULL,NULL,1
+9789,1,1,58600,Beograd,"Cukarica opstina",47,NULL,2020,6,6,0,"etazno grejanje",2.5,NULL,NULL,1,1
+54167,1,1,58600,"Novi Sad","Gradske lokacije",47,NULL,2020,2,3,NULL,NULL,2,NULL,NULL,1,1
+45668,1,1,58500,Beograd,"Novi Beograd",55,NULL,2020,3,3,1,NULL,2.5,NULL,NULL,NULL,1
+45679,1,1,58500,Beograd,"Novi Beograd",55,NULL,2020,3,3,1,NULL,2.5,NULL,NULL,NULL,1
+58408,1,1,58450,Zlatibor,"Gradske lokacije",35,NULL,2020,-1,5,NULL,NULL,1.5,1,NULL,NULL,NULL
+23149,1,1,58100,"Novi Sad","Gradske lokacije",32,NULL,2020,0,3,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+52855,1,1,58100,"Novi Sad","Gradske lokacije",37,NULL,2020,2,3,1,"centralno grejanje",2,NULL,NULL,1,1
+13985,1,1,58000,Nis,"Gradske lokacije",56,NULL,2020,2,3,1,"grejanje na struju",2.5,1,1,NULL,1
+29393,1,1,58000,Nis,"Gradske lokacije",56,NULL,2020,1,2,1,"etazno grejanje",2.5,2,1,NULL,1
+58695,1,1,58000,Zlatibor,"Okolne lokacije",39,NULL,2020,4,4,1,"norveski radijatori",2,1,1,1,NULL
+33781,1,1,57920,"Novi Sad","Gradske lokacije",38,NULL,2020,2,NULL,0,"grejanje na gas",1.5,NULL,1,1,1
+45554,1,1,57900,Beograd,"Novi Beograd",41,NULL,2020,3,4,NULL,"etazno grejanje",2,NULL,NULL,1,1
+50981,1,1,57900,Beograd,"Novi Beograd",41,NULL,2020,4,4,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+39496,1,1,57800,"Novi Sad","Gradske lokacije",28,NULL,2020,2,3,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+49769,1,1,57600,"Novi Sad","Gradske lokacije",43,NULL,2020,0,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,NULL
+55921,1,1,57500,"Vrnjacka Banja","Gradske lokacije",46,NULL,2020,0,NULL,1,NULL,2,1,NULL,NULL,NULL
+57229,1,1,57500,"Vrnjacka Banja","Gradske lokacije",50,NULL,2020,1,3,NULL,"centralno grejanje",2,1,1,NULL,1
+55270,1,1,57200,"Novi Sad","Gradske lokacije",36,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+43295,1,1,57110,"Novi Sad","Gradske lokacije",56,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,1,NULL,NULL
+43435,1,1,57110,"Novi Sad","Gradske lokacije",56,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,1,NULL,NULL
+49671,1,1,57100,"Novi Sad","Gradske lokacije",42,NULL,2020,3,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49751,1,1,57100,"Novi Sad","Gradske lokacije",42,NULL,2020,4,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49762,1,1,57100,"Novi Sad","Gradske lokacije",42,NULL,2020,2,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+52690,1,1,57100,"Novi Sad","Gradske lokacije",42,NULL,2020,1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+31882,1,1,57050,"Novi Sad","Gradske lokacije",55,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,NULL
+20945,1,1,57000,"Novi Sad","Gradske lokacije",41,NULL,2020,1,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+20973,1,1,57000,"Novi Sad","Gradske lokacije",41,NULL,2020,2,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+52722,1,1,57000,"Novi Sad","Gradske lokacije",42,NULL,2020,0,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+3659,1,1,56900,"Novi Sad","Gradske lokacije",30,NULL,2020,0,5,NULL,"centralno grejanje",0.5,NULL,NULL,1,NULL
+50071,1,1,56800,"Novi Sad","Gradske lokacije",45,NULL,2020,1,2,NULL,NULL,1.5,NULL,NULL,NULL,1
+51547,1,1,56650,"Novi Sad","Gradske lokacije",37,NULL,2020,4,4,NULL,"grejanje na gas",1.5,1,NULL,1,1
+20982,1,1,56600,"Novi Sad","Gradske lokacije",40,NULL,2020,1,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+21008,1,1,56600,"Novi Sad","Gradske lokacije",40,NULL,2020,2,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+21063,1,1,56600,"Novi Sad","Gradske lokacije",40,NULL,2020,1,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+45540,1,1,56000,Beograd,"Novi Beograd",40,NULL,2020,0,4,NULL,"etazno grejanje",2,NULL,NULL,1,1
+51104,1,1,56000,Beograd,"Novi Beograd",40,NULL,2020,3,3,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+61040,1,1,56000,Svilajnac,"Gradske lokacije",70,NULL,2020,1,3,1,"etazno grejanje",2,2,1,1,1
+52708,1,1,55900,"Novi Sad","Gradske lokacije",43,NULL,2020,0,2,NULL,"grejanje na gas",1.5,NULL,NULL,NULL,NULL
+49675,1,1,55850,"Novi Sad","Gradske lokacije",41,NULL,2020,2,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49736,1,1,55850,"Novi Sad","Gradske lokacije",41,NULL,2020,3,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+52685,1,1,55850,"Novi Sad","Gradske lokacije",41,NULL,2020,1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+52513,1,1,55744,Nis,"Gradske lokacije",42,NULL,2020,1,NULL,0,NULL,2,NULL,NULL,NULL,NULL
+25428,1,1,55600,Beograd,"Zvezdara opstina",41,NULL,2020,1,3,NULL,"centralno grejanje",1.5,1,1,1,NULL
+43144,1,1,55520,"Novi Sad","Gradske lokacije",49,NULL,2020,0,2,NULL,"etazno grejanje",2,NULL,NULL,NULL,1
+52509,1,1,55420,Nis,"Gradske lokacije",42,NULL,2020,3,NULL,0,NULL,2,NULL,NULL,NULL,NULL
+55289,1,1,55400,"Novi Sad","Gradske lokacije",44,NULL,2020,1,3,NULL,"etazno grejanje",2,NULL,NULL,1,1
+55326,1,1,55400,"Novi Sad","Gradske lokacije",44,NULL,2020,2,3,NULL,"etazno grejanje",2,NULL,NULL,1,1
+12076,1,1,55300,Kragujevac,"Gradske lokacije",57,NULL,2020,3,4,0,"centralno grejanje",2.5,1,1,1,1
+54127,1,1,55200,"Novi Sad","Gradske lokacije",39,NULL,2020,2,2,NULL,"grejanje na gas",2,NULL,NULL,NULL,1
+22564,1,1,55100,Beograd,"Vozdovac opstina",41,NULL,2020,3,3,NULL,"etazno grejanje",1.5,1,1,NULL,1
+25637,1,1,55100,Beograd,"Zvezdara opstina",54,NULL,2020,3,3,0,"etazno grejanje",2.5,NULL,NULL,NULL,NULL
+57038,1,1,55055,Krusevac,"Gradske lokacije",77,NULL,2020,1,6,NULL,"centralno grejanje",2,2,1,1,1
+57048,1,1,55055,Krusevac,"Gradske lokacije",77,NULL,2020,2,6,NULL,"centralno grejanje",2,2,1,1,1
+6439,0,1,55000,Indjija,"Okolne lokacije",56,69400,2020,NULL,NULL,1,"etazno grejanje",3,1,1,NULL,1
+25527,1,1,55000,Beograd,"Zvezdara opstina",54,NULL,2020,3,3,1,"etazno grejanje",2.5,NULL,NULL,NULL,NULL
+36832,1,1,55000,"Novi Sad","Gradske lokacije",43,NULL,2020,0,2,1,"grejanje na gas",2,2,1,NULL,1
+41813,1,1,55000,"Novi Sad","Gradske lokacije",39,NULL,2020,5,5,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+49855,1,1,55000,"Novi Sad","Gradske lokacije",39,NULL,2020,5,5,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+55940,1,1,55000,"Vrnjacka Banja","Gradske lokacije",50,NULL,2020,2,3,0,NULL,2,1,NULL,NULL,1
+56494,1,1,55000,Beograd,"Obrenovac opstina",50,NULL,2020,2,4,0,"centralno grejanje",2,2,1,1,1
+57201,1,1,55000,"Vrnjacka Banja","Gradske lokacije",50,NULL,2020,2,3,0,NULL,2,1,NULL,NULL,1
+56028,1,1,54720,"Vrnjacka Banja","Gradske lokacije",38,NULL,2020,1,3,NULL,"etazno grejanje",2,NULL,NULL,1,1
+56216,1,1,54600,"Vrnjacka Banja","Gradske lokacije",42,NULL,2020,2,4,NULL,"centralno grejanje",1,1,1,1,1
+46017,1,1,54500,Beograd,"Zemun opstina",52,NULL,2020,2,2,NULL,"etazno grejanje",2,NULL,NULL,NULL,1
+49566,1,1,54100,"Novi Sad","Gradske lokacije",42,NULL,2020,0,2,NULL,NULL,3,NULL,1,NULL,NULL
+60401,1,1,54000,"Backa Palanka","Gradske lokacije",85,NULL,2020,4,4,NULL,"etazno grejanje",2,NULL,NULL,NULL,1
+3627,1,1,53990,"Novi Sad","Gradske lokacije",45,NULL,2020,2,2,1,NULL,2.5,NULL,NULL,NULL,1
+56261,1,1,53800,"Novi Sad","Gradske lokacije",35,NULL,2020,0,4,1,NULL,2,NULL,1,1,NULL
+20799,1,1,53750,Beograd,"Cukarica opstina",43,NULL,2020,6,6,0,"etazno grejanje",1.5,NULL,NULL,1,1
+11889,1,1,53600,"Novi Sad","Gradske lokacije",55,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,NULL
+11977,1,1,53600,"Novi Sad","Gradske lokacije",55,NULL,2020,0,2,NULL,"grejanje na gas",3.5,NULL,NULL,NULL,NULL
+16006,0,1,53560,Indjija,"Okolne lokacije",60,NULL,2020,NULL,NULL,NULL,"centralno grejanje",NULL,NULL,NULL,NULL,NULL
+45337,1,1,53440,"Novi Sad","Gradske lokacije",40,NULL,2020,2,5,NULL,"grejanje na gas",2,1,NULL,1,1
+55276,1,1,53400,"Novi Sad","Gradske lokacije",41,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+56061,1,1,53280,"Vrnjacka Banja","Gradske lokacije",37,NULL,2020,1,3,NULL,"etazno grejanje",2,NULL,NULL,1,1
+56179,1,1,53280,"Vrnjacka Banja","Gradske lokacije",37,NULL,2020,1,3,NULL,"etazno grejanje",2,NULL,NULL,1,1
+43330,1,1,53200,"Novi Sad","Gradske lokacije",41,NULL,2020,2,2,NULL,"grejanje na gas",1.5,NULL,NULL,NULL,1
+43374,1,1,53200,"Novi Sad","Gradske lokacije",43,NULL,2020,1,2,NULL,"grejanje na gas",1.5,NULL,NULL,NULL,1
+51037,1,1,53200,Beograd,"Novi Beograd",38,NULL,2020,4,4,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+44069,1,1,53052,Beograd,Vracar,26,NULL,2020,0,4,NULL,"centralno grejanje",0.5,NULL,1,1,NULL
+771,1,1,53000,Kragujevac,"Gradske lokacije",43,NULL,2020,1,5,1,"centralno grejanje",1.5,1,NULL,NULL,1
+13365,1,1,53000,"Novi Sad","Gradske lokacije",26,NULL,2020,0,2,NULL,"grejanje na gas",1,NULL,NULL,1,1
+28884,1,1,53000,Nis,"Gradske lokacije",68,NULL,2020,NULL,NULL,0,NULL,3,2,NULL,NULL,NULL
+50067,1,1,53000,"Novi Sad","Gradske lokacije",42,NULL,2020,2,2,NULL,NULL,1.5,NULL,NULL,NULL,1
+49261,1,1,52900,Nis,"Gradske lokacije",50,NULL,2020,0,NULL,NULL,"etazno grejanje",2,1,NULL,1,1
+52769,1,1,52600,"Novi Sad","Gradske lokacije",42,NULL,2020,1,2,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+34746,1,1,52530,"Novi Sad","Gradske lokacije",38,NULL,2020,3,3,NULL,"grejanje na gas",1.5,1,NULL,1,1
+50993,1,1,52150,Beograd,"Novi Beograd",37,NULL,2020,2,4,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+49725,1,1,52100,"Novi Sad","Gradske lokacije",38,NULL,2020,4,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+52696,1,1,52100,"Novi Sad","Gradske lokacije",38,NULL,2020,2,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+52746,1,1,52100,"Novi Sad","Gradske lokacije",38,NULL,2020,3,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+52764,1,1,52100,"Novi Sad","Gradske lokacije",38,NULL,2020,1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+9799,1,1,52000,"Novi Sad","Gradske lokacije",28,NULL,2020,3,3,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+18329,1,1,51900,"Novi Sad","Gradske lokacije",42,NULL,2020,2,2,NULL,"grejanje na struju",1.5,NULL,NULL,NULL,NULL
+11141,1,1,51750,Beograd,"Zvezdara opstina",45,NULL,2020,0,5,0,"norveski radijatori",2.5,NULL,NULL,1,NULL
+57440,1,1,51600,"Vrnjacka Banja","Gradske lokacije",43,NULL,2020,2,2,1,"grejanje na struju",0.5,1,NULL,1,1
+56036,1,1,51540,"Vrnjacka Banja","Gradske lokacije",38,NULL,2020,1,4,0,"grejanje na struju",1,1,NULL,1,1
+43233,1,1,51500,"Novi Sad","Gradske lokacije",39,NULL,2020,2,2,1,"grejanje na gas",2,1,NULL,NULL,1
+48006,1,1,51500,Subotica,"Gradske lokacije",41,NULL,2020,5,6,NULL,"centralno grejanje",1.5,1,NULL,1,1
+52732,1,1,51300,"Novi Sad","Gradske lokacije",39,NULL,2020,1,2,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+11068,1,1,51000,Beograd,"Zvezdara opstina",50,NULL,2020,3,3,0,"etazno grejanje",2,NULL,NULL,NULL,NULL
+17270,1,1,51000,"Novi Sad","Gradske lokacije",69,NULL,2020,-1,2,1,"grejanje na gas",3,NULL,NULL,NULL,NULL
+25468,1,1,51000,Beograd,"Zvezdara opstina",50,NULL,2020,3,3,1,"etazno grejanje",2.5,NULL,NULL,NULL,NULL
+38673,1,1,51000,Kragujevac,"Gradske lokacije",48,NULL,2020,8,8,0,"grejanje na gas",1,1,NULL,NULL,1
+52709,1,1,50870,"Novi Sad","Gradske lokacije",39,NULL,2020,3,3,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+52735,1,1,50600,"Novi Sad","Gradske lokacije",35,NULL,2020,0,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,NULL
+57232,1,1,50600,"Vrnjacka Banja","Gradske lokacije",46,NULL,2020,3,3,NULL,"centralno grejanje",2,1,1,NULL,1
+50090,1,1,50500,"Novi Sad","Gradske lokacije",40,NULL,2020,1,2,NULL,NULL,1.5,NULL,NULL,NULL,1
+55342,1,1,50470,"Novi Sad","Gradske lokacije",37,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+52717,1,1,50200,"Novi Sad","Gradske lokacije",38,NULL,2020,1,2,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49399,1,1,50100,"Novi Sad","Gradske lokacije",34,NULL,2020,2,2,NULL,"etazno grejanje",0.5,NULL,NULL,1,1
+49594,1,1,50100,"Novi Sad","Gradske lokacije",34,NULL,2020,2,2,NULL,"etazno grejanje",0.5,NULL,NULL,1,1
+26855,1,1,50050,Kragujevac,"Gradske lokacije",46,NULL,2020,3,4,1,"grejanje na gas",1.5,1,1,1,1
+11831,1,1,50000,Kragujevac,"Gradske lokacije",45,NULL,2020,3,3,1,"grejanje na gas",1,1,NULL,1,1
+36806,1,1,50000,Beograd,"Palilula opstina",88,NULL,2020,NULL,NULL,NULL,NULL,3,2,NULL,NULL,NULL
+24024,1,1,49950,"Novi Sad","Gradske lokacije",27,NULL,2020,3,3,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+17282,1,1,49900,"Novi Sad","Gradske lokacije",70,NULL,2020,0,2,NULL,"grejanje na gas",3,NULL,NULL,NULL,NULL
+52757,1,1,49810,"Novi Sad","Gradske lokacije",32,NULL,2020,0,4,NULL,"grejanje na gas",1.5,1,NULL,1,1
+107,1,1,49740,"Novi Sad","Gradske lokacije",41,NULL,2020,2,2,1,NULL,2.5,NULL,NULL,NULL,1
+49418,1,1,49700,"Novi Sad","Gradske lokacije",33,NULL,2020,2,2,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+55295,1,1,49570,"Novi Sad","Gradske lokacije",38,NULL,2020,0,3,NULL,"etazno grejanje",2,NULL,NULL,1,1
+31190,1,1,49500,"Novi Sad","Gradske lokacije",32,NULL,2020,4,4,NULL,NULL,0.5,NULL,1,1,1
+42736,1,1,49500,"Novi Sad","Gradske lokacije",28,NULL,2020,2,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,NULL
+42747,1,1,49500,"Novi Sad","Gradske lokacije",28,NULL,2020,4,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,NULL
+42805,1,1,49500,"Novi Sad","Gradske lokacije",28,NULL,2020,1,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,NULL
+49587,1,1,49500,"Novi Sad","Gradske lokacije",33,NULL,2020,2,2,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+42751,1,1,49400,"Novi Sad","Gradske lokacije",28,NULL,2020,4,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,NULL
+60427,1,1,49400,Sokobanja,"Gradske lokacije",38,NULL,2020,1,3,NULL,"grejanje na struju",1.5,1,NULL,NULL,1
+42774,1,1,49350,"Novi Sad","Gradske lokacije",28,NULL,2020,1,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,NULL
+52726,1,1,49300,"Novi Sad","Gradske lokacije",36,NULL,2020,0,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+36448,1,1,49200,"Novi Sad","Gradske lokacije",31,NULL,2020,0,4,NULL,"centralno grejanje",0.5,NULL,NULL,NULL,NULL
+17104,1,1,49184,Nis,"Gradske lokacije",43,NULL,2020,NULL,NULL,0,NULL,1.5,1,NULL,NULL,NULL
+3197,1,1,49000,Beograd,"Zvezdara opstina",25,NULL,2020,0,5,1,"etazno grejanje",1.5,NULL,NULL,NULL,1
+11433,1,1,49000,Beograd,"Zvezdara opstina",26,NULL,2020,0,5,1,"norveski radijatori",1.5,NULL,1,NULL,1
+11909,1,1,49000,"Novi Sad","Gradske lokacije",39,NULL,2020,2,2,NULL,"grejanje na gas",1.5,NULL,1,NULL,1
+25714,1,1,49000,Beograd,"Zvezdara opstina",56,NULL,2020,0,3,0,"etazno grejanje",2,NULL,NULL,NULL,1
+25785,1,1,49000,Beograd,"Zvezdara opstina",56,NULL,2020,0,3,1,"etazno grejanje",2,NULL,NULL,NULL,1
+60810,1,1,49000,Ub,"Gradske lokacije",70,NULL,2020,3,4,0,"centralno grejanje",2.5,1,1,1,1
+56075,1,1,48840,"Vrnjacka Banja","Gradske lokacije",37,NULL,2020,1,3,0,"norveski radijatori",1,1,1,NULL,1
+20805,1,1,48750,Beograd,"Cukarica opstina",39,NULL,2020,6,6,0,"etazno grejanje",1.5,NULL,NULL,1,1
+42132,1,1,48550,"Novi Sad","Gradske lokacije",31,NULL,2020,2,5,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49699,1,1,48550,"Novi Sad","Gradske lokacije",31,NULL,2020,3,5,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+17166,1,1,48527,Nis,"Gradske lokacije",42,NULL,2020,NULL,NULL,0,NULL,1.5,1,NULL,NULL,NULL
+45352,1,1,48400,Beograd,"Zemun opstina",44,NULL,2020,4,4,NULL,"etazno grejanje",1.5,1,1,NULL,1
+56781,1,1,48200,"Vrnjacka Banja","Gradske lokacije",36,NULL,2020,2,4,0,"norveski radijatori",1,1,1,1,1
+52703,1,1,47900,"Novi Sad","Gradske lokacije",34,NULL,2020,0,2,NULL,"grejanje na gas",1.5,NULL,NULL,NULL,NULL
+51607,1,1,47800,"Novi Sad","Gradske lokacije",25,NULL,2020,0,3,NULL,"grejanje na gas",0.5,NULL,NULL,1,NULL
+43164,1,1,47500,"Novi Sad","Gradske lokacije",38,NULL,2020,2,2,1,NULL,1.5,NULL,NULL,NULL,1
+52158,1,1,47400,"Novi Sad","Gradske lokacije",26,NULL,2020,3,3,1,NULL,0.5,NULL,NULL,NULL,1
+55282,1,1,47300,"Novi Sad","Gradske lokacije",34,NULL,2020,5,5,NULL,"etazno grejanje",2,NULL,NULL,1,1
+9653,1,1,47260,Beograd,"Cukarica opstina",37,NULL,2020,0,3,1,"etazno grejanje",2,NULL,1,NULL,NULL
+56060,1,1,46866,"Vrnjacka Banja","Gradske lokacije",43,NULL,2020,1,1,NULL,"centralno grejanje",1,NULL,NULL,NULL,1
+50977,1,1,46800,Beograd,"Novi Beograd",33,NULL,2020,2,3,NULL,"etazno grejanje",1.5,NULL,NULL,1,NULL
+20812,1,1,46600,Beograd,"Cukarica opstina",35,NULL,2020,0,6,0,"etazno grejanje",1.5,NULL,NULL,1,1
+18807,1,1,46500,"Novi Sad","Gradske lokacije",23,NULL,2020,0,3,1,"grejanje na gas",0.5,NULL,NULL,1,1
+41000,1,1,46500,Nis,"Gradske lokacije",48,NULL,2020,1,3,0,"grejanje na struju",2,1,1,1,1
+41130,1,1,46500,Nis,"Gradske lokacije",48,NULL,2020,1,3,0,"grejanje na struju",2,1,1,1,1
+41176,1,1,46500,Nis,"Gradske lokacije",48,NULL,2020,3,3,0,NULL,2,1,NULL,NULL,NULL
+11026,1,1,46400,Beograd,"Zvezdara opstina",33,NULL,2020,0,3,NULL,"podno grejanje",1,NULL,1,NULL,1
+11036,1,1,46300,Beograd,"Zvezdara opstina",29,NULL,2020,2,3,NULL,NULL,1,NULL,1,NULL,1
+52797,1,1,46300,"Novi Sad","Gradske lokacije",35,NULL,2020,1,2,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+25959,1,1,46200,Beograd,"Zvezdara opstina",44,NULL,2020,0,4,1,"etazno grejanje",2,1,1,1,NULL
+56975,1,1,46200,Beograd,"Obrenovac opstina",42,NULL,2020,2,NULL,NULL,"centralno grejanje",1.5,1,NULL,NULL,1
+11057,1,1,46180,Beograd,"Zvezdara opstina",33,NULL,2020,0,3,NULL,"podno grejanje",2,NULL,1,NULL,1
+55266,1,1,46030,"Novi Sad","Gradske lokacije",34,NULL,2020,1,4,NULL,"grejanje na gas",2,NULL,NULL,1,1
+11228,1,1,46000,Beograd,"Zvezdara opstina",26,NULL,2020,0,5,NULL,"norveski radijatori",1.5,NULL,1,NULL,1
+41422,1,1,46000,Nis,"Gradske lokacije",46,NULL,2020,1,3,0,"TA pec",2,1,1,1,1
+47142,1,1,45900,"Novi Sad","Gradske lokacije",27,NULL,2020,0,4,NULL,"centralno grejanje",3.5,NULL,NULL,1,1
+55308,1,1,45850,"Novi Sad","Gradske lokacije",34,NULL,2020,0,4,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+17154,1,1,45785,Nis,"Gradske lokacije",40,NULL,2020,NULL,NULL,0,NULL,1.5,1,NULL,NULL,NULL
+58404,1,1,45760,Zlatibor,"Okolne lokacije",32,NULL,2020,NULL,NULL,1,"grejanje na struju",1,2,1,NULL,1
+56813,1,1,45537,"Vrnjacka Banja","Gradske lokacije",30,NULL,2020,0,3,0,NULL,0.5,1,NULL,1,1
+56717,1,1,45500,"Vrnjacka Banja","Gradske lokacije",35,NULL,2020,1,6,1,"etazno grejanje",1,1,1,1,1
+36472,1,1,45350,"Novi Sad","Gradske lokacije",26,NULL,2020,4,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+23888,1,1,45300,"Novi Sad","Gradske lokacije",26,NULL,2020,3,3,NULL,"centralno grejanje",0.5,NULL,NULL,NULL,1
+60084,1,1,45050,"Stara Pazova","Gradske lokacije",45,NULL,2020,2,4,1,"podno grejanje",1.5,2,1,1,1
+25566,1,1,45000,Beograd,"Zvezdara opstina",30,NULL,2020,1,3,NULL,"centralno grejanje",1,1,1,1,NULL
+26790,1,1,45000,Subotica,"Gradske lokacije",87,NULL,2020,0,4,NULL,"grejanje na gas",4,2,1,1,NULL
+45079,1,1,45000,"Novi Sad","Gradske lokacije",24,NULL,2020,1,3,NULL,"grejanje na gas",0.5,NULL,NULL,1,NULL
+55468,1,1,45000,Pancevo,"Gradske lokacije",33,NULL,2020,3,5,0,"centralno grejanje",1,1,NULL,1,1
+11276,1,1,44900,Beograd,"Zvezdara opstina",28,NULL,2020,3,3,NULL,NULL,1,NULL,1,NULL,1
+28799,1,1,44800,Nis,"Gradske lokacije",49,NULL,2020,8,8,1,NULL,1,1,NULL,NULL,NULL
+52477,1,1,44800,Nis,"Gradske lokacije",49,NULL,2020,8,8,NULL,NULL,0.5,2,NULL,1,NULL
+52548,1,1,44800,Nis,"Gradske lokacije",49,NULL,2020,8,8,NULL,NULL,0.5,2,NULL,1,NULL
+41765,1,1,44700,"Novi Sad","Gradske lokacije",28,NULL,2020,3,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+49477,1,1,44700,"Novi Sad","Gradske lokacije",28,NULL,2020,0,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+57393,1,1,44271,"Vrnjacka Banja","Gradske lokacije",38,NULL,2020,1,4,0,"etazno grejanje",1.5,1,1,1,1
+43085,1,1,44200,"Novi Sad","Gradske lokacije",43,NULL,2020,-1,2,1,"grejanje na struju",2,NULL,NULL,NULL,NULL
+53583,1,1,44200,Beograd,"Novi Beograd",34,NULL,2020,0,2,NULL,"etazno grejanje",1.5,NULL,NULL,NULL,1
+52773,1,1,44050,"Novi Sad","Gradske lokacije",32,NULL,2020,4,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+25474,1,1,44000,Beograd,"Zvezdara opstina",30,NULL,2020,0,3,NULL,"centralno grejanje",1.5,1,1,1,NULL
+51012,1,1,43900,Beograd,"Novi Beograd",31,NULL,2020,2,4,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+31743,1,1,43890,"Novi Sad","Gradske lokacije",33,NULL,2020,3,3,NULL,"grejanje na gas",1,NULL,NULL,NULL,1
+58840,1,1,43750,Zlatibor,"Gradske lokacije",35,NULL,2020,0,5,1,"etazno grejanje",1.5,NULL,1,1,NULL
+41868,1,1,43700,"Novi Sad","Gradske lokacije",28,NULL,2020,0,4,1,NULL,1,NULL,1,1,1
+49634,1,1,43670,"Novi Sad","Gradske lokacije",28,NULL,2020,NULL,NULL,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+51017,1,1,43400,Beograd,"Novi Beograd",31,NULL,2020,1,3,NULL,"etazno grejanje",1.5,NULL,NULL,1,NULL
+51108,1,1,43400,Beograd,"Novi Beograd",31,NULL,2020,0,3,NULL,"etazno grejanje",1.5,NULL,NULL,1,NULL
+51117,1,1,43400,Beograd,"Novi Beograd",31,NULL,2020,0,4,NULL,"etazno grejanje",1.5,NULL,NULL,1,1
+58643,1,1,43400,Zlatibor,"Gradske lokacije",28,NULL,2020,3,3,1,"norveski radijatori",0.5,1,1,1,NULL
+52107,1,1,43260,"Novi Sad","Gradske lokacije",35,NULL,2020,6,6,1,"grejanje na struju",2.5,NULL,NULL,NULL,NULL
+52409,1,1,43250,Nis,"Gradske lokacije",37,NULL,2020,1,NULL,NULL,"etazno grejanje",1.5,1,NULL,NULL,1
+45647,1,1,43200,Beograd,"Novi Beograd",48,NULL,2020,-1,3,NULL,"etazno grejanje",2.5,NULL,NULL,1,NULL
+55092,1,1,43200,"Vrnjacka Banja","Gradske lokacije",30,NULL,2020,1,3,NULL,"etazno grejanje",1,NULL,NULL,1,1
+56054,1,1,43200,"Vrnjacka Banja","Gradske lokacije",36,NULL,2020,3,4,1,NULL,0.5,NULL,NULL,NULL,NULL
+56654,1,1,43200,"Vrnjacka Banja","Gradske lokacije",30,NULL,2020,1,3,NULL,"etazno grejanje",1,NULL,NULL,1,1
+28820,1,1,43050,Nis,"Gradske lokacije",43,NULL,2020,8,NULL,0,NULL,0.5,1,NULL,NULL,NULL
+57213,1,1,43000,Ruma,"Gradske lokacije",48,NULL,2020,5,5,1,"centralno grejanje",2,2,1,1,1
+49401,1,1,42800,"Novi Sad","Gradske lokacije",27,NULL,2020,3,4,NULL,"grejanje na gas",0.5,1,NULL,1,1
+49696,1,1,42800,"Novi Sad","Gradske lokacije",31,NULL,2020,2,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49715,1,1,42800,"Novi Sad","Gradske lokacije",31,NULL,2020,3,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+49755,1,1,42800,"Novi Sad","Gradske lokacije",31,NULL,2020,4,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+52720,1,1,42800,"Novi Sad","Gradske lokacije",31,NULL,2020,1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+17098,1,1,42785,Nis,"Gradske lokacije",37,NULL,2020,0,5,0,NULL,1.5,1,NULL,NULL,NULL
+43350,1,1,42650,"Novi Sad","Gradske lokacije",36,NULL,2020,0,2,NULL,"grejanje na gas",1.5,NULL,1,NULL,1
+43354,1,1,42650,"Novi Sad","Gradske lokacije",36,NULL,2020,0,2,NULL,"grejanje na gas",1.5,NULL,1,NULL,1
+49609,1,1,42550,"Novi Sad","Gradske lokacije",27,NULL,2020,5,5,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+41467,1,1,42480,Nis,"Gradske lokacije",35,NULL,2020,NULL,NULL,1,"podno grejanje",1,1,1,NULL,1
+41501,1,1,42480,Nis,"Gradske lokacije",35,NULL,2020,NULL,NULL,1,"podno grejanje",1,1,1,NULL,1
+38388,1,1,42450,"Novi Sad","Gradske lokacije",29,NULL,2020,0,4,1,NULL,1,NULL,NULL,1,NULL
+27003,1,1,42230,"Novi Sad","Gradske lokacije",32,NULL,2020,0,2,NULL,NULL,1.5,NULL,NULL,NULL,NULL
+49599,1,1,42030,"Novi Sad","Gradske lokacije",27,NULL,2020,1,4,NULL,"grejanje na gas",0.5,1,NULL,1,1
+56614,1,1,42000,"Vrnjacka Banja","Gradske lokacije",27,NULL,2020,1,3,0,"grejanje na struju",1,1,1,NULL,1
+58881,1,1,42000,Zlatibor,"Gradske lokacije",30,NULL,2020,2,4,1,NULL,1.5,1,NULL,NULL,NULL
+49567,1,1,41950,"Novi Sad","Gradske lokacije",26,NULL,2020,1,5,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+43346,1,1,41900,"Novi Sad","Gradske lokacije",35,NULL,2020,2,2,NULL,"grejanje na gas",1.5,NULL,NULL,NULL,1
+49654,1,1,41900,"Novi Sad","Gradske lokacije",26,NULL,2020,2,5,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+55333,1,1,41900,"Novi Sad","Gradske lokacije",31,NULL,2020,0,4,NULL,"grejanje na gas",2,NULL,NULL,1,NULL
+51597,1,1,41250,"Novi Sad","Gradske lokacije",26,NULL,2020,0,4,NULL,NULL,0.5,NULL,NULL,1,NULL
+61076,1,1,41250,Beograd,NULL,33,NULL,2020,1,4,1,"grejanje na struju",1,1,1,1,1
+28748,1,1,41080,Nis,"Gradske lokacije",41,NULL,2020,8,8,0,NULL,0.5,1,NULL,NULL,NULL
+43201,1,1,40545,"Novi Sad","Gradske lokacije",31,NULL,2020,2,3,NULL,"grejanje na gas",1.5,NULL,NULL,NULL,1
+52417,1,1,40500,Nis,"Gradske lokacije",38,NULL,2020,1,NULL,NULL,"etazno grejanje",1.5,1,NULL,NULL,1
+51587,1,1,40390,"Novi Sad","Gradske lokacije",25,NULL,2020,0,4,NULL,NULL,0.5,NULL,NULL,1,NULL
+55885,1,1,40300,"Vrnjacka Banja","Gradske lokacije",28,NULL,2020,1,3,0,"grejanje na struju",0.5,1,1,1,1
+56063,1,1,40040,"Vrnjacka Banja","Gradske lokacije",26,NULL,2020,0,3,0,NULL,0.5,1,NULL,1,1
+57412,1,1,40040,"Vrnjacka Banja","Gradske lokacije",26,NULL,2020,0,3,0,NULL,0.5,1,NULL,1,1
+12083,1,1,40000,Subotica,"Gradske lokacije",68,NULL,2020,0,4,NULL,"grejanje na gas",3,2,1,1,NULL
+39047,1,1,40000,Subotica,"Gradske lokacije",68,NULL,2020,0,4,NULL,"grejanje na gas",3,2,1,1,NULL
+56786,1,1,39600,"Vrnjacka Banja","Gradske lokacije",30,NULL,2020,0,3,NULL,"grejanje na struju",0.5,1,1,NULL,1
+28774,1,1,38980,Nis,"Gradske lokacije",38,NULL,2020,8,8,0,NULL,0.5,1,NULL,NULL,NULL
+51023,1,1,38700,Beograd,"Novi Beograd",43,NULL,2020,-1,3,NULL,"etazno grejanje",1.5,NULL,NULL,1,NULL
+52768,1,1,38700,"Novi Sad","Gradske lokacije",36,NULL,2020,-1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,NULL
+51009,1,1,38400,Beograd,"Novi Beograd",27,NULL,2020,0,4,NULL,"etazno grejanje",0.5,NULL,NULL,1,NULL
+9788,1,1,38110,"Novi Sad","Gradske lokacije",20,NULL,2020,0,NULL,1,"grejanje na gas",0.5,2,NULL,NULL,NULL
+28816,1,1,38110,Nis,"Gradske lokacije",42,NULL,2020,8,8,0,NULL,1.5,1,NULL,NULL,NULL
+56773,1,1,38016,"Vrnjacka Banja","Gradske lokacije",27,NULL,2020,2,4,0,"norveski radijatori",1,1,1,1,1
+49177,1,1,37700,Nis,"Gradske lokacije",46,NULL,2020,-1,NULL,1,NULL,2,1,NULL,NULL,NULL
+57421,1,1,37653,"Vrnjacka Banja","Gradske lokacije",35,NULL,2020,0,4,NULL,"grejanje na struju",1.5,1,1,1,1
+49607,1,1,37250,"Novi Sad","Gradske lokacije",27,NULL,2020,0,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,NULL
+49431,1,1,37200,"Novi Sad","Gradske lokacije",27,NULL,2020,0,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,NULL
+49414,1,1,36800,"Novi Sad","Gradske lokacije",27,NULL,2020,0,2,NULL,NULL,0.5,NULL,1,NULL,NULL
+56004,1,1,36300,"Vrnjacka Banja","Gradske lokacije",33,NULL,2020,0,2,1,"norveski radijatori",2,1,1,NULL,1
+55974,1,1,36214,"Vrnjacka Banja","Gradske lokacije",34,NULL,2020,1,2,1,NULL,1.5,1,1,NULL,1
+56628,1,1,36214,"Vrnjacka Banja","Gradske lokacije",34,NULL,2020,1,2,1,NULL,1.5,1,1,NULL,1
+29257,1,1,36000,Nis,"Gradske lokacije",80,NULL,2020,NULL,NULL,1,"grejanje na struju",3,NULL,1,NULL,NULL
+43332,1,1,36000,"Novi Sad","Gradske lokacije",29,NULL,2020,0,2,NULL,"grejanje na gas",1.5,NULL,1,NULL,1
+43342,1,1,36000,"Novi Sad","Gradske lokacije",29,NULL,2020,2,2,NULL,"grejanje na gas",1.5,NULL,NULL,NULL,1
+43348,1,1,36000,"Novi Sad","Gradske lokacije",29,NULL,2020,2,2,NULL,"grejanje na gas",1.5,NULL,NULL,NULL,1
+43392,1,1,36000,"Novi Sad","Gradske lokacije",29,NULL,2020,0,2,NULL,"grejanje na gas",1.5,NULL,1,NULL,1
+55913,1,1,35640,"Vrnjacka Banja","Gradske lokacije",36,NULL,2020,0,2,0,NULL,1,2,1,NULL,1
+56775,1,1,35640,"Vrnjacka Banja","Gradske lokacije",36,NULL,2020,1,2,0,NULL,1,2,1,NULL,1
+57324,1,1,35134,"Vrnjacka Banja","Gradske lokacije",31,NULL,2020,-1,1,NULL,"etazno grejanje",0.5,1,NULL,1,1
+41033,1,1,35100,Nis,"Gradske lokacije",54,NULL,2020,-1,3,1,"grejanje na struju",2.5,NULL,1,NULL,NULL
+49149,1,1,35100,Nis,"Gradske lokacije",54,NULL,2020,-1,3,1,NULL,2.5,1,NULL,NULL,NULL
+56966,1,1,35010,Krusevac,"Gradske lokacije",47,NULL,2020,2,5,0,"centralno grejanje",2,1,NULL,1,1
+57760,1,1,35010,Krusevac,"Gradske lokacije",47,NULL,2020,2,5,0,"centralno grejanje",2,1,NULL,1,1
+5615,1,1,35000,"Novi Sad","Gradske lokacije",35,NULL,2020,-1,3,1,"centralno grejanje",1.5,NULL,NULL,1,NULL
+29278,1,1,35000,Nis,"Gradske lokacije",35,NULL,2020,1,3,1,"grejanje na gas",2,2,1,1,1
+33350,1,1,35000,"Novi Sad","Gradske lokacije",33,NULL,2020,0,3,NULL,"grejanje na gas",1.5,NULL,NULL,1,NULL
+50961,1,1,35000,Beograd,"Novi Beograd",25,NULL,2020,4,4,NULL,"etazno grejanje",1.5,NULL,NULL,1,NULL
+51006,1,1,35000,Beograd,"Novi Beograd",25,NULL,2020,0,4,NULL,"etazno grejanje",0.5,NULL,NULL,1,1
+55897,1,1,35000,"Vrnjacka Banja","Gradske lokacije",35,NULL,2020,1,5,0,"grejanje na struju",1,1,1,1,1
+55944,1,1,34810,"Vrnjacka Banja","Gradske lokacije",33,NULL,2020,1,4,0,"grejanje na struju",1,1,1,1,1
+21989,1,1,34800,"Novi Sad","Gradske lokacije",25,NULL,2020,2,3,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+22018,1,1,34800,"Novi Sad","Gradske lokacije",25,NULL,2020,1,3,NULL,"grejanje na gas",0.5,NULL,NULL,1,NULL
+20402,1,1,34750,"Novi Sad","Gradske lokacije",28,NULL,2020,0,NULL,1,"grejanje na gas",0.5,1,NULL,1,NULL
+38429,1,1,34750,"Novi Sad","Gradske lokacije",28,NULL,2020,0,4,NULL,"centralno grejanje",0.5,NULL,NULL,1,NULL
+11125,1,1,34500,Beograd,"Zvezdara opstina",30,NULL,2020,0,5,0,"norveski radijatori",1.5,NULL,NULL,1,1
+55980,1,1,34500,"Vrnjacka Banja","Gradske lokacije",24,NULL,2020,0,3,1,NULL,0.5,1,1,NULL,1
+57413,1,1,34500,"Vrnjacka Banja","Gradske lokacije",24,NULL,2020,0,3,1,NULL,0.5,1,1,NULL,1
+49457,1,1,34440,"Novi Sad","Gradske lokacije",31,NULL,2020,-1,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+50966,1,1,34150,Beograd,"Novi Beograd",24,NULL,2020,4,4,NULL,"etazno grejanje",0.5,NULL,NULL,1,1
+38517,1,1,33660,"Novi Sad","Gradske lokacije",27,NULL,2020,0,4,NULL,"centralno grejanje",0.5,NULL,NULL,1,NULL
+52705,1,1,33440,"Novi Sad","Gradske lokacije",32,NULL,2020,-1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+52715,1,1,33440,"Novi Sad","Gradske lokacije",32,NULL,2020,-1,4,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+57070,1,1,33330,Krusevac,"Gradske lokacije",44,NULL,2020,3,5,0,"centralno grejanje",2,1,NULL,NULL,1
+57786,1,1,33330,Krusevac,"Gradske lokacije",44,NULL,2020,3,5,0,"centralno grejanje",2,1,NULL,NULL,1
+31895,1,1,32960,"Novi Sad","Gradske lokacije",28,NULL,2020,2,2,1,"etazno grejanje",1.5,2,1,NULL,1
+41589,1,1,32900,Nis,"Gradske lokacije",35,NULL,2020,8,8,1,NULL,1,1,NULL,NULL,NULL
+11762,1,1,32860,"Novi Sad","Gradske lokacije",29,NULL,2020,-1,5,NULL,NULL,0.5,NULL,1,1,NULL
+18658,1,1,32000,"Novi Sad","Gradske lokacije",30,NULL,2020,0,3,NULL,"grejanje na gas",1,NULL,NULL,1,NULL
+18663,1,1,32000,"Novi Sad","Gradske lokacije",30,NULL,2020,0,3,NULL,"grejanje na gas",1,NULL,NULL,1,NULL
+51076,1,1,31500,Beograd,"Novi Beograd",35,NULL,2020,-1,3,NULL,"etazno grejanje",1.5,NULL,NULL,1,NULL
+40474,0,1,31000,Kragujevac,"Okolne lokacije",93,4600,2020,NULL,NULL,NULL,"grejanje na struju",NULL,1,NULL,NULL,NULL
+55243,1,1,30880,"Vrnjacka Banja","Gradske lokacije",28,NULL,2020,0,3,0,NULL,1,2,NULL,NULL,NULL
+56000,1,1,30880,"Vrnjacka Banja","Gradske lokacije",28,NULL,2020,0,3,0,NULL,1,2,NULL,NULL,NULL
+38668,1,1,30850,"Novi Sad","Gradske lokacije",27,NULL,2020,-1,5,NULL,NULL,0.5,NULL,1,1,NULL
+26198,1,1,30000,"Novi Sad","Gradske lokacije",22,NULL,2020,0,1,NULL,"grejanje na gas",0.5,NULL,NULL,NULL,NULL
+52742,1,1,29150,Nis,"Gradske lokacije",28,NULL,2020,0,NULL,NULL,NULL,0.5,1,NULL,1,NULL
+53649,1,1,29000,Beograd,"Barajevo opstina",55,NULL,2020,5,5,0,"grejanje na struju",3,1,NULL,NULL,1
+50983,1,1,28800,Beograd,"Novi Beograd",32,NULL,2020,-1,3,NULL,"etazno grejanje",1.5,NULL,NULL,1,NULL
+52747,1,1,27750,Nis,"Gradske lokacije",26,NULL,2020,0,NULL,NULL,NULL,0.5,NULL,NULL,1,NULL
+56431,1,1,27060,Krusevac,"Gradske lokacije",41,NULL,2020,NULL,NULL,NULL,"etazno grejanje",1,1,NULL,NULL,1
+57008,1,1,27060,Krusevac,"Gradske lokacije",41,NULL,2020,NULL,NULL,NULL,"etazno grejanje",1,1,NULL,NULL,1
+14042,1,1,26900,Nis,"Gradske lokacije",33,NULL,2020,0,5,1,"grejanje na struju",1.5,1,1,NULL,NULL
+14030,1,1,26300,Nis,"Gradske lokacije",31,NULL,2020,0,5,1,"grejanje na struju",1.5,1,1,NULL,NULL
+49470,1,1,26080,"Novi Sad","Gradske lokacije",24,NULL,2020,-1,4,NULL,"grejanje na gas",0.5,NULL,NULL,1,1
+6525,0,1,26000,Subotica,"Gradske lokacije",100,1250,2020,NULL,NULL,NULL,NULL,3,NULL,NULL,NULL,NULL
+4299,0,1,24000,Ruma,"Gradske lokacije",178,NULL,2020,NULL,NULL,NULL,"centralno grejanje",NULL,NULL,NULL,NULL,NULL
+20129,1,0,7400,Beograd,Vracar,370,NULL,2020,6,6,NULL,"etazno grejanje",5,5,1,NULL,1
+34336,1,0,4000,Beograd,Vracar,200,NULL,2020,4,6,NULL,NULL,5,4,1,NULL,1
+58575,1,0,4000,Beograd,Vracar,200,NULL,2020,5,6,NULL,"podno grejanje",5,NULL,NULL,1,1
+44814,1,0,3500,Beograd,"Savski Venac",260,NULL,2020,0,3,NULL,"grejanje na gas",5,3,1,1,1
+5129,1,0,3400,Beograd,Vracar,170,NULL,2020,5,6,NULL,NULL,4,2,1,NULL,1
+29912,1,0,3400,Beograd,Vracar,170,NULL,2020,4,6,NULL,"etazno grejanje",4,2,1,NULL,1
+36563,1,1,2860,Beograd,"Palilula opstina",86,NULL,2020,2,5,1,"centralno grejanje",3,2,NULL,1,1
+36568,1,1,2860,Beograd,"Palilula opstina",82,NULL,2020,1,5,1,"centralno grejanje",3,2,NULL,1,1
+29924,1,0,2800,Beograd,Vracar,140,NULL,2020,1,6,NULL,"etazno grejanje",4,2,1,NULL,1
+42428,1,0,2800,Beograd,Vracar,140,NULL,2020,3,6,NULL,"podno grejanje",4,NULL,NULL,1,1
+45894,1,1,2750,Beograd,"Palilula opstina",162,NULL,2020,4,5,1,"centralno grejanje",5,3,NULL,1,1
+29907,1,0,2500,Beograd,Vracar,125,NULL,2020,1,6,NULL,NULL,4,2,1,NULL,1
+44073,1,1,2500,Beograd,Vracar,49,NULL,2020,2,4,1,"centralno grejanje",2,1,1,NULL,NULL
+44285,1,1,2500,Beograd,Vracar,76,NULL,2020,3,4,0,"centralno grejanje",3,NULL,NULL,1,1
+44293,1,1,2500,Beograd,Vracar,69,NULL,2020,0,4,0,"centralno grejanje",3,NULL,NULL,1,NULL
+44325,1,1,2500,Beograd,Vracar,73,NULL,2020,2,4,0,"centralno grejanje",3,NULL,NULL,1,1
+44435,1,1,2500,Beograd,Vracar,83,NULL,2020,4,4,0,"centralno grejanje",4,NULL,NULL,1,1
+36383,1,1,2120,Beograd,"Novi Beograd",74,NULL,2020,3,10,NULL,"centralno grejanje",3,NULL,NULL,NULL,NULL
+46472,1,1,2120,Beograd,"Novi Beograd",61,NULL,2020,3,10,1,"centralno grejanje",2,NULL,NULL,NULL,NULL
+2082,0,0,2000,Beograd,"Palilula opstina",950,1000,2020,NULL,NULL,NULL,NULL,12,4,NULL,NULL,1
+17815,1,1,2000,Beograd,"Vozdovac opstina",61,NULL,2020,2,5,1,"podno grejanje",2.5,NULL,1,1,1
+19509,1,0,2000,Beograd,Vracar,100,NULL,2020,1,6,NULL,NULL,3,2,1,NULL,1
+30593,1,0,1800,Beograd,"Savski Venac",90,NULL,2020,13,23,NULL,NULL,4,2,1,NULL,NULL
+42256,1,0,1800,Beograd,"Savski Venac",88,NULL,2020,6,8,NULL,"centralno grejanje",3,NULL,NULL,1,1
+42571,1,0,1800,Beograd,"Savski Venac",90,NULL,2020,13,15,NULL,"centralno grejanje",3.5,NULL,1,1,1
+15301,1,0,1700,Beograd,"Savski Venac",81,NULL,2020,3,24,NULL,"centralno grejanje",3,2,1,1,1
+9112,1,0,1600,Beograd,"Savski Venac",92,NULL,2020,1,5,NULL,"centralno grejanje",3,2,1,1,1
+42277,1,0,1550,Beograd,"Savski Venac",88,NULL,2020,8,24,NULL,"centralno grejanje",3,2,1,1,1
+42287,1,0,1550,Beograd,"Savski Venac",88,NULL,2020,8,22,NULL,"etazno grejanje",3,3,1,NULL,1
+19997,1,0,1500,Beograd,"Cukarica opstina",128,NULL,2020,1,3,NULL,"etazno grejanje",3.5,1,1,1,1
+9160,1,0,1350,Beograd,"Savski Venac",83,NULL,2020,23,23,NULL,"centralno grejanje",3,NULL,1,1,1
+24726,1,0,1300,Beograd,"Novi Beograd",115,NULL,2020,2,NULL,NULL,"centralno grejanje",3.5,NULL,1,1,1
+38802,1,0,1250,"Novi Sad","Gradske lokacije",210,NULL,2020,5,5,NULL,"centralno grejanje",4,3,NULL,1,1
+7905,1,0,1200,Beograd,"Novi Beograd",75,NULL,2020,5,12,NULL,NULL,3,1,NULL,NULL,NULL
+33832,1,0,1200,Beograd,"Novi Beograd",90,NULL,2020,6,7,NULL,"centralno grejanje",3,NULL,1,1,1
+51235,1,1,1200,Beograd,"Novi Beograd",70,NULL,2020,0,NULL,NULL,NULL,3,1,NULL,NULL,NULL
+16167,1,0,1000,Beograd,"Savski Venac",58,NULL,2020,0,5,NULL,NULL,2,1,1,NULL,NULL
+24853,1,0,1000,Beograd,Vracar,78,NULL,2020,2,5,NULL,NULL,3,2,NULL,NULL,NULL
+39132,1,1,1000,Beograd,"Zvezdara opstina",60,NULL,2020,0,4,1,"etazno grejanje",2.5,NULL,1,1,1
+16197,1,0,900,Beograd,"Savski Venac",58,NULL,2020,0,NULL,NULL,NULL,2,1,NULL,NULL,NULL
+16203,1,0,800,Beograd,"Savski Venac",60,NULL,2020,1,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+33807,1,0,800,Beograd,"Novi Beograd",70,NULL,2020,4,8,NULL,"centralno grejanje",3,NULL,1,1,1
+15928,1,0,750,Beograd,"Savski Venac",60,NULL,2020,14,NULL,NULL,NULL,2,1,NULL,NULL,NULL
+1305,1,0,700,Beograd,"Savski Venac",39,NULL,2020,4,7,NULL,"centralno grejanje",1,NULL,NULL,1,1
+12223,1,0,700,"Novi Sad","Gradske lokacije",96,NULL,2020,4,4,NULL,"centralno grejanje",4,2,NULL,1,1
+16801,1,0,700,Kragujevac,"Gradske lokacije",145,NULL,2020,6,7,NULL,NULL,5,2,1,1,1
+19074,1,0,700,Beograd,"Novi Beograd",60,NULL,2020,5,10,NULL,NULL,2,1,NULL,NULL,NULL
+38797,1,0,600,"Novi Sad","Gradske lokacije",96,NULL,2020,4,NULL,NULL,"centralno grejanje",4,NULL,NULL,1,NULL
+15049,1,0,500,Beograd,"Stari Grad opstina",50,NULL,2020,2,8,NULL,"centralno grejanje",2,NULL,NULL,1,NULL
+19729,1,0,500,Beograd,"Zemun opstina",70,NULL,2020,1,2,NULL,"etazno grejanje",2.5,2,1,NULL,1
+38529,1,0,500,Beograd,"Stari Grad opstina",32,NULL,2020,1,5,NULL,NULL,1.5,NULL,NULL,NULL,NULL
+25118,1,0,450,Beograd,"Stari Grad opstina",32,NULL,2020,5,8,NULL,"centralno grejanje",1,1,1,1,NULL
+12196,1,0,400,"Novi Sad","Gradske lokacije",40,NULL,2020,3,13,NULL,"centralno grejanje",1.5,1,NULL,1,1
+16652,1,0,400,Kragujevac,"Gradske lokacije",69,NULL,2020,0,NULL,NULL,NULL,2.5,NULL,1,NULL,NULL
+17239,1,0,400,"Novi Sad","Gradske lokacije",38,NULL,2020,0,2,NULL,"centralno grejanje",1.5,1,NULL,1,NULL
+19379,1,0,350,"Novi Sad","Gradske lokacije",40,NULL,2020,2,7,NULL,"grejanje na gas",1.5,NULL,NULL,1,1
+4184,1,0,300,"Novi Sad","Gradske lokacije",42,NULL,2020,2,5,NULL,"centralno grejanje",2,NULL,NULL,1,1
+4638,1,0,300,"Novi Sad","Gradske lokacije",42,NULL,2020,4,6,NULL,"centralno grejanje",2,2,NULL,1,1
+6718,1,0,300,Kragujevac,"Gradske lokacije",45,NULL,2020,1,5,NULL,NULL,1.5,1,1,1,1
+19391,1,0,300,"Novi Sad","Gradske lokacije",40,NULL,2020,5,NULL,NULL,"centralno grejanje",1.5,NULL,NULL,1,1
+27261,1,0,300,"Novi Sad","Gradske lokacije",38,NULL,2020,4,5,NULL,"grejanje na gas",1.5,1,NULL,1,1
+9603,1,0,270,"Novi Sad","Gradske lokacije",42,NULL,2020,4,NULL,NULL,"etazno grejanje",2,NULL,1,1,1
+6724,1,0,250,Kragujevac,"Gradske lokacije",48,NULL,2020,1,NULL,NULL,NULL,1.5,NULL,1,1,1
+6738,1,0,250,Kragujevac,"Gradske lokacije",47,NULL,2020,2,NULL,NULL,NULL,1.5,NULL,1,1,1
+26669,1,0,250,"Novi Sad","Gradske lokacije",36,NULL,2020,1,4,NULL,"grejanje na gas",1.5,1,NULL,1,1
+58210,1,0,250,"Novi Sad","Gradske lokacije",24,NULL,2020,1,NULL,NULL,"etazno grejanje",1,NULL,1,NULL,NULL
+31263,1,0,240,Nis,"Gradske lokacije",40,NULL,2020,3,3,NULL,"etazno grejanje",1.5,2,1,NULL,1
+9018,1,0,230,"Novi Sad","Gradske lokacije",40,NULL,2020,1,3,NULL,"etazno grejanje",2,NULL,NULL,1,1
+9137,1,0,230,Beograd,"Zemun opstina",42,NULL,2020,1,4,NULL,"etazno grejanje",2,1,NULL,NULL,1
+16850,1,0,200,Kragujevac,"Gradske lokacije",64,NULL,2020,4,NULL,NULL,NULL,3,NULL,NULL,1,1
+30342,1,0,200,Beograd,"Zvezdara opstina",60,NULL,2020,1,2,NULL,"etazno grejanje",2.5,1,1,NULL,1
+349,1,0,190,"Novi Sad","Gradske lokacije",27,NULL,2020,4,5,NULL,"centralno grejanje",0.5,1,NULL,1,1
+41435,1,0,170,Nis,"Gradske lokacije",38,NULL,2020,-1,2,NULL,"grejanje na struju",1,2,1,NULL,1
+50605,1,0,35,Zlatibor,"Gradske lokacije",40,NULL,2020,NULL,NULL,NULL,NULL,1.5,2,NULL,1,1
+53337,1,0,35,Zlatibor,"Gradske lokacije",40,NULL,2020,NULL,NULL,NULL,NULL,1.5,2,NULL,1,1
+50587,1,0,30,"Vrnjacka Banja","Gradske lokacije",28,NULL,2020,1,2,NULL,"grejanje na struju",0.5,2,1,NULL,1
+50639,1,0,30,"Vrnjacka Banja","Gradske lokacije",34,NULL,2020,2,3,NULL,"etazno grejanje",1,1,1,NULL,1
+53294,1,0,30,"Vrnjacka Banja","Gradske lokacije",28,NULL,2020,1,2,NULL,"grejanje na struju",0.5,2,1,NULL,1
+53302,1,0,30,Zlatibor,"Gradske lokacije",45,NULL,2020,100,100,NULL,"etazno grejanje",2.5,2,1,1,1
+44805,1,0,25,Sokobanja,"Gradske lokacije",32,NULL,2020,2,3,NULL,NULL,2,2,NULL,NULL,1
+52884,1,0,25,Sokobanja,"Gradske lokacije",32,NULL,2020,2,3,NULL,NULL,2,2,NULL,NULL,1
+6022,1,1,1,"Novi Sad","Gradske lokacije",73,NULL,2020,1,3,NULL,"grejanje na gas",3,NULL,NULL,1,1
+6460,0,1,1,"Novi Sad","Gradske lokacije",326,NULL,2020,NULL,NULL,NULL,"centralno grejanje",NULL,NULL,NULL,NULL,NULL
+15015,1,1,1,"Novi Sad","Gradske lokacije",112,NULL,2020,3,3,NULL,"grejanje na gas",4,NULL,NULL,1,1
+15046,1,1,1,"Novi Sad","Gradske lokacije",134,NULL,2020,3,3,NULL,"grejanje na gas",6,NULL,NULL,1,1
+37368,1,1,1,"Novi Sad","Gradske lokacije",60,NULL,2020,2,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+37410,1,1,1,"Novi Sad","Gradske lokacije",63,NULL,2020,0,4,NULL,"grejanje na gas",3,NULL,NULL,1,1
+42354,1,1,1,"Novi Sad","Gradske lokacije",97,NULL,2020,4,4,NULL,"grejanje na gas",3.5,NULL,NULL,1,1
+51534,1,1,1,"Novi Sad","Gradske lokacije",77,NULL,2020,2,4,NULL,"grejanje na gas",4,NULL,NULL,1,1

@@ -1,0 +1,1 @@
+select preciseLocation as deoBeograda, count(id) as brojNekretnina from realestatecopy where location = 'Beograd' group by preciseLocation order by brojNekretnina desc limit 10
