@@ -13,10 +13,17 @@ def plotIt(locations):
         values.append(loc['brojNekretnina'])
 
     x = np.arange(len(labels))  # the label locations
-    width = 0.35  # the width of the bars
+    width = 0.6  # the width of the bars
 
     fig, ax = plt.subplots()
     rects1 = ax.bar(x - width / 2, values, width)
+    i = 0
+    for r in rects1:
+        if i % 2 == 0:
+            r.set_color('salmon')
+        else:
+            r.set_color('indianred')
+        i += 1
 
     # Add some text for labels, title and custom x-axis tick labels, etc.
     ax.set_ylabel('Broj nekretnina')
@@ -28,7 +35,9 @@ def plotIt(locations):
 
     fig.tight_layout()
     fig.autofmt_xdate()
+    plt.savefig('NajzastupljenijiDeloviBeograda.png')
     plt.show()
+
 
 
 with open('top10DelovaBeograda.json') as json_file:

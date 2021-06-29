@@ -1,5 +1,46 @@
 import json
 
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+def plotIt(decadeOfBuilding):
+
+    labels = []
+    values = []
+    for decade in decadeOfBuilding:
+        labels.append(decade)
+        values.append(decadeOfBuilding[decade])
+
+    x = np.arange(len(labels))  # the label locations
+    width = 0.6  # the width of the bars
+
+    fig, ax = plt.subplots()
+    rects1 = ax.bar(x - width / 2, values, width)
+    i = 0
+    for r in rects1:
+        if i % 2 == 0:
+            r.set_color('salmon')
+        else:
+            r.set_color('indianred')
+        i += 1
+
+    # Add some text for labels, title and custom x-axis tick labels, etc.
+    ax.set_ylabel('Broj nekretnina')
+    ax.set_xlabel('Dekada izgradnje')
+    ax.set_title('Broj izgradjenih nekretnina po dekadama')
+    ax.set_xticks(x)
+    ax.set_xticklabels(labels)
+
+    ax.bar_label(rects1, padding=0)
+
+    fig.tight_layout()
+    fig.autofmt_xdate()
+    plt.savefig('NekretninePremaDekadiIzgradnje.png')
+    plt.show()
+
+
+
 with open('realestate.json') as json_file:
     locations = json.load(json_file)
     decadeOfBuilding = {"<1951": 0, "1951-1960": 0, "1961-1970": 0, "1971-1980": 0, "1981-1990": 0, "1991-2000": 0, "2001-2010": 0, "2011-2020": 0, ">2020": 0}
@@ -24,3 +65,4 @@ with open('realestate.json') as json_file:
             else:
                 decadeOfBuilding[">2020"] = decadeOfBuilding[">2020"] + 1
     print(decadeOfBuilding)
+    plotIt(decadeOfBuilding)
